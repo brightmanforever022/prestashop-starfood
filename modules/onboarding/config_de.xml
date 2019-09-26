@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>onboarding</name>
+	<displayName><![CDATA[Erste Schritte]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Das Modul &quot;Erste Schritte&quot; begr&uuml;&szlig;t Anf&auml;nger im Back Office Prestashops und f&uuml;hrt sie durch Animationen durch die einzelnen Schritte zur Erstellung eines eigenen Shops.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,43 @@
+.np-front-subscription {
+
+}
+ 
+.np-fs-checkbox {
+    float: left !important;
+    margin-right: 7px !important;
+    margin-top: 3px !important;
+}
+
+.np-fs-checkbox-label {
+	float: left !important;
+}
+
+.np-front-subscription div.checker span {
+	top: 0 !important;
+}
+
+.np-front-subscription .form-control-textarea {
+	display: block;
+	width: 100%;
+	padding: 3px 5px;
+	font-size: 13px;
+	line-height: 1.42857;
+	min-height: 70px;
+	color: #9c9b9b;
+	vertical-align: middle;
+	background-color: white;
+	border: 1px solid #d6d4d4;
+	-webkit-border-radius: 0px;
+	   -moz-border-radius: 0px;
+	        border-radius: 0px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	-webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+	-moz-transition: border-color ease-in-out 0.15s, -moz-box-shadow ease-in-out 0.15s;
+	  -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+	     transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	     box-shadow: none;
+}

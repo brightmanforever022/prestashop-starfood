@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[invoice 2]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon2.png]]></thumbnail>
+	<show_shipping><![CDATA[N]]></show_shipping>       <!-- Y: Yes, N: No -->
+	<show_pagination><![CDATA[N]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<show_discount><![CDATA[N]]></show_discount>       <!-- Y: Yes, N: No -->
+	<enable_landscape ><![CDATA[N]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[0]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<div style="width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 300px; text-align: center; padding-bottom: 30px;" colspan="3"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/logo.png" alt="" width="481" height="64" /></td>
+		</tr>
+		<tr>
+		<td style="text-align: right; width: 250px;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/img_left.png" alt="" width="272" height="102" /></td>
+		<td style="text-align: center; width: 252px;"><b><span style="display: block; font-size: 25px; margin-top: -27px; font-family: 'Arial',Georgia,serif; color: #d45227;">EAST REPAIR INC.</span></b><br /> <b><span style="display: block; font-size: 20px; margin-top: -15px; font-family: 'Arial',Georgia,serif; color: #d45227;">485 AMSTERDAM AVENUE</span></b><br /> <b><span style="display: block; font-size: 20px; margin-top: -19px; font-family: 'Arial',Georgia,serif; color: #d45227;">NEW YORK ,NY 1023</span></b></td>
+		<td style="text-align: left; width: 250px;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/img_right.png" alt="" width="264" height="103" /></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; ; display: block; margin: 0 auto; padding-top: 10px; padding-bottom: 50px;">
+		<tbody>
+		<tr>
+		<td style="width: 209px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #d45227;">BILL TO</span></b></td>
+		<td style="width: 300px; padding-left: 30px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #d45227;">SHIP TO</span></b></td>
+		<td style="width: 134px; text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #d45227;">INVOICE #</span></b></td>
+		<td style="width: 114px; text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: gray;">00234</span></td>
+		</tr>
+		<tr>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">Join Swith</span></td>
+		<td style="padding-left: 30px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">Join Swith</span></td>
+		<td style="text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #d45227;">INVOI DATE</span></b></td>
+		<td style="text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: gray;">20/10/2015</span></td>
+		</tr>
+		<tr>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">2 Count Square</span></td>
+		<td style="padding-left: 30px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">684 Leakington Avenue</span></td>
+		<td style="text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #d45227;">P.O.#</span></b></td>
+		<td style="text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: gray;">17422015</span></td>
+		</tr>
+		<tr>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">Long Inland City</span></td>
+		<td style="padding-left: 30px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">6th Floor</span></td>
+		<td style="text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #d45227;">DUE DATE</span></b></td>
+		<td style="text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: gray;">10/11/2015</span></td>
+		</tr>
+		<tr>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">New York, NY 1120</span></td>
+		<td style="padding-left: 30px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: gray;">New York, NY 1022</span></td>
+		<td></td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+		[products_list]
+		<table style="width: 100%; ; display: block; margin: 0 auto; margin-bottom: 40px; margin-top: 30px;" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 50px;"></td>
+		<td style="width: 400px;"></td>
+		<td style="width: 159px; font-family: 'Arial',Georgia,serif; text-align: right; padding: 7pt; color: gray;">Subtotal</td>
+		<td style="width: 250px; font-family: 'Arial',Georgia,serif; text-align: right; padding: 7pt; color: gray;">[order_subtotal]</td>
+		</tr>
+		<tr>
+		<td></td>
+		<td></td>
+		<td style="font-family: 'Arial',Georgia,serif; text-align: right; padding: 7pt; color: gray;">Sales Tax 5.0</td>
+		<td style="font-family: 'Arial',Georgia,serif; text-align: right; padding: 7pt; color: gray;">[order_tax]</td>
+		</tr>
+		<tr>
+		<td></td>
+		<td></td>
+		<td style="font-family: 'Arial',Georgia,serif; text-align: right; color: #d45227; padding: 7pt; font-size: 20px;">TOTAL</td>
+		<td style="font-family: 'Arial',Georgia,serif; text-align: right; color: #d45227; padding: 7pt; font-size: 20px;">[order_total]</td>
+		</tr>
+		</tbody>
+		</table>
+		
+		</div>
+	]]></pdf_content>
+	<pdf_footer><![CDATA[
+		<img src="http://taydotech.com/phamkhanhdong/img_invoice_template/img_bottom.png" alt="" width="891" height="24" style="margin-top: 210px;" /><br />
+		<table style="width: 100%; ; display: block; margin: 0 auto; margin-bottom: 40px; margin-top: 10px;">
+		<tbody>
+		<tr style="height: 30px;">
+		<td style="width: 454px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 17px; color: #d45227;">TERMS & CONDITIONS</span></b></td>
+		<td style="text-align: right; width: 454px;" rowspan="4">
+		<h1 style="font-family: 'Arial',Georgia,serif; display: block; color: #d45227; margin-bottom: 0px; margin-top: -68px; font-size: 44px; margin-right: 28px;"><b>Thank You</b></h1>
+		</td>
+		</tr>
+		<tr style="height: 30px;">
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 14px; color: gray;">Payment is due within 15 days</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 20px; font-size: 14px; color: gray;">Ctbank NA</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 14px; color: gray;">Account number: 2345678</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 14px; color: gray;">Routing: 23412</span></td>
+		</tr>
+		</tbody>
+		</table>
+	]]></pdf_footer>
+	<customize_css><![CDATA[
+		.content_QTY,.produc_name,.product_price_without_old_price,.product_total{padding: 7pt;font-family: 'Arial',Georgia,serif;color: gray;}
+		.content_QTY,.product_list_title_1{width: 50px;text-align:left;font-family: 'Arial',Georgia,serif;}
+		.product_name{width: 400px;font-family: 'Arial',Georgia,serif;color:gray;}
+		.product_price_without_old_price,.product_list_title_3{width: 159px;text-align:right;font-family: 'Arial',Georgia,serif;}
+		.product_total,.product_list_title_4{width: 250px;text-align:right;font-family: 'Arial',Georgia,serif;}
+		.product_img{width:50px;height:50px;}
+	]]></customize_css>
+	<products_template columns_size="4">
+		<col>
+			<col_title><![CDATA[QTY]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[D45227]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[DESCRIPTION]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[D45227]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[UNIT PRICE]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[D45227]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[AMOUNT]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[D45227]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

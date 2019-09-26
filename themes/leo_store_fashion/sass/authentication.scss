@@ -1,0 +1,39 @@
+@import "compass";
+@import "theme_variables";
+/**********************************************************
+				Authentication Styles
+**********************************************************/
+#account-creation_form .id_state,
+#account-creation_form .dni,
+#account-creation_form .postcode {
+	display: none;
+}
+
+#create-account_form {
+	p {
+		margin-bottom: 8px;
+	} 
+}
+
+#login_form {
+	
+	.form-group { 
+		&.lost_password {
+			margin: 14px 0 15px 0;
+			a {
+				text-decoration: underline;
+				&:hover {
+					text-decoration: none;
+				}	
+			}
+		}
+	}
+}
+#login_form, #create-account_form {
+	border:$main_border;
+	min-height: 350px;
+	padding:20px;
+	.form-control {
+		max-width: 271px;	
+	}
+}

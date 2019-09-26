@@ -1,0 +1,139 @@
+@import "vars/block.vars";
+
+// block.scss
+.#{$block-selector} { 
+    margin: 0 0 30px;
+    .page-subheading{
+        padding: 15px 30px;
+        background: $white;
+        margin: 0 0 30px 0;
+        font-size: 36px;
+        font-family: $font-family-for;
+        font-weight: 700;
+        position:relative;
+        .title{
+            position:relative;
+            z-index: 9;
+            background-color: $white;
+            padding: 0px 25px;
+        }
+        a{
+            color: $block-heading-color;
+        }
+    }
+    .block_content{
+        &:hover{
+            .carousel-control, .owl-theme .owl-controls .owl-buttons div{
+                @include opacity(1);
+            }
+        }
+    }
+}
+#center_column{
+    .#{$block-selector} { 
+        .page-subheading{
+            text-align: center;
+        }
+        .line{
+            height: 7px;
+            display: block;
+            background-color:#eaeaea;
+            position: absolute;
+            top: 50%; width:100%;
+            left: 0;
+        }
+    }
+}
+// block in sidebar - left column, right column
+.sidebar{
+    .#{$block-selector} {
+        margin-bottom: $block-margin-bottom;   
+        .#{$block-heading-selector}{
+            color: $block-heading-color;
+            a{
+                color: $block-heading-color;
+            }
+            position: relative;                                                             
+            text-transform: $block-heading-transform;
+            font-family: $block-heading-font-family;    
+            padding: $block-heading-padding;         
+            font-size: $block-heading-font-size;
+            letter-spacing: $block-heading-letter-spacing;   
+            background:$block-heading-bg;  
+            font-weight: 700;
+            @include rounded-corners ($block-heading-radius);
+            margin: 0; 
+            &:before {
+                position: absolute; 
+                content: ""; 
+                @include rtl-margin-right(5px);
+                width: 30px;
+                height: 2px;
+                background-color: #ddd;
+                top: 0;
+                @include rtl-left(0);
+            } 
+            
+        }
+        .#{$block-content-selector} {        
+            @include rounded-corners ($block-content-radius);
+            @include clearfix();     
+            border: $block-content-border;  
+            background: $block-content-bg;          
+        }
+        .lnk {
+            margin-top: 10px;
+        }
+        .bullet{
+            li{
+                @include rtl-padding(6px, 0, 6px, 10px);
+            }
+        }
+        .product-block {
+            .name {width: 100%;}
+            .content_price  {position: inherit; font-size:13px;}
+            .price, .price-old, .old-price {position: inherit;}
+        }
+    }
+
+    // block-variant($border, $heading-text-color, $heading-bg-color, $heading-border)
+    // Contextual variations
+    .#{$block-prefix}-default {
+      @include block-variant($panel-default-border, $panel-default-text, $panel-default-border);
+    }
+    .#{$block-prefix}-primary {
+      @include block-variant($panel-primary-border, $panel-primary-text, $panel-primary-border);
+    }
+    .#{$block-prefix}-success {
+      @include block-variant($panel-success-border, $panel-success-text, $panel-success-border);
+    }
+    .#{$block-prefix}-info {
+      @include block-variant($panel-info-border, $panel-info-text, $panel-info-border);
+    }
+    .#{$block-prefix}-warning {
+      @include block-variant($panel-warning-border, $panel-warning-text, $panel-warning-border);
+    }
+    .#{$block-prefix}-danger {
+      @include block-variant($panel-danger-border, $panel-danger-text, $panel-danger-border);
+    }
+    .#{$block-prefix}-highlighted {
+         .title_block:before{
+            width: 100%;
+         }
+    }
+    .layered_filter{
+        border: none;
+    }
+    .product-block{
+        .product-content{
+            @include rtl-text-align-left;
+            .name{
+                text-transform: none;
+            }
+        }
+    }
+}
+
+// block in header
+// block in footer
+// block in main

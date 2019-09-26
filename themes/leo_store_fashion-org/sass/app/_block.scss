@@ -1,0 +1,254 @@
+ 
+/* block */
+.#{$block-selector} {
+    margin-bottom: $block-module-margin-bottom;   
+    .#{$block-heading-selector}{
+        position: relative;                                                             
+        text-transform: $block-module-heading-transform;
+        font-family: $block-module-heading-font-family;    
+        padding: $block-module-heading-padding;         
+        font-size: $block-module-heading-font-size;
+        border-top: $block-module-heading-border;
+        border-bottom: $block-module-heading-border;  
+        margin: 0 0 $grid-gutter-width;  
+        color: $block-module-heading-color;
+        &:before {
+            height: 3px;
+            width: 35px;
+            background-color: $theme-color-default;
+            bottom: 0;
+            @include rtl-left(0);
+            content: "";
+            position: absolute;
+        }  
+        &:after{
+            background-color: $border-color;
+            height: 1px;
+            width: 100%;
+            top: 2px;
+            left: 0;
+            content: "";
+            position: absolute;
+        }
+        a{
+            color: $block-module-heading-color;
+        }  
+    }
+    .#{$block-content-selector} {        
+        padding: 0;
+        @include clearfix();     
+        background: $block-module-content-bg;             
+    }
+    /* block styles */  
+
+    .lnk{
+        padding: $panel-body-padding 0;
+    }
+}
+.nopadding{
+    .#{$block-content-selector}{
+        padding: 0!important;
+        margin: 0!important;
+    }
+}
+
+
+// Contextual variations
+.#{$block-prefix}-default {
+  @include block-variant($panel-default-border, $panel-default-text, $panel-default-heading-bg, $panel-default-border);
+}
+.#{$block-prefix}-primary {
+  @include block-variant($panel-primary-border, $panel-primary-text, $panel-primary-heading-bg, $panel-primary-border);
+}
+.#{$block-prefix}-success {
+  @include block-variant($panel-success-border, $panel-success-text, $panel-success-heading-bg, $panel-success-border);
+}
+.#{$block-prefix}-info {
+  @include block-variant($panel-info-border, $panel-info-text, $panel-info-heading-bg, $panel-info-border);
+}
+.#{$block-prefix}-warning {
+  @include block-variant($panel-warning-border, $panel-warning-text, $panel-warning-heading-bg, $panel-warning-border);
+}
+.#{$block-prefix}-danger {
+  @include block-variant($panel-danger-border, $panel-danger-text, $panel-danger-heading-bg, $panel-danger-border);
+}
+
+// block-variant($border, $heading-text-color, $heading-bg-color, $heading-border)
+.#{$block-prefix}-highlighted {
+    @include block-variant($block-module-highlighted-border, $white, $block-module-highlighted-bg, $block-module-highlighted-border);
+    .#{$block-heading-selector}{
+        font-size: $font-size-base + 1;
+        @include rtl-padding(15px, 10px, 15px, 30px);
+        margin-bottom: 0;
+        &:after,
+        &:before{
+            display: none;
+        }
+    }
+}
+
+.#{$block-content-selector}{
+    position: relative; 
+    .carousel-control{
+        left: auto;
+        bottom: auto;
+        z-index: 10;
+        top: -55px;
+        background: $white;
+        color: $base-text-color;
+        @include border-radius(100%);
+        border: 1px solid #b6b6b6;
+        height: 16px;
+        line-height: 13px;
+        &:hover{
+            background: $theme-color-default;
+            color: $white;
+        }
+    }
+    .carousel-control.left{
+        @include rtl-right(40px);
+    }
+    .carousel-control.right{
+        @include rtl-right(10px);
+    }
+   
+}
+
+/* block inline style */
+.#{$block-prefix}-inline{
+    .icon{
+        font-size: 35px;
+    }
+    .explain{
+        font-size: 11px;
+    }
+    .#{$block-content-selector}{
+        color: $white;
+        position: relative;                                                             
+        text-transform: $block-module-heading-transform;
+        font-family: $block-module-heading-font-family;    
+             
+        font-size: $block-module-heading-font-size;
+    }  
+    .input-group{
+        width: 98%;
+    }   
+}
+ 
+.sidebar {
+    .#{$app-brand-prefix}-custom {
+       border:none;
+       .#{$block-prefix}-heading {
+            border:none;
+            background:none;
+            color:$block-module-footer-heading-color;
+        }
+        .#{$block-prefix}-content{
+            border: none;
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+    li{
+        margin: 0;
+        &:first-child{
+            .product-block{
+                border-top: none;
+                padding-top: 0;
+            }
+        } 
+    } 
+    .product-block{
+        border-width: 1px 0 0 0;
+        border-style: solid none none none;
+        border-color: $product-border-color;
+        padding: 15px 0px;
+        margin: 0;
+        .price{
+            color: #ee4848;
+        }        
+    }
+    .#{$block-selector} {
+        .#{$block-heading-selector}{
+
+        }  
+    }  
+}
+#header{
+    .#{$block-selector}{
+        margin-bottom: 0;
+    }
+    .#{$block-content-selector} {
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        background: transparent;
+    }    
+}
+
+
+/* block style in main content */
+#content{
+    .#{$app-brand-prefix}-custom {
+        .#{$block-content-selector} {
+            border:none;
+            background:none;
+            color:$block-module-footer-heading-color;
+        }
+        .#{$block-content-selector}{
+            border:none;
+        }
+    }     
+    .#{$block-content-selector}{
+        padding:0;
+        margin: 0;
+    }
+   
+}
+/* block style in footer */
+.footer-container{
+    .#{$block-prefix} {
+        margin-bottom: 0;
+        border: none;
+        .#{$block-heading-selector}{
+            border: none;
+            color: $block-module-footer-heading-color;
+            font-size: $footer-heading-font-size;
+            @include rtl-padding-right(20px);
+            &:after{
+                display: none;
+            }
+            a{
+                color: $block-module-footer-heading-color;
+            }
+        }
+        .#{$block-content-selector}{
+            border: none;
+            padding: 0;
+            background: none;
+        }
+    }
+}
+
+.footer-top {
+     .#{$block-content-selector}, a {
+       
+    }
+}
+
+.footer-center{
+    .#{$block-prefix} {
+        .#{$block-heading-selector}{
+            @include rtl-float-left();
+            @include rtl-padding(0, 20px, 0, 0);
+            margin: 0;
+            color: $footer-center-heading-color;
+            &:before{
+                display: none;
+            }
+        }
+        .#{$block-content-selector}{
+            @include rtl-float-left();
+        }
+    }
+}

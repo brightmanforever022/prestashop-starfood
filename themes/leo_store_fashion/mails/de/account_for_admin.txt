@@ -1,0 +1,11 @@
+[{shop_url}]
+
+Hi!
+
+A new customer just signed up for an account at {shop_name}.
+
+Here are the details:
+
+E-MAIL ADDRESS: {email}
+
+NAME: {firstname} {lastname}

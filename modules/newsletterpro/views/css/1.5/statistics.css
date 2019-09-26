@@ -1,0 +1,41 @@
+.statistics-table th.top {
+	width: 3.4019695613249776186213070725157%;
+	text-align: center !important;
+}
+
+.statistics-table th.clicks {
+	text-align: center !important;
+	width: 6.9829901521933751119068934646374%;
+}
+
+.statistics-table th.image {
+	width: 5.1924798567591763652641002685765%;
+	text-align: center !important;
+}
+
+.statistics-table th.name {
+
+}
+
+.statistics-table th.price_display {
+	width: 11.906893464637421665174574753805%;
+}
+
+.statistics-table td.top {
+	text-align: center;
+}
+
+.statistics-table td.clicks {
+	text-align: center;
+	font-weight: bold;
+	color: #49B2FF;
+
+}
+
+.statistics-table td.image {
+	text-align: center;
+}
+
+.statistics-table td.price_display {
+	font-weight: bold;
+}

@@ -1,0 +1,56 @@
+{
+	"demo_product_default_templates": [
+		"conditional_statement.html",
+		"default.html",
+		"dynamic_full_sample_2.html",
+		"dynamic_price_sample_2.html",
+		"dynamic_sample_2.html",
+		"one_item_on_row.html",
+		"red_black.html",
+		"responsive_template_0001_layout_1_products.html",
+		"responsive_template_0001_layout_2_products.html",
+		"responsive_template_0001_layout_3_products_green.html",
+		"responsive_template_0001_layout_3_products.html",
+		"responsive_template_0002_layout_1_products.html",
+		"responsive_template_0002_layout_2_products.html",
+		"responsive_template_0002_layout_3_products.html",
+		"responsive_template_0002_layout_3_products_red.html",
+		"responsive_template_0003_layout_1_products.html",
+		"responsive_template_0003_layout_2_products.html",
+		"responsive_template_0003_layout_3_products_blue.html",
+		"responsive_template_0003_layout_3_products.html",
+		"responsive_template_0004_layout_3_products_black.html",
+		"responsive_template_0004_layout_3_products.html",
+		"responsive_template_1.html",
+		"sample_1.html",
+		"sample_2.html",
+		"sample_3.html",
+		"sample.html",
+		"sample_one_item_per_row.html",
+		"test_1234.html",
+		"zouhir.html"
+	],
+
+	"demo_newsletter_default_templates": [
+		"custom_template",
+		"default",
+		"red_black",
+		"responsive_template_0001",
+		"responsive_template_0002",
+		"responsive_template_0003",
+		"responsive_template_0004",
+		"responsive_template_1",
+		"sample",
+		"sample_1",
+		"sample_width100%",
+		"sample_width_auto",
+		"test_123",
+		"zouhir"
+	],
+
+	"demo_freeze_smtp_name": "Default SMTP",
+
+	"demo_override_templates": "1",
+
+	"demo_override_time": "86400"
+}

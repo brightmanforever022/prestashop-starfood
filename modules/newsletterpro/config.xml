@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>newsletterpro</name>
+	<displayName><![CDATA[Newsletter Pro]]></displayName>
+	<version><![CDATA[4.5.2]]></version>
+	<description><![CDATA[Advertise selected products from your store via newsletter.]]></description>
+	<author><![CDATA[ProQuality]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this module? All data will be lost. If you desire you can create a backup from the module &quot;Settings&quot; tab.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

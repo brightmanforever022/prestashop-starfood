@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exportscript>
+<config>
+<mapping><![CDATA[LeGuide.map.xml]]></mapping><categoriessel><![CDATA[all_enabled]]></categoriessel><exportfilename><![CDATA[export-leguide.csv]]></exportfilename><exportdisabledproducts><![CDATA[]]></exportdisabledproducts><exportcombinations><![CDATA[1]]></exportcombinations><exportoutofstock><![CDATA[]]></exportoutofstock><exportbydefaultcategory><![CDATA[]]></exportbydefaultcategory><shippingfee><![CDATA[0]]></shippingfee><shippingfeefreefrom><![CDATA[]]></shippingfeefreefrom><fieldsep><![CDATA[tab]]></fieldsep><valuesep><![CDATA[,]]></valuesep><enclosedby><![CDATA[]]></enclosedby><iso><![CDATA[0]]></iso><firstlinecontent><![CDATA[categorie	identifiant_unique	titre	description	prix	url_produit	url_image	frais_de_livraison	disponibilite	delais_de_livraison	garantie	reference_modele	D3E	marque	ean	prix_barre	type_promotion	devise	occasion	URL_mobile]]></firstlinecontent><lastexportdate><![CDATA[2011-03-23 15:56:00]]></lastexportdate></config>
+</exportscript>

@@ -1,0 +1,12 @@
+02.04.2012
+*  dmc_create_attribute.php													
+*  inkludiert von /functions/products/dmc_map_attributes.php 				
+*  Attribute automatisch anlegen und Sets zuweisen	
+05.04.2012
+*  Performanceoptimierungen Anlage simple Products durch Verwendung der Import API Funktionalitäten												
+06.04.2012
+*  dmc_create_superattribute.php													
+*  inkludiert von /functions/products/dmc_map_super_attributes.php 				
+*  Super-Attribute automatisch anlegen												
+06.04.2012
+* Unterstuetzung von uebergenener Attribute Set ID und Name

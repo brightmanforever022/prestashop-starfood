@@ -1,0 +1,190 @@
+/**
+ * BASE CSS STYLES
+ */
+html {
+    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
+}
+body {
+  background-color: $body-bg;
+  color: $text-color;
+  font-size: $font-size-base;
+  margin: 0px;
+  padding: 0px;        
+  // overflow-x:hidden;
+
+}
+
+ul{
+    margin: 0;
+    padding:0;
+    li{
+        list-style: none
+    }
+}
+
+a{
+    color: $base-text-color;
+    &:hover,
+    &:focus {
+        color: $link-hover-color;
+    }
+    &:focus{
+        outline: none;
+    }
+}
+.unvisible{
+    display: none;
+}
+///******
+.bullet {
+    li {
+           padding: 6px 0;
+           position: relative;
+          a {
+            @include rtl-padding-left($block-module-padding);
+            font-size: $font-size-base + 1;
+            &:before {
+                  display: block;
+                  content: "\f0c8";
+                  font-family: $font-icon;
+                  font-size:  $footer-icon-font-size;
+                  position: absolute;
+                  @include rtl-left(0);
+                  top: 12px;
+            }
+            
+          }
+    }
+}
+/* links style */
+ul{
+    &.links {    
+        margin: 0;
+        padding: 0;    
+        li{
+            display: inline;        
+            line-height: normal;     
+            a{
+                margin:0 $padding-base-vertical;      
+            } 
+            .fa,.icon{
+                @include rtl-margin-right(10px);
+            }       
+        }               
+    }
+    &.list{
+        li{
+            list-style: none;
+           padding: 6px 0;
+        }    
+    }
+    &.my-account{
+        li{
+            padding:6px 0;
+            list-style: disc;
+            margin-left: 14px;
+        }
+    }
+    &.inline{
+        li {
+             float: left
+        }
+    }
+}
+
+.tree-menu {
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            font-size: 12px;
+        }
+        > ul > li {
+            @include size(100%,auto);
+            position: relative;
+            .caret,.head a{ 
+                position: absolute;
+                right: 18px;
+                top: 13px;
+                background-color:$brand-primary;
+                color:#FFF;
+                padding:0 6px;
+                margin-right: -20px;
+                @include rounded-corners(10%);                                  
+            }
+            &:last-child a{
+                border:none;
+            }  
+        + li {
+             
+        }
+        > a {
+            display: block;
+            color: $vertical-menu-color;
+            font-size: $vertical-menu-font-size;                
+            padding: 10px 0;
+            border-bottom: 1px solid #e0e0e0;   
+            &:hover,&:focus{                    
+               
+            }
+           
+        }
+
+        ul {
+            display: none;
+        }
+            a.active {
+                font-weight: bold;
+                color: #E02673;
+            + ul {
+                display: block;
+                padding: 0 0 10px 10px;
+            }
+        }
+        ul > li {
+            @include rtl-padding-left(30px);
+            > a {
+                    text-decoration: none;
+                    display: block;
+                    padding: 8px 0;
+                    color: $megamenu-sub-link-color;  
+                &.active {
+                    font-weight: bold;
+                    color:$megamenu-sub-link-hover-color;  
+                }
+            }
+        }
+    }
+}
+
+.panel-line{
+    @include clearfix();
+    .plabel{
+        width: 150px;
+        float: left;
+        font-weight: normal;
+        label{
+            font-weight: normal
+        }
+    }
+    .pcontent{
+        width:70%;
+        float: left;
+    }
+}
+.hasline{
+    border-bottom:solid 1px $border-color;
+    margin: 10px 0;
+}
+
+.nav-pills{
+    border-bottom: 1px solid $base-border-color;
+    > li {
+        @include rtl-float-left();
+    }
+}
+.unvisible {
+    display: none;
+}

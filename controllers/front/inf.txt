@@ -1,0 +1,149 @@
+557;Mehrlagiges Abendkleid mit Schal in Lila;VIP-0001_purple;2037
+558;Stilvolles Abendkleid mit Schal aus grünem Satin;VIP-0001_green;2038
+559;Langes Taftabendkleid in Grau mit Strassbesatz;VIP-0002_grey;2039
+560;Elegantes Abendkleid aus blauem Taft;VIP-0002_blue;2040
+561;Luxuriös erscheinendes Satin-Ballkleid in Rot;VIP-0003_red;2041
+562;Satin Petticoat-Ballkleid im Lagenlook in Lila;VIP-0003_purple;2042
+563;Mehrlagiges Vokuhila Chiffonkleid mit Rückenschleppe in Beige;VIP-0004_beige;2043
+564;Vokuhila Abendkleid in Rosa mit raffinierter Rückenschleppe;VIP-0004_pink;2044
+565;Apart wirkendes Chiffon-Abendkleid in Grün;VIP-0005_green;2045
+566;Chiffonkleid in Apricot mit Strasssteinen;VIP-0005_peach;2046
+567;Langes Chiffonkleid in Rot mit Strasssteinen;VIP-0006_red;2047
+568;Leuchtendes Abendkleid in gelbem Chiffon;VIP-0006_yellow;2048
+569;Chiffon Ballkleid in Blau mit Blumenapplikationen;VIP-0007_blue;2049
+570;Blütenreiches Chiffon-Ballkleid in Apricot;VIP-0007_peach;2050
+571;Lila Vokuhila Kleid im umwerfenden Lagenlook;VIP-0008_purple;2051
+572;Rosa Ballkleid im Vokuhila-Schnitt und Lagenlook;VIP-0008_pink;2052
+573;Festliches Chiffon Ballkleid in Schwarz;VIP-0009_black;2053
+574;Chiffon-Ballkleid im außergewöhnlichen Blau;VIP-0009_blue;2054
+575;Ballkleid in Lila mit Taft und Tüll;VIP-0010_purple;2055
+576;Rotes Ballkleid aus Taft und Tüll mit Schweifrock;VIP-0010_red;2056
+577;Langes Ballkleid aus Chiffon in Rot mit Strasssteinen;VIP-0011_red;2057
+637;Chiffonkleid in Blau mit Strasssteinen;VIP-0005_blue;2125
+638;Stilvolles Chiffon Ballkleid in Schwarz mit Blumenapplikationen;VIP-0007_black;2126
+639;Trägerloses Vokuhila Kleid in Blau;VIP-0008_blue;2127
+640;Vokuhila Kleid vorne kurz, hinten lang in Grün;VIP-0008_green;2128
+741;Asymmetrisches Cocktailkleid aus Chiffon in Schwarz;02005-black;2247
+742;Außergewöhnliches Chiffon-Cocktailkleid in Dunkelgrün;02005-dark-green;2248
+743;Cocktailkleid in Pink mit asymmetrischem Schnitt;02005-light-pink;2249
+744;Elegantes Satin-Cocktailkleid in Bordeaux mit aufwendiger Raffung;P4000-burgundy;2250
+745;Edles Satin-Cocktailkleid mit aufwendigen Ballonfalten in Dunkelblau;P4000-dark-blue;2251
+746;Luxuriöses Cocktailkleid aus Satin in Gold;P4000-gold;2252
+749;Trägerloses Satin-Cocktailkleid mit Rüschenrock in Schwarz;P4311-black;2255
+750;Schulterfreies Cocktailkleid mit aufwendigem Rock in Pink;P4311-dark-pink;2256
+759;Stola aus Chiffon / Schal für Abendkleider in vielen Farben;Stolen;2265
+761;Abendkleid aus Jersey in Rosa mit Perlen;VIP-0029_pink;2267
+762;Abendkleid in Dunkelblau aus Tüll mit Spitze;VIP-0033_blue;2271
+763;Blaues Cocktailkleid aus Chiffon mit gerafftem Oberteil;VIP-0014_blue;2272
+764;Tüll-Cocktailkleid mit Spitze in Creme;VIP-0015_gold;2273
+765;Chiffon-Cocktailkleid in Grau mit Strass;VIP-0016_grey;2274
+766;Chiffonkleid in Jade mit stilvollem Wellenlook;VIP-0017_green;2275
+767;Grünes Cocktailkleid mit Raffung aus Chiffon;VIP-0012_green;2276
+768;Langes Chiffon-Abendkleid in Bordeaux;VIP-0027_red;2277
+769;Abendkleid in weißem Jersey mit floralem Dekor;VIP-0028_white;2278
+770;Abendkleid im Empire-Stil in Grün;VIP-0027_green;2279
+771;Abendkleid aus schwarzem Jersey mit Golddekor;VIP-0028_black;2280
+772;Blaues Mini-Cocktailkleid mit Strass-Bustier;VIP-0020_blue;2281
+773;Abendkleid in Nude Chiffon mit Wasserfallträgern;VIP-0030_pink;2282
+774;Schulterfreies Abendkleid aus Chiffon in Rosa;VIP-0031_pink;2283
+775;Abendkleid aus Chiffon in Türkis mit Strassbesatz;VIP-0031_green;2284
+776;Chiffon Abendkleid in Grau mit Spitzen;VIP-0026_grey;2285
+777;Abendkleid aus dunkelblauem Chiffon mit Strass-Neckholder;VIP-0024_blue;2286
+778;Abendkleid in Altrosa im Vokuhila-Look;VIP-0023_pink;2287
+779;Dunkelblaues Abendkleid aus Chiffon mit Stickerei;VIP-0022_blue;2288
+780;Chiffon-Cocktailkleid in Bordeaux rot mit asymmetrischer Linie;VIP-0019_red;2289
+781;Asymmetrisches Cocktailkleid in Apricot;VIP-0019_apricot;2290
+782;Schulterfreies Abendkleid in Lila;VIP-0021_purple;2291
+783;Tüll-Cocktailkleid in Beige mit Spitze und Strass;VIP-0018_gold;2292
+784;Abendkleid mit Paillettenzier in Weiß;VIP-0042_white;2293
+785;Abendkleid in Beige aus Tüll und Satin;VIP-0041_gold;2294
+786;Abendkleid mit breiten Trägern in dunkelblauem Chiffon;VIP-0040_blue;2295
+788;Abendkleid in Schwarz mit Paillettenstickerei;VIP-0042_black;2297
+789;Galakleid in Rosa aus Chiffon;VIP-0043_pink;2298
+790;Chiffon-Abendkleid in Grün mit Strass und langen Armen;VIP-0044_green;2299
+791;Abendkleid aus Chiffon in Dunkelblau mit langen Ärmeln;VIP-0044_blue;2300
+792;Dunkelblaues Abendkleid aus Jersey mit floraler Stickerei;VIP-0039_blue;2302
+793;Abendkleid in Grau aus Chiffon;VIP-0038_grey;2303
+794;Dunkelblaues Abendkleid aus Chiffon;VIP-0038_blue;2304
+795;Schulterfreies Chiffon-Abendkleid in Altrosa;VIP-0038_pink;2305
+796;Abendkleid aus rotem Chiffon;VIP-0038_red;2306
+797;Stylisches Abendkleid aus Jersey in Grün;VIP-0037_green;2307
+798;Langes Abendkleid in Schwarz aus Jersey;VIP-0037_black;2308
+799;Chiffon-Abendkleid in Beige;VIP-0036_gold;2309
+800;Abendkleid mit Spitze in Beige;VIP-0035_brown;2310
+801;Modisches Abendkleid aus Chiffon in Lila;VIP-0034_purple;2311
+802;Apartes Chiffon-Abendkleid in Hellblau;VIP-0034_blue;2312
+803;Edles Abendkleid in Grün aus Chiffon;VIP-0034_green;2313
+804;Edles Abendkleid aus Chiffon in Grün;VIP-0036_green;2314
+805;Abendkleid in Beige mit Spitze und floralem Muster;VIP-0049_yellow;2315
+806;Abendkleid in grauem Chiffon mit Spitzenbesatz;VIP-0045_grey;2316
+807;Abendkleid aus dunkelblauer Spitze;VIP-0049_blue;2317
+808;Chiffon-Abendkleid in Lila mit ornamentaler Stickerei;VIP-0048_purple;2318
+809;Gala-Abendkleid in Altrosa mit Spitze;VIP-0047_pink;2319
+810;Abendkleid mit Spitze in Grau für den Gala-Abend;VIP-0047_grey;2320
+811;Abendkleid aus Chiffon in Champagner mit Spitze und Pailletten;VIP-0046_champagne;2321
+812;Abendkleid in dunkelblauem Chiffon mit Pailletten und Spitze;VIP-0046_blue;2322
+813;Abendkleid in Altrosa Chiffon mit handgefertigter Stickerei;VIP-0048_pink;2323
+814;Abendkleid aus Tüll in Champagner mit schillerndem Strass;VIP-0055_grey;2325
+815;Abendkleid aus Chiffon in Mintgrün mit Vokuhila-Rock;VIP-0056_green;2326
+816;Chiffon-Cocktailkleid in Dunkelblau mit Glitzerdekor;VIP-0050_blue;2330
+817;Chiffon-Abendkleid in Altrosa im Vokuhila-Style;VIP-0056_champagne;2331
+818;Apartes Cocktaildress aus grünem Chiffon;VIP-0013_green;2332
+819;Abendkleid aus Jersey in Blau mit floralem Dekor;VIP-0054_blue;2333
+820;Jersey-Abendkleid in Grün mit floralen Verzierungen;VIP-0054_green;2334
+821;Abendkleid aus Jersey im Trendfarbton Wassermelone;VIP-0054_red;2335
+822;Schwarzes Abendkleid aus Jersey mit floralen Goldornamenten;VIP-0053_black;2336
+823;Taupe Abendkleid aus Chiffon mit ornamentalem Dekor;VIP-0052_taupe;2337
+824;Abendkleid aus Chiffon in Beige mit Ornamenten;VIP-0052_gold;2338
+825;Cocktailkleid in Graublau aus Chiffon mit Blumenspitze;VIP-0051_greyblue;2339
+826;Cocktailkleid in Taupe aus Chiffon mit Pailletten;VIP-0050_taupe;2340
+827;Abendkleid in Beige aus Jersey mit floralen Goldelementen;VIP-0053_beige;2341
+828;Langes Abendkleid aus Altrosa Chiffon;VIP-0025_pink;2342
+829;Schulterfreies Abendkleid mit Strass in Altrosa;VIP-0032_pink;2343
+830;Abendkleid aus Chiffon in Türkis;VIP-0043_green;2344
+831;Cocktailkleid aus Chiffon in Rosa mit Blütenspitzen;VIP-0051_pink;2345
+832;Bandagekleid in Schwarz;VIP-5014_black;2346
+833;Bandagekleid in schillerndem Grün;VIP-5014_green;2347
+834;Rotes Cocktailkleid im Bandagestyle;VIP-5014_red;2348
+835;Cocktailkleid in Blau im Bandage-Look;VIP-5014_blue;2349
+836;Bandagekleid in edlem Gold;VIP-5014_gold;2350
+837;Silbernes Bandagekleid mit stylischen Querstreifen;VIP-5014_silver;2351
+838;Bandagekleid in Grau mit Pailletten;VIP-5015_grey;2352
+839;Bandage-Cocktailkleid in Apricot mit Paillettenzier;VIP-5015_apricot;2353
+840;Schulterfreies Bandagekleid in Champagner;VIP-5016_champagner;2354
+841;Cocktailkleid in Rot im schulterfreien Bandagestil;VIP-5016_red;2355
+842;Bodycon-Kleid in Beige mit schulterfreiem Schnitt;VIP-5016_beige;2356
+843;Lila Bandagekleid im schulterfreien Design;VIP-5016_purple;2357
+844;Blaues Bandagekleid mit dezenten Ärmeln;VIP-5017_blue;2358
+845;Bandagekleid in Beige mit eckigem Ausschnitt;VIP-5017_beige;2359
+846;Rotes Bandagekleid mit Ärmeln und Zierbandage;VIP-5017_red;2360
+847;Bandagekleid in Schwarz mit vertikaler Zierbandage;VIP-5017_black;2361
+848;Bandagekleid in Rot mit Flechtoptik;VIP-5018_red;2362
+849;Bandagekleid in Beige für Business und Freizeit;VIP-5018_beige;2363
+850;Lila Bandagekleid im Etuikleid-Stil;VIP-5018_purple;2364
+851;Schwarzes Bandagekleid im Etuikleid-Stil;VIP-5018_black;2365
+852;Bandagekleid in Beige mit Seitenausschnitt;VIP-5019_beige;2366
+853;Bandagekleid in Schwarz mit aparter Nahtführung;VIP-5019_black;2367
+854;Lila Bandagekleid mit seitlichen Ausschnitten;VIP-5019_purple;2368
+855;Bandagekleid in Rot mit stylischer Linienführung;VIP-5019_red;2369
+856;Schulterfreies Bandeau Bandagekleid in Schwarz;VIP-5020_black;2370
+857;Bandeau Bodyconkleid in Grün mit schulterfreiem Schnitt;VIP-5020_green;2371
+858;Bandeau Bandage Bodycon-Kleid in Pink;VIP-5020_pink;2372
+859;Bandeau Bandagekleid in Hellgrün;VIP-5020_light green;2373
+860;Bodyconkleid in Gold mit irrisierender Struktur;VIP-5021_gold;2374
+861;Silbernes Bodyconkleid mit schillernden Effekten;VIP-5021_silver;2375
+862;Bodyconkleid in Schwarz und Gold;VIP-5021_black and gold;2376
+863;Bandagekleid in Grün mit irisierenden Effekten;VIP-5021_green;2377
+864;Schwarzes Bodyconkleid mit dezentem Schimmer;VIP-5021_black;2378
+865;Bodyconkleid in aufregendem Rot;VIP-5021_red;2379
+867;Abendkleid in Schwarz mit breitem Paillettenband;VIP-5002_black;2381
+868;Chiffon-Abendkleid in Blau mit Paillettenband;VIP-5002_blue;2382
+869;Abendkleid aus Chiffon in Grün mit Paillettenzierde;VIP-5002_green;2383
+870;Rotes Festkleid aus apartem Chiffon;VIP-5002_red;2384
+873;Rotes Cocktailkleid im stylischen Bandeau-Look;VIP-5004_red;2387
+874;Bandeau-Kleid in Türkis aus Chiffon;VIP-5004_green;2388
+875;Lila Bandeaukleid aus Chiffon;VIP-5004_purple;2389
+889;Schwarzes One-Shoulder Abendkleid mit Pailletten;VIP-5010_black;2403
+890;One-Shoulder Abendkleid aus Chiffon in Grün;VIP-5010_green;2404
+891;One-Shoulder Abendkleid in Gelb aus Chiffon;VIP-5010_yellow;2405
+;2001

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfparams>
+<compatibility>1.0.0.0</compatibility>
+<name><![CDATA[settings]]></name>
+<title><![CDATA[My catalog]]></title>
+<filename><![CDATA[settings]]></filename>
+<legalnotice><![CDATA[<p>All content of this catalog is owned or controlled by My Company and is protected by worldwide copyright laws.</p>]]></legalnotice>
+<footer><![CDATA[<p>This catalog is provided by My Company.</p>]]></footer>
+<idlang>1</idlang>
+<firstpage>1</firstpage>
+<tocdisplay>1</tocdisplay>
+<pagenumber>1</pagenumber>
+<format><![CDATA[1x1]]></format>
+<formatname>
+	<fr><![CDATA[1 produit par page (1x1)]]></fr>
+	<en><![CDATA[1 product per page (1x1)]]></en>
+</formatname>
+<uselinks>1</uselinks>
+<usecategcover>1</usecategcover>
+<usecategheader>1</usecategheader>
+<orderby><![CDATA[price_asc]]></orderby>
+<doctitle><![CDATA[My catalog]]></doctitle>
+<docsubject><![CDATA[The subject]]></docsubject>
+<doccreator><![CDATA[My Company]]></doccreator>
+<author><![CDATA[My Company]]></author>
+<categlist><![CDATA[1]]></categlist>
+<currency>1</currency>
+<vatinc>1</vatinc>
+<exportfile>1</exportfile>
+</pdfparams>

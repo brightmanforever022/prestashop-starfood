@@ -1,0 +1,60 @@
+@import "compass";
+@import "theme_variables";
+
+
+$link-hover-color: 					#00abf0;
+
+$theme-color-default: 				#00abf0;
+
+$block-module-highlighted-bg:       #00abf0;
+$search-icon-color:                 #00abf0;
+$contact-icon-hover-bg:             #00abf0;
+$headermain-color-hover:            #00abf0; 
+$topbar-link-hover-color:           #00abf0;
+
+$breadcrumb-active-color:           #00abf0;
+
+$product-deals-link-hover-color:    #00abf0;
+$product-icon-color:                #00abf0;
+$product-icon-bg-hover-color:       #00abf0;
+$product-label-new-bg:              #00abf0;
+$product-label-special-bg:          #00abf0;
+$button-addtocart-bg-hover:         #00abf0;
+$button-addtocart-border-2:         #00abf0;
+$product-name-hover-color:          #00abf0;
+
+$megamenu-link-hover-color:         #00abf0;
+$megamenu-name-hover-color:         #00abf0;
+$megamenu-sub-link-hover-color:     #00abf0;
+
+
+$vertical-menu-link-hover-color:    #00abf0;
+$vertical-menu-link-hover:          #00abf0;
+
+$footer-top-color-hover:			#00abf0;
+$footer-center-color-hover:			#00abf0;
+$footer-bottom-color-hover:			#00abf0;
+$footer-nav-color-hover:			#00abf0;
+$power-link-color:                  #00abf0;
+
+$image-theme-base-path: "../../../img/cyan/";
+
+@import "../_skin";
+
+
+#cart{        
+    .title-cart{
+        &:before{
+            background: url("#{$image-theme-base-path}icon-shopping-cart.png") no-repeat center center $cart-icon-bg;
+        }
+    }
+}
+.bannercontainer .tp-bullets.simplebullets.round .bullet {
+	background: url("#{$image-theme-base-path}bullet.png") no-repeat top left;
+}
+.bannercontainer .tp-leftarrow.default{
+	background: url("#{$image-theme-base-path}large_left.png") no-repeat 0 0;
+}
+.bannercontainer .tp-rightarrow.default{
+	background: url("#{$image-theme-base-path}large_right.png") no-repeat 0 0;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>product_list</name>
+	<displayName><![CDATA[Product list]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Shows list of products with photo and stock]]></description>
+	<author><![CDATA[wheelronix]]></author>
+	<tab><![CDATA[merchandizing]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

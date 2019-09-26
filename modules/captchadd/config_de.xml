@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>captchadd</name>
+	<displayName><![CDATA[Captcha hinzuf&uuml;gen]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Sch&uuml;tzen Sie Ihren Shop von Spammern mit gesicherten captcha]]></description>
+	<author><![CDATA[Librasoft]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Bist du sicher, dass Sie dieses Modul zu deinstallieren und Ihre Parameter löschen möchten?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

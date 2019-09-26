@@ -1,0 +1,81 @@
+#new_product {
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 7px 14px;
+}
+
+#new_product #add_product_product_name {
+    width: 100%;
+}
+
+.editable p.customVal span {
+    display: inline;
+    padding-left: 16px;
+    background: url('../img/custom_value.png') no-repeat 0 center;
+    color: #396606;
+}
+
+.editable p.displayVal {
+    border-bottom: 1px dashed #00aff0;
+    display: inline;
+    cursor: pointer;
+}
+
+.editable p.displayVal span {
+}
+
+#discounts_wrapper {
+    width: 600px;
+}
+
+tr.unsaved {
+    background: #eee;
+}
+#ui-datepicker-div {
+    z-index: 9999 !important;
+}
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; }
+.ui-timepicker-rtl dl dd { margin: 0 65px 10px 10px; }
+
+tr.current-edit select.payment_method {
+    width: 150px;
+}
+
+.btn-group-nowrap {
+    white-space: nowrap;
+}
+
+.btn-group-nowrap .btn {
+    float: none!important;
+    display: inline-block;
+}
+
+div.orderedit_msg ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.editable p {
+    margin: 0;
+}
+.sh_weight .displayVal,
+.document_dateadd_show,
+.document_date span {
+    white-space: nowrap;
+}
+.order_currency_show {
+    line-height: 31px; 
+}
+.document_dateadd_edit input {
+    min-width: 135px;
+}

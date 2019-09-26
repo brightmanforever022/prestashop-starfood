@@ -1,0 +1,35 @@
+#newsletterpro-forward .col-sm-6.left-side {
+	padding-left: 0 !important;
+}
+
+#newsletterpro-forward .col-sm-6.right-side {
+	padding-right: 0 !important;
+}
+
+.friends-emails-list tr td.item-email {
+	padding-left: 0;
+}
+
+.friends-emails-list tr td.item-close {
+	padding-right: 0;
+}
+
+.emails-list input {
+	margin-bottom: 6px;
+}
+
+#newsletterpro-forward .form-group input {
+	max-width: 271px;
+}
+
+#newsletterpro-forward .close-email {
+	cursor: pointer !important;
+	display: inline-block;
+	float: right !important;
+}
+
+#newsletterpro-forward .icon-close {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+}

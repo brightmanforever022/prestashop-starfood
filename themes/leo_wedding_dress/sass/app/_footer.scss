@@ -1,0 +1,84 @@
+// footer.scss
+@import "vars/footer.vars";
+
+#footer {
+	line-height: 30px;
+	.bullet li {
+		@include rtl-padding-left(0);
+		a:before {
+			content: "";
+		}
+		.fa {
+			color: $theme-color-default;
+			@include rtl-margin-right(3px);
+			min-width: 14px;
+			text-align: center;
+		}
+	}
+	.title_block {
+		font-size: $font-size-base;
+    	font-family: $font-family-for;
+    	font-weight: 700;
+    	position: relative;
+    	> span.title{
+	      background: $white; 
+	      position: relative;
+	      @include rtl-padding-right(20px);
+	    }
+	}
+	.footer-nav {
+		position: relative;
+		&:before,
+		&:after {
+			position: absolute;
+			content: "";
+			background: $footer-nav-outsite-bg;
+		}
+		.container > .inner {padding: 30px 0;}
+	}
+	.footer-copyright {
+	    
+	} 
+	.#{$block-selector} { 
+   		@include box-shadow(none); 
+   	}
+   	.contacts{
+   		a{
+   			display: block;
+   		}
+   		.fa{
+   			@include rtl-margin-right (10px);
+   			font-style: normal;
+   		}
+   	}
+   	.logo-footer{
+   		padding-top: 20px;
+   	}
+   	.aboutus{
+   		em{font-style: normal;}
+   	}
+   	.list-group{
+   		li{
+			position:relative;
+			@include transition(all ease 0.5s);
+			&:before{
+				content: "";
+				position: absolute;
+				top: 50%;
+				width: 5px;
+				height: 1px;
+				background-color: #000;
+				@include rtl-left(-5px);
+				@include opacity(0);
+				@include transition(all ease 0.5s);
+			}
+			&:hover{
+				@include rtl-padding-left(10px);
+				&:before{
+					@include opacity(1);
+					@include rtl-left(0px);
+				}
+			}
+		}
+   	}
+}

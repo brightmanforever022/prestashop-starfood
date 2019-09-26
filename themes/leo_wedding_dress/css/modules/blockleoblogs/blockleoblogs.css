@@ -1,0 +1,106 @@
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+.blog-shortinfo {
+  height: 63px;
+  overflow: hidden;
+  line-height: 22px;
+}
+
+.owl-item .image,
+.blog-item .image {
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+.owl-item .image img,
+.blog-item .image img {
+  -webkit-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.owl-item .image:hover img,
+.blog-item .image:hover img {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.owl-item .content,
+.blog-item .content {
+  background: #fff;
+  text-align: center;
+}
+.owl-item .content h5,
+.blog-item .content h5 {
+  font-family: "Lato", sans-serif;
+  margin: 0px 0 15px 0;
+  line-height: 22px;
+  height: 40px;
+  overflow: hidden;
+}
+.owl-item .content h5 a,
+.blog-item .content h5 a {
+  color: #333333;
+  font-weight: 700;
+}
+.owl-item .content .blog-hits,
+.blog-item .content .blog-hits {
+  display: block;
+}
+.owl-item .blog-meta .fa,
+.blog-item .blog-meta .fa {
+  margin-right: 5px;
+}
+.rtl .owl-item .blog-meta .fa, .rtl
+.blog-item .blog-meta .fa {
+  margin-left: 5px;
+  margin-right: inherit;
+}
+
+.blockleoblogs {
+  margin-bottom: 0;
+  border-top: 1px solid #dddddd;
+  padding-top: 15px;
+}
+.blockleoblogs .blog-item .blog-created {
+  font-style: italic;
+  margin-bottom: 6px;
+}
+.blockleoblogs .blog-item .blog-ctncomment {
+  color: black;
+}
+.blockleoblogs .blog-item .blog-meta span {
+  display: inline-block;
+}
+.blockleoblogs .blog-item .blog-shortinfo {
+  margin: 15px 0;
+}
+.blockleoblogs .owl-carousel {
+  padding: 0;
+  background: none;
+}
+.blockleoblogs .owl-carousel .owl-wrapper-outer {
+  padding: 15px 0;
+  background: none;
+}
+.blockleoblogs .owl-theme .owl-controls .owl-pagination {
+  background: none;
+}
+
+#blockleoblogstabs .carousel {
+  padding: 15px 0;
+  background: none;
+}
+#blockleoblogstabs .carousel .carousel-inner {
+  background: none;
+}

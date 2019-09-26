@@ -1,0 +1,37 @@
+.product_template .product_template_head{
+	border-bottom: 1px solid #ccc;
+    margin-bottom: 6px;
+    padding-bottom: 4px;
+}
+.panel{
+	float:left;width:100%;
+}
+.panel-footer{
+	float: left;
+    width: 100%;
+    margin: 0 !important;
+}
+#show_list_token{
+	padding-top: 5px;
+    text-transform: uppercase;
+    width: 100%;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid#ccc;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+}
+#show_list_token i{font-size:18px;}
+.ba_prestashop_invoice_invoice th.center select
+,.ba_prestashop_invoice_invoice th.center input 
+,.ba_prestashop_invoice_deliveryslip th.center input 
+,.ba_prestashop_invoice_deliveryslip th.center select{margin:0 auto;}
+#ba_prestashop_invoice_invoice div.panel {
+	border-top-left-radius: 0 !important;
+}
+.image_helpperlist img{width:30px;}
+.riverroad{
+    display: block;
+    float: left;
+}

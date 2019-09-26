@@ -1,0 +1,421 @@
+
+/***/
+#social_block {
+  @include rtl-float-left();
+  .title_block{
+    padding-top: 8px;
+  }
+  ul {
+    @include rtl-float-left();
+    margin-top: 0px;
+    li {
+      @include rtl-float-left();
+      @include rtl-margin-right(10px);
+      text-align: center;
+      padding: 0;
+      &:hover{
+        @include scale(1.1);
+      }
+      a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        display: inline-block;
+        color: $light-text-color;
+        font-size: 18px;   
+        position: relative;
+        z-index: 1;
+        span {
+          display: none;
+        }
+        &:before {
+          font-family: $font-icon;
+          background-color: $red;
+          @include border-radius(2px);
+          position: absolute;
+          width: 100%;
+          content: "";
+          height: 100%; 
+          left: 0;
+          @include transition (all 0.3s ease 0s);
+        }
+        &:hover {
+          &:before {
+            
+          }
+        }
+      }
+      &.facebook {
+        a {
+          &:before {
+            content: "\f09a";
+              background-color: $brand-primary; 
+          }
+          &:hover {
+            &:before {
+            }
+          }
+        }
+      }
+      &.twitter {
+        a {
+          &:before {
+            content: "\f099";
+              background-color: $brand-info;
+          } 
+          &:hover {
+            &:before {
+            }
+          }
+        }
+      }
+      &.rss {
+        a {
+          &:before {
+            content: "\f09e";
+              background-color: $brand-danger;
+          }
+          &:hover {
+            &:before {
+            }
+          }
+        }
+      }
+      &.youtube {
+        a {
+          &:before {
+            content: "\f167";
+              background-color: $brand-primary;
+          }
+          &:hover {
+            &:before {
+            }
+          }
+        }
+      }
+      &.google-plus {
+        a {
+          &:before {
+            content: "\f0d5";
+              background-color: $brand-success;
+          }
+          &:hover {
+            &:before {
+            }
+          }
+        }
+      }
+      &.pinterest {
+        a {
+          &:before {
+            content: "\f0d2";
+              background-color: $brand-warning;
+          }
+          &:hover {
+            &:before {
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+.bottom-footer {
+  position: absolute;
+  bottom: 0;
+  @include rtl-left( 0);
+  text-align: center;
+}
+
+
+//CSS Modules
+//IMPORTANT - Internet Explorer can read 31 CSS files max. Some CSS have been put here and erased from their own module folder.
+
+//Block ADVERTISING
+.advertising_block {
+  width: 191px;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+//footer
+.blockcategories_footer ul ul {
+  display: none !important;
+}
+
+// custom-footer
+#htmlcontent_footer {
+  .htmlcontent-home {
+    border-top: $main_border;
+  }
+}
+
+//Form validate
+.form-group {
+  &.form-error {
+    input, textarea {
+      border: 1px solid #f13340;
+      color: #f13340;
+      background-image: url(#{$image-theme-path}form-error.png);
+      background-repeat: no-repeat;
+      background-color: #fff1f2;
+      @include rtl-background-position-percent(10px,98%);
+    }
+  }
+  &.form-ok {
+    input, textarea {
+      border: 1px solid #46a74e;
+      color: #35b33f;
+      background: url(#{$image-theme-path}form-ok.png);
+      background-repeat: no-repeat;
+      background-color: #ddf9e1;
+      @include rtl-background-position-percent(10px,98%);
+    }
+  }
+  &.form-error, &.form-ok {
+    .form-control {
+      @include rtl-padding-right(30px);
+    }
+  }
+}
+
+//uniform
+.radio-inline, .checkbox {
+  @include rtl-padding-left(0);
+  .checker {
+    @include rtl-float-left();
+    span {
+      top: 0px;
+    }
+  }
+  div.radio {
+    display: inline-block;
+    span {
+      @include rtl-float-left();
+      top: 0px;
+    }
+  }
+}
+
+.fancybox-skin {
+  background: $light-background !important;
+}
+
+.fancybox-skin .fancybox-close {
+  top: -8px;
+  @include rtl-right(-8px);
+  width: 28px;
+  height: 28px;
+  background: none;
+  font-size: 28px;
+  line-height: 28px;
+  color: $base-text-color;
+  text-align: center;
+  &:hover {
+    color: $link-hover-color;
+  }
+  &:after {
+    content: "\f057";
+    font-family: $font-icon;
+  }
+}
+
+//Homepage pre-footer
+
+#cmsinfo_block {
+  em {
+    @include rtl-float-left();
+    width: 60px;
+    height: 60px;
+    margin: 3px 10px 0 0;
+    font-size: 30px;
+    color: #fff;
+    line-height: 60px;
+    text-align: center;
+    background: lighten($base-heading-color, 10%);
+    @include border-radius(100px);
+    // max 991px
+    @media (max-width: $screen-sm-max) {
+      width: 30px;
+      height: 30px;
+      line-height: 30px;
+      font-size: 20px;
+    }
+  }
+  .type-text {
+    overflow: hidden;
+  }
+  .cmsinfo_content {
+    @include rtl-float-left();
+    width: 100%;
+  }
+  h3 {
+    margin: 0 ;
+  }
+  ul {
+    li {
+      padding-bottom: 22px;
+      // max 1199px
+      @media (max-width: $screen-md-max) {
+        padding-bottom: 10px;
+      }
+      // max 991px
+      @media (max-width: $screen-sm-max) {
+        padding-bottom: 0;
+      }
+    }
+  }
+  p {
+  em {
+    background: none;
+    @include border-radius(0);
+    margin: 0;
+    font-size: 13px;
+    color: $text-color;
+    float: none;
+    height: inherit;
+    line-height: inherit;
+    @include rtl-text-align-left();
+    font-style: italic;
+  }
+   }
+}
+.facebook-fanbox {
+  overflow: hidden;
+}
+.ie8 {
+  #facebook_block,
+  #cmsinfo_block {
+    height: 344px;
+  }
+}
+
+
+// news letter
+#footer{
+  #newsletter_block_left{
+    &.block{    
+      .title_block{
+          position: relative;
+          @include rtl-padding-left(50px);
+          &:before{
+            content: "\f003";
+            position: absolute;
+            font-family: $font-icon;
+            font-size: 35px;
+            color: $light-text-color;
+            top: -4px;
+            @include rtl-left(0);
+            display: inline-block;
+            background: none;
+          }
+          span{
+            display: block;
+            text-transform: none;
+            font-family: $font-family-base;
+            line-height: 20px;
+            font-size: $font-size-base;
+            font-weight: normal;
+          }
+      }
+      input.btn{
+        text-transform: uppercase;
+        border-color: $white;
+        height: 38px;
+        @include rtl-margin-left(5px);
+        @include border-radius(1px);
+      }
+    }
+  }
+}
+
+
+//Social Sharing
+.socialsharing_product{
+  .btn-facebook, .btn-twitter, .btn-google-plus, .btn-pinterest {
+    background-color: $white;
+    color: $base-text-color;
+    padding: 8px 10px;
+    &:hover {
+      border-color: white;
+    }
+  }
+
+  .btn-facebook {
+    i {
+      color: #435f9f;
+    }
+    &:hover {
+      color: white;
+      background-color: #435f9f;
+      i {
+        color: white;
+      }
+    }
+  }
+
+  .btn-twitter {
+    i {
+      color: #00aaf0;
+    }
+    &:hover {
+      color: white;
+      background-color: #00aaf0;
+      i {
+        color: white;
+      }
+    }
+  }
+
+  .btn-google-plus {
+    i {
+      color: #e04b34;
+    }
+    &:hover {
+      color: white;
+      background-color: #e04b34;
+      i {
+        color: white;
+      }
+    }
+  }
+
+  .btn-pinterest {
+    i {
+      color: #ce1f21;
+    }
+    &:hover {
+      color: white;
+      background-color: #ce1f21;
+      i {
+        color: white;
+      }
+    }
+  }
+}
+
+// Block Contact infos footer
+#block_contact_infos {
+  > div {
+    ul {
+      li {
+        padding: 0 0 7px 0;
+        overflow: hidden;
+        line-height: 30px;
+        i {
+          @include border-radius(3px);
+          @include rtl-margin-right(10px);
+          background-color: #777777;
+          color: $light-text-color;
+          font-size: 10px;
+          width: 22px;
+          height: 22px;
+          text-align: center;
+          line-height: 22px;
+        }
+      }
+    }
+  }
+}

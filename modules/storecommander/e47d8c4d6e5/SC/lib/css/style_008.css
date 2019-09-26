@@ -1,0 +1,208 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+.dhx_header_cmenu,.dhtmlxMenu_dhx_skyblue_Middle{
+	background:#E2EDF2;
+}
+
+.dhx_combo_select{
+	width:auto !important;
+	height:150px !important;
+}
+/*
+div.complex_arrow {
+    height: 10px !important;
+    margin-top: 4px;
+}
+*/
+.sc_error{
+	color:red;
+	font-weight:bold;
+	border:1px solid #EEAAAA;
+	margin-bottom:10px;
+	padding:5px;
+}
+.firstLoginPage{
+	background:#FFFFFF url('../img/firstloginpage.jpg') no-repeat;
+	margin:0px auto;
+	padding:130px 35px 0px 35px;
+	width:530px;
+}
+.btn_pink{
+	width:109px;
+	height:25px;
+	background:#FFFFFF url('../img/btn_pink.gif') no-repeat;
+	color:white;
+	border:0px;
+	padding-top:0px;
+	cursor:pointer;
+}
+#formfree{
+	text-align:right;
+	line-height:25px;
+}
+#formtrial{
+	text-align:right;
+	line-height:25px;
+}
+
+.right{
+	text-align:right;
+	margin:0px;
+	padding-right:10px;
+}
+.left{
+	text-align:left;
+	margin:0px;
+	padding-right:10px;
+}
+
+.copyright{
+	color:#249a94;
+}
+
+legend{
+	font-weight:bold;
+	color:#1D7071;
+}
+
+/* IMPUT */
+.dhx_combo_select {
+    min-width: 100px;
+}
+
+/* Taille des icones sur tous les composants */
+.dhxeditor_dhx_skyblue_tbbtn,
+.dhxlist_obj_dhx_skyblue table.dhxlist_items_set div.dhxlist_img,
+.dhx_toolbar_base_dhx_skyblue div.dhx_toolbar_btn img,
+.dhtmlxMenu_dhx_skyblue_Middle img.dhtmlxMenu_TopLevel_Item_Icon,
+.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl td.sub_item_icon img.sub_icon,
+.dhx_toolbar_base_18_dhx_skyblue div.dhx_toolbar_btn img,
+.dhx_toolbar_poly_18_dhx_skyblue td.td_btn_img img,
+.dhx_toolbar_poly_18_dhx_skyblue td.td_btn_img img.btn_sel_img,
+.dhtmlxMenu_dhx_skyblue_TopLevel_Item_Normal img,
+.dhxtoolbar_btn_def img,div.dhxtoolbar_btn_over img,div.dhxtoolbar_btn_pres img,
+.dhx_toolbar_poly_dhx_skyblue td.td_btn_img img.btn_sel_img
+{
+	width:16px!important;
+	height:16px!important;
+}
+/*
+.dhx_toolbar_poly_dhx_skyblue{
+	z-index:1000!important;
+}
+*/
+
+
+
+/* MENU */
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl div.complex_arrow {
+	background-position:0 -8px;
+	margin: 6px 2px 0 5px;
+	height: 12px;
+}
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl tr.sub_item_selected div.complex_arrow {
+	background-position:-8px -8px!important;
+}
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl tr.sub_item_selected td{
+	background-image:url(../js/imgs/sky_blue_sel2.png)!important;
+	background-repeat:repeat-x!important;
+	background-position:top!important;
+}
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl tr.sub_item_selected,
+.dhtmlxMenu_dhx_skyblue_TopLevel_Item_Selected{
+	background-image:url(../js/imgs/sky_blue_sel2.png)!important;
+	background-repeat:repeat-x!important;
+	background-position:top!important;
+	border: 1px solid #FFB951!important;
+}
+
+
+
+/* GRID */
+div.gridbox div.ftr td{
+	background-color: #A2D0DF!important;
+}
+div.gridbox_dhx_skyblue.gridbox table.hdr td,
+div.gridbox_dhx_skyblue.gridbox table.obj tr td{
+	font-size:11px!important;
+}
+div.gridbox_dhx_skyblue.gridbox table.obj tr.rowselected td,
+div.gridbox_dhx_skyblue.gridbox table.obj tr.rowselected td.cellselected{
+	background-color:transparent!important;
+	background-image:none!important;
+}
+div.gridbox_dhx_skyblue.gridbox table.obj tr.rowselected{
+	background-color: white;
+	background-image: url(../js/imgs/sky_blue_sel2.png);
+	border: 1px solid #FFB951;
+}
+/* EGALEMENT MODIFIEE DANS LE FICHIER CSS DE DHTMLX */
+div.gridbox_dhx_skyblue.gridbox table.obj.row20px tr.odd_dhx_skyblue td {
+    background: auto !important;
+    border-bottom: 1px solid #D4E7FF;
+    border-top: 1px solid #D4E7FF;
+}
+div.gridbox table.obj .odd_dhx_skyblue td {
+    background: auto !important;
+    border-bottom: 1px solid #D4E7FF !important;
+    border-top: 1px solid #D4E7FF !important;
+}
+
+
+
+/* TREE */
+.standartTreeImage img{
+	width:18px!important;
+	height:18px!important;
+}
+div.dhxtree_dhx_skyblue .selectedTreeRow_lor,
+div.dhxtree_dhx_skyblue .selectedTreeRow{
+	background-color: white;
+	background-image: url(../js/imgs/sky_blue_sel_tree.png);
+	background-repeat: repeat-x;
+	border: 1px solid #FFB951;
+	font-size:12px!important;
+}
+div.dhxtree_dhx_skyblue .standartTreeRow,
+div.dhxtree_dhx_skyblue .standartTreeRow_lor{
+	font-size:11px!important;
+}
+
+
+
+/* TOOLBAR */
+div.dhx_toolbar_dhx_skyblue div.dhx_toolbar_btn.dhxtoolbar_btn_pres,
+div.dhx_toolbar_dhx_skyblue div.dhx_toolbar_arw.dhxtoolbar_btn_pres{
+	background-color: white;
+	background-image: url(../js/imgs/sky_blue_sel2.png);
+	border: 1px solid #FFB951;
+}
+div.dhx_toolbar_poly_dhx_skyblue table.buttons_cont tr.tr_btn.tr_btn_over,
+div.dhx_toolbar_poly_dhx_skyblue .tr_btn_over,
+div.dhx_toolbar_poly_dhx_skyblue .tr_btn_selected{
+	background-image:url(../js/imgs/sky_blue_sel2.png)!important;
+	background-repeat:repeat-x!important;
+	background-position:top!important;
+	border: 1px solid #FFB951!important;
+}
+div.dhx_toolbar_poly_dhx_skyblue .tr_btn_over td,
+div.dhx_toolbar_poly_dhx_skyblue .tr_btn_selected td{
+	background-color:transparent!important;
+	background-image:none!important;
+}
+/* Permet de r�duire la largeur des boutons mais cache le texte dans les toolbars : pas bon...
+.dhx_toolbar_dhx_skyblue div.dhx_toolbar_btn{
+	width:21px;
+}
+*/
+
+
+/* LAYOUT */
+.dhxwins_vp_dhx_skyblue div.dhxwin_active div.dhx_cell_wins div.dhx_cell_toolbar_def,
+.dhxwins_vp_dhx_skyblue div.dhxwin_inactive div.dhx_cell_wins div.dhx_cell_toolbar_def{
+	padding: 0px 0px 0px 0px!important;
+}

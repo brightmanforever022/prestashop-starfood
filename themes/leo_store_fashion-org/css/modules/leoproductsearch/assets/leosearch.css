@@ -1,0 +1,85 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/** CHECKOUT BY STEP */
+/*  
+ * LAYOUT VARIABLES 
+ */
+#leosearchtopbox {
+  position: relative;
+  margin: 0;
+}
+#leosearchtopbox select, #leosearchtopbox input {
+  height: 39px;
+  line-height: 39px;
+  padding: 9px;
+  border: 1px solid #dcdcdc;
+  background: #fff;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+  appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  -webkit-appearance: none;
+}
+#leosearchtopbox select {
+  line-height: 17px;
+  -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+}
+#leosearchtopbox input {
+  margin-left: -1px;
+  -webkit-box-shadow: 3px 0 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 3px 0 6px rgba(0, 0, 0, 0.1);
+}
+.rtl #leosearchtopbox input {
+  margin-right: -1px;
+  margin-left: inherit;
+}
+#leosearchtopbox button {
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  color: #8c8c8c;
+  background: transparent !important;
+  border: none !important;
+  width: 20px;
+  padding: 0;
+}
+.rtl #leosearchtopbox button {
+  left: 7px;
+  right: auto;
+}
+#leosearchtopbox span {
+  color: black;
+  position: absolute;
+  right: 10px;
+  top: 2px;
+  line-height: 36px;
+}
+.rtl #leosearchtopbox span {
+  left: 10px;
+  right: auto;
+}
+#leosearchtopbox .category_filter {
+  position: relative;
+  display: inline;
+}

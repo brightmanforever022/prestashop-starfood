@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exportscript>
+<config>
+<mapping><![CDATA[amazon.map.xml]]></mapping><categoriessel><![CDATA[all_enabled]]></categoriessel><exportfilename><![CDATA[export-amazon.csv]]></exportfilename><exportcombinations><![CDATA[1]]></exportcombinations><shippingfee><![CDATA[0]]></shippingfee><shippingfeefreefrom><![CDATA[]]></shippingfeefreefrom><fieldsep><![CDATA[;]]></fieldsep><valuesep><![CDATA[,]]></valuesep><enclosedby><![CDATA[]]></enclosedby><iso><![CDATA[0]]></iso><firstlinecontent><![CDATA[]]></firstlinecontent><lastexportdate><![CDATA[2011-03-23 15:54:58]]></lastexportdate></config>
+</exportscript>

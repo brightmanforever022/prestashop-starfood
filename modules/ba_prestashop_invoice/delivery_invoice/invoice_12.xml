@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[invoice 12]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon12.png]]></thumbnail>
+	<show_shipping><![CDATA[N]]></show_shipping>       <!-- Y: Yes, N: No -->
+	<show_pagination><![CDATA[N]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<show_discount><![CDATA[N]]></show_discount>       <!-- Y: Yes, N: No -->
+	<enable_landscape ><![CDATA[N]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[0]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<div style="width: 100%; padding: 0px; margin: 0px auto; height: auto;">
+		<table style="width: 100%; margin: 0px auto; border-top: 0.5px solid #7d9aba;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 5px;"></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin: 0px auto;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 40%; height: 30px; padding-left: 10px;"><b><span style="display: block; font-size: 18px; font-family: 'Arial',Georgia,serif; color: #000000;">SUPPLIER 'S NAME</span></b><br /> <span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000;">SUPPLIER INFORMATIONS</span></td>
+		<td style="border-left: 0.5px solid #7d9aba; border-right: 0.5px solid #7d9aba; width: 30%; height: 30px; text-align: left; padding-top: 10px; padding-bottom: 10px; padding-left: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; vertical-align: top; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/icon_home1.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 100%; vertical-align: top; height: 8px;"><b><span style="display: block; padding-top: 10px; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">SCHOOL OF EDUCATION</span></b></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; height: 8px; vertical-align: top; padding-top: 5px;"><span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">VA COMMONWEALTH UNIV</span></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; vertical-align: top; padding-top: 5px; height: 8px;"><span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">PO BOX 678900</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 30%; height: 30px; text-align: center; padding-top: 10px; padding-bottom: 10px;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/Untitled-1.png" width="97" height="61" /></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin: 5px auto; padding: 10px; background: #7d9aba;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 25%; height: 25px; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; background: #FFFFFF;" colspan="4"><span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif; color: #000000;">SUPPLIER’S NAME</span></td>
+		</tr>
+		<tr>
+		<td style="width: 25%; padding-top: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/id_white.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #ffffff;">ID: 56343238</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 25%; padding-top: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right; border-left: 0.5px solid #FFFFFF;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/mss-white.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #ffffff;">YOUR@NAME.COM</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 25%; padding-top: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right; border-left: 0.5px solid #FFFFFF;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/mb-white.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #ffffff;">+1(0) 38 435 643 972</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 25%; padding-top: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right; border-left: 0.5px solid #FFFFFF;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/tv-white.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #ffffff;">WWW.YOUSITE.COM</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin-left: auto; margin-right: auto; margin-top: 30px; border-top: 0.5px solid #7d9aba;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 5px;"></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin: 0px auto;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 40%; height: 30px; padding-left: 10px;"><b><span style="display: block; font-size: 18px; font-family: 'Arial',Georgia,serif; color: #000000;">CLIENT’S NAME</span></b><br /> <span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000;">CLIENT INFORMATIONS</span></td>
+		<td style="border-left: 0.5px solid #7d9aba; border-right: 0.5px solid #7d9aba; width: 30%; height: 30px; text-align: left; padding-top: 10px; padding-bottom: 10px; padding-left: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; vertical-align: top; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/icon_home1.png" width="25" height="25" /></td>
+		<td style="width: 80%; padding-left: 5px; text-align: left;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 100%; vertical-align: top; height: 8px;"><b><span style="display: block; padding-top: 10px; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">DEPARTEMENT 85</span></b></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; height: 8px; vertical-align: top; padding-top: 5px;"><span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">34 MORNINGSIGE ROAD</span></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; vertical-align: top; padding-top: 5px; height: 8px;"><span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">PO BO 73435</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 30%; height: 30px; text-align: left; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 100%; text-align: left;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 100%; vertical-align: top; height: 8px;"><b><span style="display: block; padding-top: 10px; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">INFORMATIONS:</span></b></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; height: 8px; vertical-align: top; padding-top: 5px;"><span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">ITASSITATES SUNTE</span></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; vertical-align: top; padding-top: 5px; height: 8px;"><span style="display: block; font-size: 8px; font-family: 'Arial',Georgia,serif; color: #000000; line-height: 10px;">QUAE PRO BLACCUL</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin: 5px auto; padding: 10px; background: #FFFFFF; border: 1px solid #7d9aba;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 25%;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/id-black.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000;">ID: 56343238</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 25%;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/mss-black.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000;">YOUR@NAME.COM</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 25%;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/mb-black.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000;">+1(0) 38 435 643 972</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 25%;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 20%; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/mss-black.png" width="25" height="25" /></td>
+		<td style="width: 80%; text-align: left; padding-left: 10px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif; color: #000000;">WWW.YOUSITE.COM</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin-left: auto; margin-right: auto; margin-top: 27pt;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 20%; height: 30px; padding-left: 10px; background: #7d9aba;"><span style="display: block; font-size: 12px; font-family: 'Arial',Georgia,serif; color: #000000;">N* 21-2012</span></td>
+		<td style="border-left: 0.5px solid #7d9aba; background: #d8d8e0; width: 20%; height: 30px; text-align: left; padding-top: 5px; padding-bottom: 5px; padding-left: 10px;"><span style="display: block; font-size: 12px; font-family: 'Arial',Georgia,serif; color: #000000;">DATE: 14/05/2012</span></td>
+		<td style="background: #d8d8e0; width: 60%; height: 30px; text-align: left; padding-top: 5px; padding-bottom: 5px; border-left: 0.5px solid #7d9aba; padding-left: 10px;"><span style="display: block; font-size: 12px; font-family: 'Arial',Georgia,serif; color: #000000;">DUE DATE: 14/05/2012</span></td>
+		</tr>
+		</tbody>
+		</table>
+		[products_list]
+		<table style="width: 100%; ; display: block; margin: 0px auto; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr style="height: 30px;">
+		<td style="width: 55%;"></td>
+		<td style="width: 15%;"></td>
+		<td style="width: 15%; padding-right: 10px; padding-top: 5px; padding-bottom: 5px; text-align: center; background: #7d9aba;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #ffffff;">TOTAL :</span></b></td>
+		<td style="border-left: 1px solid #909090; width: 15%; padding-right: 0px; text-align: center; background: #7d9aba;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #ffffff;">[order_total]</span></b></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; margin-top: 220px; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+		<td style="width: 50%; padding: 5px 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 10.5px; color: #7d9aba;">MONEY TRANSFER TO THE ACCOUNT BELOW :</span></td>
+		<td style="border-left: 1px solid #909090; width: 50%; padding: 5px  10px; vertical-align: top;"><span style="font-family: 'Arial',Georgia,serif; display: inline-block; font-size: 10.5px; color: #7d9aba;">PAYMENT TERMS:</span> <span style="font-family: 'Arial',Georgia,serif; display: inline-block; font-size: 11px; color: #404449;">Payment within 30 days</span></td>
+		</tr>
+		<tr>
+		<td style="width: 50%; padding: 5px  10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #000000;">wicked Solutions Ltd</span></td>
+		<td style="vertical-align: top; border-left: 1px solid #909090; width: 50%; padding-left: 10px;" rowspan="3">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 30%;"><span style="font-family: 'Arial',Georgia,serif; display: inline-block; font-size: 11px; color: #7d9aba;">SIGNTURE :</span></td>
+		<td style="width: 70%;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_12/chu_ki.png" width="133" height="57" /></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<td style="width: 50%; padding: 5px  10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #676f6f;">Sort Code : 20-21-22</span></td>
+		</tr>
+		<tr>
+		<td style="width: 50%; padding: 5px  10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #676f6f;">Account No : 12334578</span></td>
+		</tr>
+		</tbody>
+		</table>
+		</div>
+	]]></pdf_content>
+	<pdf_footer><![CDATA[]]></pdf_footer>
+	<customize_css><![CDATA[
+		.product_list_title_1{width:55%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_2{width:15%;font-family: 'Arial',Georgia,serif;border-left:1px solid #909090;}
+		.product_list_title_3{width:15%;font-family: 'Arial',Georgia,serif;border-left:1px solid #909090;}
+		.product_list_title_4{width:15%;font-family: 'Arial',Georgia,serif;border-left:1px solid #909090;}
+		.product_list_title_1,.product_list_title_2,.product_list_title_3,.product_list_title_4,.product_list_title_5{font-size:12px;height:30px;text-align:center;}
+		/***/
+		.product_price_without_old_price,.content_QTY,.product_total{text-align:center;color: #424747;font-size:12px;font-family: 'Arial',Georgia,serif;border-left:1px solid #909090;}
+		.product_name{padding-left:10px;text-align:left;height: 40px;color: #424747;font-size:12px;font-family: 'Arial',Georgia,serif;padding-right:10px;}
+		/**/
+		#product_list_tempalte_invoice tr:nth-child(odd){background: #e6e6ee;}
+		#product_list_tempalte_invoice tr:nth-child(even){background: #ffffff;}
+		.product_img{width:50px;height:50px;}
+	]]></customize_css>
+	<products_template columns_size="4">
+		<col>
+			<col_title><![CDATA[DESCRIPTION]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[ffffff]]></col_title_color>
+			<col_title_bgcolor><![CDATA[000000]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[AMOUNT]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[ffffff]]></col_title_color>
+			<col_title_bgcolor><![CDATA[000000]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[PRICE]]></col_title>
+			<col_content><![CDATA[4]]></col_content>
+			<col_title_color><![CDATA[ffffff]]></col_title_color>
+			<col_title_bgcolor><![CDATA[000000]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[TOTAL]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[ffffff]]></col_title_color>
+			<col_title_bgcolor><![CDATA[000000]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[invoice 6]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon6.png]]></thumbnail>
+	<show_shipping><![CDATA[N]]></show_shipping>       <!-- Y: Yes, N: No -->
+	<show_pagination><![CDATA[N]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<show_discount><![CDATA[N]]></show_discount>       <!-- Y: Yes, N: No -->
+	<enable_landscape ><![CDATA[N]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[0]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<div style="width: 100%; height: auto; margin-top: 0px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 50%;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_6/boder_top_invoi6.png" width="881" height="49" /></td>
+		</tr>
+		<tr>
+		<td style="width: 50%;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_6/your-logo1.png" width="259" height="71" style="margin-left: -10px;" /></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; display: block; margin: 0 auto; margin-top: 40px; padding-top: 10px; padding-bottom: 30px;">
+		<tbody>
+		<tr>
+		<td style="width: 180px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">FROM</span></b></td>
+		<td style="width: 209px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">BILL TO</span></b></td>
+		<td style="width: 250px; padding-left: 10px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">SHIP TO</span></b></td>
+		<td style="width: 134px; text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">INVOICE #</span></b></td>
+		<td style="width: 114px; text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: #003366;">00234</span></td>
+		</tr>
+		<tr>
+		<td style="padding-top: 20px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">Join Swith</span></td>
+		<td style="padding-top: 20px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">Join Swith</span></td>
+		<td style="padding-left: 10px; padding-top: 20px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">Join Swith</span></td>
+		<td style="text-align: left; padding-top: 20px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">INVOICE DATE</span></b></td>
+		<td style="text-align: right; padding-top: 20px;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: #003366;">20/10/2015</span></td>
+		</tr>
+		<tr>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">2 Count Square</span></td>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">2 Count Square</span></td>
+		<td style="padding-left: 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">684 Leakington Avenue</span></td>
+		<td style="text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">P.O.#</span></b></td>
+		<td style="text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: #003366;">17422015</span></td>
+		</tr>
+		<tr>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">Long Inland City</span></td>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">Long Inland City</span></td>
+		<td style="padding-left: 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">6th Floor</span></td>
+		<td style="text-align: left;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">DUE DATE</span></b></td>
+		<td style="text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 4px; font-size: 16px; color: #003366;">10/11/2015</span></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">New York, NY 1120</span></td>
+		<td style="padding-left: 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 16px; color: #003366;">New York, NY 1022</span></td>
+		<td></td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+		[products_list]
+		<table style="width: 100%; ; display: block; margin: 0 auto; border-collapse: collapse;">
+		<tbody>
+		<tr style="height: 40px; background: #EEEEEE;">
+		<td style="width: 10%;"></td>
+		<td style="width: 400px;"></td>
+		<td style="width: 126px; padding-right: 10px; padding-top: 15px; padding-bottom: 15px; text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; color: #003366;">Subtotal</span></td>
+		<td style="width: 246px; padding-right: 10px; text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; color: #003366;">[order_subtotal]</span></td>
+		</tr>
+		<tr style="height: 40px; background: #EEEEEE;">
+		<td></td>
+		<td></td>
+		<td style="padding-right: 10px; padding-top: 15px; padding-bottom: 15px; text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; color: #003366;">Sales Tax 5.0</span></td>
+		<td style="padding-right: 10px; text-align: right;"><span style="font-family: 'Arial',Georgia,serif; display: block; color: #003366;">[order_tax]</span></td>
+		</tr>
+		<tr style="height: 40px; background: #EEEEEE;">
+		<td></td>
+		<td></td>
+		<td style="padding-right: 10px; padding-top: 15px; padding-bottom: 15px; text-align: right;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 19px; color: #003366;">TOTAL</span></b></td>
+		<td style="padding-right: 10px; text-align: right;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 19px; color: #003366;">[order_total]</span></b></td>
+		</tr>
+		</tbody>
+		</table>
+		<img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_6/thanks_iv6.png" style="float: right; margin-top: 20px;" width="176" height="48" />
+		<table style="width: 100%; display: block; padding-top: 10px; margin: 160px auto 30px auto;" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr style="height: 30px;">
+		<td style="width: 300px; padding-left: 0px; padding-top: 0px;"><b><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 18px; color: #003366;">TERMS & CONDITIONS</span></b></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td style="width: 300px; padding-left: 0px; padding-top: 15px; padding-bottom: 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 14px; color: #003366;">Payment is due within 15 days</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td style="width: 300px; padding-left: 0px;"><span style="font-family: 'Arial',Georgia,serif; display: block; margin-top: 20px; font-size: 14px; color: #003366;">Ctbank NA</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td style="width: 300px; padding-left: 0px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 14px; color: #003366;">Account number: 2345678</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td style="width: 300px; padding-left: 0px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 14px; color: #003366;">Routing: 23412</span></td>
+		</tr>
+		</tbody>
+		</table>
+		<img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_6/boder_bottom_invoi6.png" width="893" height="41" /></div>
+	]]></pdf_content>
+	<pdf_footer><![CDATA[]]></pdf_footer>
+	<customize_css><![CDATA[
+		.content_QTY,.product_list_title_1{text-align:center;width: 10%;padding: 7pt;}
+		.product_list_title_2{text-align:left;}
+		.product_list_title_3,.product_list_title_4{text-align:right;}
+		.product_list_title_1,.product_list_title_2,.product_list_title_3,.product_list_title_4{font-size: 16px;}
+		/**/
+		.product_price_without_old_price, .product_total{text-align:right;  padding: 7pt;}
+		.product_name{padding: 7pt;}
+		.product_total{width: 246px;}
+		.product_name{width: 400px;}
+		.product_price_without_old_price{width: 126px;}
+		.content_QTY ,.product_list_content_1,.product_name,.product_price_without_old_price,.product_total{
+			font-family: 'Arial',Georgia,serif;
+			color: #003366;
+		}
+		/*boder*/
+		.product_name,.product_price_without_old_price,.product_total{border-left: 2px solid #FFFFFF;}
+		.product_name product_list_content_2,.product_price_without_old_price,.product_total,.product_name,.content_QTY{background:#EEEEEE;}
+		.product_img{width:50px;height:50px;}
+	]]></customize_css>
+	<products_template columns_size="4">
+		<col>
+			<col_title><![CDATA[QTY]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[003366]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[DESCRIPTION]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[003366]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[UNIT PRICE]]></col_title>
+			<col_content><![CDATA[4]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[003366]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[AMOUNT]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[003366]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

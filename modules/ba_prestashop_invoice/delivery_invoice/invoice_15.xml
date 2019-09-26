@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[invoice 15]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon15.png]]></thumbnail>
+	<show_shipping><![CDATA[N]]></show_shipping>       <!-- Y: Yes, N: No -->
+	<show_pagination><![CDATA[N]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<show_discount><![CDATA[N]]></show_discount>       <!-- Y: Yes, N: No -->
+	<enable_landscape ><![CDATA[N]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[0]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<div style="width: 100%; padding: 0px; margin: 0px auto; height: auto;">
+		<table style="width: 100%; margin: 0px auto;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 65%; height: 80px;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_15/logo_invoice_5.png" alt="" width="278" height="57" /></td>
+		<td style="width: 35%; height: 60px; padding-top: 20px;"><span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif; color: #919494;"><span style="color: #424747; display: inline-block;">TELEPHONE:</span><span style="color: #919494; display: inline-block;"> (055) 4553-455-345</span></span><br /> <span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif;"><span style="color: #424747; display: inline-block;">FAX:</span><span style="color: #919494; display: inline-block;"> (055) 4553-455-345</span></span><br /> <span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif;"><span style="color: #424747; display: inline-block;">WEBSITE:</span><span style="color: #919494; display: inline-block;"> WWW.DOMAINL.COM</span></span><br /> <span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif;"><span style="color: #424747; display: inline-block;">EMAIL:</span><span style="color: #919494; display: inline-block;"> DOMAINL@WEBSITE.COM</span></span></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin: 0px auto;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 50%; height: 30px;"> </td>
+		<td style="width: 15%; height: 30px;"> </td>
+		<td style="width: 35%; height: 30px; text-align: center; background: #0175a4; padding-top: 10px; padding-bottom: 10px;"><strong><span style="display: block; font-size: 25px; font-family: 'Arial',Georgia,serif; color: #ffffff;">INVOICE</span></strong></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; margin: 0px auto; background-color: #e5e4e4;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 40%; padding-left: 30px; border-right: 1px solid #c2bfbf; vertical-align: top;">
+		<table>
+		<tbody>
+		<tr>
+		<td style="width: 100%; padding-top: 10px;">
+		<p style="margin: 0;"><span style="display: block; font-size: 16px; font-weight: 200px; font-family: 'Arial',Georgia,serif; color: #424747;">INVOICE TO:</span></p>
+		<p style="margin: 0;"><span style="display: block; font-size: 12px; font-family: 'Arial',Georgia,serif; color: #424747;">ANY NAME ,COMPANY</span></p>
+		</td>
+		</tr>
+		<tr>
+		<td style="height: 30px; width: 100%; padding-top: 30px;"><span style="display: block; font-size: 12px; font-family: 'Arial',Georgia,serif; color: #424747;">THE ADDRESS:</span><br /> <span style="color: #919494; display: block; font-size: 12px; font-family: 'Arial',Georgia,serif;">SWEDEN, GO THENBORG,DOMKYRKAN<br />KUNG-SPORTSPLATSEN,P245-33<br />GOTHENBORG</span></td>
+		</tr>
+		<tr>
+		<td style="height: 30px; width: 100%; padding-top: 20px;"><span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"> <span style="color: #424747; display: inline-block;">PHONE:</span> <span style="color: #7f8c8d; display: inline-block;"> (055) 4553-455-345</span> </span> <span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"> <span style="color: #424747; display: inline-block;">EMAIL:</span> <span style="display: inline-block; color: #7f8c8d;"> DOMAINL@WEBSITE.COM</span> </span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="width: 60%; vertical-align: top;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 30px; padding-left: 40px; padding-top: 15px;"><strong><span style="display: block; font-size: 16px; font-weight: 200px; font-family: 'Arial',Georgia,serif; color: #474b4b;">Invoice nymber # 344225661</span></strong></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; height: 30px; padding-left: 40px; padding-top: 20px;"><span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"> <span style="color: #424747; display: inline-block;">Date:</span><span style="display: inline-block; color: #919494;"> 15/01/2015</span><br /> <span style="color: #7f8c8d; display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #424747; display: inline-block;">Account:</span><span style="color: #7f8c8d; display: inline-block;"> #665244</span></span><br /> <span style="color: #7f8c8d; display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #424747; display: inline-block;">Refference </span> #445566299452</span></span></td>
+		</tr>
+		<tr>
+		<td style="width: 100%; vertical-align: top; padding-left: 40px; padding-top: 20px; padding-bottom: 20px;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 100%; margin-left: 20px; font-size: 25px; color: #ffffff; padding: 20px 20px 20px 20px; background: #0175a4;">
+		<h3 style="width: 100%; font-family: 'Arial',Georgia,serif; color: #ffffff; font-size: 25px;">TOTAL: $54,422</h3>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</tbody>
+		</table>
+		[products_list]
+		<table style="width: 100%; ; display: block; margin: 0px auto; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr style="height: 30px;">
+		<td style="width: 40%;"> </td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%; padding-right: 10px; padding-top: 5px; padding-bottom: 5px; text-align: left;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #424747;">SUB TOTAL</span></td>
+		<td style="width: 20%; padding-right: 10px; text-align: center; border-left: 1px solid #c2bfbf;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #424747;">[order_subtotal]</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td> </td>
+		<td> </td>
+		<td style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px; text-align: left;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #424747;">TAX VAT</span></td>
+		<td style="padding-right: 10px; text-align: center; border-left: 1px solid #c2bfbf;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #424747;">[order_tax]</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td> </td>
+		<td> </td>
+		<td style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px; text-align: left;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #424747;">DISCUNT :</span></td>
+		<td style="padding-right: 10px; text-align: center; border-left: 1px solid #c2bfbf;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 11px; color: #424747;">$160</span></td>
+		</tr>
+		<tr style="height: 30px;">
+		<td> </td>
+		<td> </td>
+		<td style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px; text-align: left;"><strong><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">TOTAL :</span></strong></td>
+		<td style="padding-right: 10px; text-align: center; border-left: 1px solid #c2bfbf;"><strong><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">[order_total]</span></strong></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; margin-top: 15px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 20%; height: 40px; background: #0175a4; text-align: center; padding: 10px;" colspan="2"><span style="font-family: 'Arial',Georgia,serif; display: block; color: #ffffff; font-size: 14px;">Payment Method</span></td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%;"> </td>
+		</tr>
+		<tr style="background: #F6F6F6;">
+		<td style="width: 20%; padding-top: 20px; padding-left: 10px; padding-right: 10px; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_15/ere.png" alt="" width="103" height="23" /></td>
+		<td style="width: 20%; padding-top: 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #676f6f;">Payment@website.com</span></td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%;"> </td>
+		</tr>
+		<tr style="background: #F6F6F6;">
+		<td style="width: 20%; padding-right: 10px; padding-top: 10px; padding-left: 10px; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_15/skrill.jpg" alt="" width="103" height="23" /></td>
+		<td style="width: 20%; padding-top: 10px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #676f6f;">Payment@website.com</span></td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%;"> </td>
+		<td style="width: 20%;"> </td>
+		</tr>
+		<tr style="background: #F6F6F6;">
+		<td style="width: 20%; padding-right: 10px; padding-top: 10px; padding-left: 10px; text-align: right;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_15/fdgtsert.png" alt="" width="103" height="23" /></td>
+		<td style="width: 20%; padding-top: 10px;" colspan="4"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #676f6f;">Marks Techmologies:256 highand gaden.london Sw1234,United kingdom</span></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; margin-top: 15px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 20px; background: #f6f6f6; padding-top: 5px; padding-bottom: 5px; padding-left: 22px;"><span style="display: block; font-family: 'Arial',Georgia,serif; font-size: 12px;"> <span style="color: #000000; display: inline-block;">TERMS</span> <span style="padding-left: 10px; color: #676f6f; display: inline-block;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</span> </span></td>
+		</tr>
+		</tbody>
+		</table>
+		</div>
+	]]></pdf_content>
+	<pdf_footer><![CDATA[
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; margin-top: 15px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 20px; background: #f6f6f6; padding-top: 5px; padding-bottom: 5px; padding-left: 22px;"><span style="display: block; font-family: 'Arial',Georgia,serif; font-size: 12px;"> <span style="color: #000000; display: inline-block;">TERMS</span> <span style="padding-left: 10px; color: #676f6f; display: inline-block;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</span> </span></td>
+		</tr>
+		</tbody>
+		</table>
+	]]></pdf_footer>
+	<customize_css><![CDATA[
+		.product_list_title_1{width:40%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_2{width:20%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_3{width:20%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_4{width:20%;font-family: 'Arial',Georgia,serif;}
+		/***/
+		.product_price_without_old_price,.content_QTY,.product_total{text-align:center;color: #424747;font-size:12px;font-family: 'Arial',Georgia,serif;border-left:0.5px solid #c2bfbf;}
+		.product_name{padding-left:30px;text-align:left;height: 80px;color: #424747;font-size:12px;font-family: 'Arial',Georgia,serif;padding-right:10px;}
+		/**/
+		#product_list_tempalte_invoice tr:nth-child(odd){background: #e5e4e4;}
+		#product_list_tempalte_invoice tr:nth-child(even){background: #f6f6f6;}
+		.product_list_title{padding:7px;}
+		.product_img{width:50px;height:50px;}
+	]]></customize_css>
+	<products_template columns_size="4">
+		<col>
+			<col_title><![CDATA[Item Description]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[0175A4]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Unit Price]]></col_title>
+			<col_content><![CDATA[4]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[0175A4]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Quantity]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[0175A4]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[TOTAL]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[FFFFFF]]></col_title_color>
+			<col_title_bgcolor><![CDATA[0175A4]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

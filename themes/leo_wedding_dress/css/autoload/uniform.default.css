@@ -1,0 +1,377 @@
+
+div.selector, div.selector span, div.uploader, div.uploader span.action, div.button, div.button span {
+    background-image: url("../../img/jquery/uniform/sprite.png");
+    background-repeat: no-repeat;
+}
+div.selector, div.checker, div.button, div.radio, div.uploader {
+    vertical-align: middle;
+}
+div.selector:focus, div.checker:focus, div.button:focus, div.radio:focus, div.uploader:focus {
+    outline: 0 none;
+}
+div.selector, div.selector *, div.radio, div.radio *, div.checker, div.checker *, div.uploader, div.uploader *, div.button, div.button * {
+    margin: 0;
+    padding: 0;
+}
+.highContrastDetect {
+    background: rgba(0, 0, 0, 0) url("../../../img/jquery/uniform/bg-input.png") repeat-x scroll 0 0;
+    height: 0;
+    width: 0;
+}
+input.uniform-input, select.uniform-multiselect, textarea.uniform {
+    background: white none repeat scroll 0 0;
+    outline: 0 none;
+    padding: 3px;
+}
+div.checker input, input[type="search"], input[type="search"]:active {
+    -moz-appearance: none;
+}
+div.selector {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #d6d4d4;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 0 0 0 10px;
+    position: relative;
+}
+div.selector span {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    cursor: pointer;
+    display: block;
+    height: 28px;
+    line-height: 28px;
+    overflow: hidden;
+    padding-right: 30px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}
+div.selector span::after {
+    background: #fafafa none repeat scroll 0 0;
+    border: 1px solid #d6d4d4;
+    color: #afaeae;
+    content: "\f078";
+    font-family: "FontAwesome";
+    font-size: 19px;
+    height: 26px;
+    line-height: 25px;
+    position: absolute;
+    right: 1px;
+    text-align: center;
+    top: 1px;
+    width: 23px;
+}
+div.selector.fixedWidth {
+    width: 190px;
+}
+div.selector.fixedWidth span {
+    width: 150px;
+}
+div.selector select {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    height: 27px;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+div.selector.active span::after {
+    color: #6f6e6e;
+    top: 1px;
+}
+div.selector.hover span::after, div.selector.focus span::after {
+    color: #6f6e6e;
+    top: 1px;
+}
+div.selector.hover.active span::after, div.selector.focus.active span::after {
+    color: #6f6e6e;
+    top: 1px;
+}
+div.selector.disabled span::after, div.selector.disabled.active span::after {
+    color: #6f6e6e;
+    top: 1px;
+}
+div.checker {
+    position: relative;
+}
+div.checker, div.checker span {
+    height: 15px;
+    width: 15px;
+}
+div.checker input {
+    cursor: pointer;
+    height: 14px !important;
+    left: -1px;
+    padding: 0;
+    position: relative;
+    top: -3px;
+    width: 15px;
+}
+div.checker span {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #d6d4d4;
+    display: inline-block;
+    overflow: hidden;
+    text-align: center;
+}
+div.checker span.checked::before {
+    content: ""\f00c"";
+    font-family: "FontAwesome";
+    font-size: 12px;
+    height: 13px;
+    left: -1px;
+    line-height: 14px;
+    padding: 0 0 0 1px;
+    position: absolute;
+    text-align: center;
+    top: auto;
+    width: 13px;
+}
+div.checker input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    display: inline-block;
+    opacity: 0;
+}
+div.checker.active span {
+    background-position: -15px -257px;
+}
+div.checker.active span.checked {
+    background-position: -15px -257px;
+}
+div.checker.hover span, div.checker.focus span {
+    background: #e6e5e5 none repeat scroll 0 0;
+}
+div.checker.hover span.checked, div.checker.focus span.checked {
+    background: #e1e0e0 none repeat scroll 0 0;
+}
+div.checker.disabled, div.checker.disabled.active {
+    background-position: 0 -257px;
+}
+div.checker.disabled span.checked, div.checker.disabled.active span.checked {
+    background-position: 0 -257px;
+}
+div.radio {
+    display: inline;
+    position: relative;
+}
+div.radio, div.radio span, div.radio input {
+    height: 13px;
+    width: 13px;
+}
+div.radio span {
+    height: 14px;
+    width: 14px;
+}
+div.radio span {
+    border: 1px solid #d6d4d4;
+    border-radius: 100%;
+    display: inline-block;
+    text-align: center;
+}
+div.radio span.checked::before {
+    background: #727272 none repeat scroll 0 0;
+    border-radius: 100%;
+    content: "*";
+    display: block;
+    height: 8px;
+    left: 2px;
+    position: absolute;
+    text-indent: -5000px;
+    top: 2px;
+    width: 8px;
+    z-index: 1;
+}
+div.radio input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    display: inline-block;
+    opacity: 0;
+    text-align: center;
+}
+div.radio.hover span, div.radio.focus span {
+    background-color: #f7f7f7;
+}
+div.uploader {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    cursor: pointer;
+    height: 27px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+div.uploader span.action {
+    background-position: 0 -378px;
+    cursor: pointer;
+    display: inline;
+    float: left;
+    height: 27px;
+    line-height: 27px;
+    overflow: hidden;
+    text-align: center;
+    width: 94px;
+}
+div.uploader span.filename {
+    cursor: default;
+    display: block;
+    float: left;
+    height: 27px;
+    line-height: 27px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 172px;
+}
+div.uploader input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    cursor: default;
+    float: right;
+    height: 100%;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+div.button {
+    background-position: 0 -634px;
+    cursor: pointer;
+    height: 30px;
+    position: relative;
+}
+div.button a, div.button button, div.button input {
+    bottom: 0;
+    display: block;
+    left: 0;
+    opacity: 0.01;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+div.button span {
+    background-position: right -514px;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 13px;
+    padding: 0;
+    text-align: center;
+}
+div.button.active {
+    background-position: 0 -664px;
+}
+div.button.active span {
+    background-position: right -544px;
+    cursor: default;
+}
+div.button.hover, div.button.focus {
+    background-position: 0 -694px;
+}
+div.button.hover span, div.button.focus span {
+    background-position: right -574px;
+}
+div.button.disabled, div.button.disabled.active {
+    background-position: 0 -724px;
+}
+div.button.disabled span, div.button.disabled.active span {
+    background-position: right -604px;
+    cursor: default;
+}
+input.uniform-input, select.uniform-multiselect, textarea.uniform {
+    border: 1px solid #d6d4d4;
+    color: #777;
+    font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18px;
+}
+input.uniform-input.hover, input.uniform-input.focus, select.uniform-multiselect.hover, select.uniform-multiselect.focus, textarea.uniform.hover, textarea.uniform.focus {
+    border-color: #cbcaca;
+}
+div.button span {
+    font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+div.button.hover span, div.button.focus span {
+    color: #555;
+}
+div.button.disabled span, div.button.disabled.active span {
+    color: #bbb;
+}
+#compare_shipping .form-group label {
+    display: block;
+}
+div.selector {
+    font-size: 12px;
+}
+div.selector span {
+    color: #666;
+    text-shadow: 0 1px 0 #fff;
+}
+div.selector select {
+    font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+div.selector.disabled span, div.selector.disabled.active span {
+    color: #bbb;
+}
+.checker span input {
+    margin: 0 !important;
+    position: relative;
+}
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+    margin: 0 !important;
+}
+.radio-inline, .checkbox-inline {
+    cursor: default;
+}
+div.checker {
+    cursor: pointer;
+    margin-right: 5px;
+}
+div.checker span {
+    position: relative;
+    top: 1px;
+}
+#layered_form div.checker {
+    cursor: default;
+    display: inline;
+}
+div.radio {
+    margin-right: 3px;
+}
+div.radio span {
+    position: relative;
+}
+div.uploader span.action {
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+div.uploader span.filename {
+    background: #fbfbfb none repeat scroll 0 0;
+    border: 1px solid #d6d4d4;
+    color: #777;
+    font-size: 13px;
+    margin-right: 2px;
+}
+div.uploader.disabled span.action, div.uploader.disabled.active span.action {
+    color: #aaa;
+}
+div.uploader.disabled span.filename, div.uploader.disabled.active span.filename {
+    border-color: #ddd;
+    color: #aaa;
+}
+input.uniform-input, input.uniform-input:focus {
+    background-color: #fff;
+}

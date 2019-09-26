@@ -1,0 +1,317 @@
+/**
+* 2013-2015 Ovidiu Cimpean
+*
+* Ovidiu Cimpean - Newsletter Pro © All rights reserved.
+*
+* DISCLAIMER
+*
+* Do not edit, modify or copy this file.
+* If you wish to customize it, contact us at addons4prestashop@gmail.com.
+*
+* @author    Ovidiu Cimpean <addons4prestashop@gmail.com>
+* @copyright 2013-2015 Ovidiu Cimpean
+* @version   Release: 4
+* @license   Do not edit, modify or copy this file
+*/
+
+.np-valign-middle {
+	vertical-align: middle;
+}
+
+.np-btn-resend {
+	float: right;	
+}
+
+.np-menu-text-ourmodules {
+	display: inline-block;
+}
+
+.np-send-previous-step {
+	margin-left: 0 !important;
+}
+
+.resend-undelivered-list-send,
+.resend-left-list-send,
+.resend-undelivered-list-send:focus,
+.resend-left-list-send:focus {
+	margin-top: 0;
+	height: auto !important;
+}
+
+.np-emails-sent-error {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background: url(../img/warning.gif) left top no-repeat;
+	float: right;
+	margin-top: 4px;
+	margin-right: 0;
+}
+
+.np-emails-sent-email {
+	float: left;
+}
+
+.np-emails-sent-fwd {
+	color: green;
+	float: right;
+	margin-right: 20px;
+}
+
+.np-emails-sent-status {
+	float: right;
+}
+
+.np-emails-sent-status .success-icon,
+.np-emails-sent-status .error-icon {
+	margin-top: 0 !important;
+}
+
+.np-send-method-box {
+	
+}
+
+.np-send-method-box-left {
+	width: 70%;
+	float: left;
+}
+
+.np-send-method-box-right {
+	width: 29%;
+	float: right;
+}
+
+.np-send-method-box-left, 
+.np-send-method-box-right {
+
+}
+
+.np-performances-window-content input[type="checkbox"],
+.np-performances-window-content input[type="radio"] {
+	float: left;
+	display: inline-block;
+	margin-right: 8px;
+	margin-top: 5px;
+}
+
+.np-performances-window-content input[type="number"] {
+	text-align: center;
+	padding: 0 0 0 10px!important;
+}
+
+.np-performances-window-content label {
+	padding-left: 0 !important;
+}
+
+.np-send-method-sleep,
+.np-send-method-antiflod {
+	vertical-align: middle;
+	margin-top: 10px;
+}
+
+.np-send-method-antiflod-settings {
+	margin-left: 5px;
+	padding-left: 10px;
+	margin-top: 5px;
+	border-left: dashed 1px #3586ae;
+}
+
+.np-send-method-antiflod-row {
+	padding-top: 10px;
+}
+
+.np-send-method-antiflod-row:first-child {
+	padding-top: 3px;
+}
+
+.np-send-throttler-changetype {
+	color: #49B2FF;
+}
+
+.np-radio-send-method-antiflood {
+	margin-top: 3px !important;
+}
+
+.np-send-method-display {
+	padding: 1px 0;
+	display: inline-block;
+}
+
+.np-send-connection .name {
+	width: 40%;
+}
+
+.np-send-connection .connection-type {
+	width: 20%;
+}
+
+.np-send-connection .actions {
+	width: 20%;
+}
+
+.np-send-connection .connection-test {
+	width: 20%;
+}
+
+.np-control-lable-checkbox,
+.np-control-lable-radio {
+	padding-top: 15px !important;
+}
+
+.np-log-display {
+	background: none !important;
+    border: none !important;
+}
+
+.np-custom-field-variables-list th.variable-name,
+.np-custom-field-variables-list th.type-name {
+	width: 35%;
+	
+}
+
+.np-custom-field-variables-list th.required {
+	width: 5%;
+}
+
+.np-custom-field-variables-list td.required {
+	text-align: center;
+}
+
+.np-custom-field-variables-list th.np-actions {
+	text-align: right;
+	width: 20%;
+}
+
+.np-win-h4 {
+    border: none !important;
+    text-transform: uppercase !important;
+    border-bottom: solid 1px #eeeeee !important;
+    padding: 0 0 5px 0 !important;
+    margin: 0px 0px 15px 0 !important;
+}
+
+.np-custom-field-values-list th.np-value {
+	width: 80%;
+}
+
+.np-custom-field-values-list th.np-actions {
+	width: 20%;
+}
+
+.np-visitors-np-search-filter-condition-div {
+	display: inline-block;
+	margin-left: 15px;
+}
+.np-visitors-np-search-filter-columns-div {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.template-header,
+.template-footer,
+.template-css-style,
+.template-css {
+	width: 99%;
+	min-height: 400px;
+	font-family: Consolas, Verdana, sans-serif;
+	-moz-tab-size:4; 
+	-o-tab-size:4; 
+	tab-size:4;
+}
+
+.np-success-message {
+	color: green;
+	font-weight: bold;
+}
+
+.rte caption, .rte th, .rte td, .rte table,
+.mce-content-body caption, .mce-content-body th, .mce-content-body td, .mce-content-body table,
+.mceContentBody caption, .mceContentBody th, .mceContentBody td, .mceContentBody table {
+	border: 1px dashed #BBB;
+	border-collapse: collapse !important;
+	border-spacing: 0;
+}
+
+.np-currency-header {
+	display: block;
+	outline: none;
+}
+
+.np-currency-header:focus {
+	color: #555;
+	background-color: #e6e6e6;
+	border-color: #adadad;
+}
+
+.np-margin-5 {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.np-margin-5-right {
+	margin-right: 5px;
+}
+
+.np-margin-5-left {
+	margin-left: 5px;
+}
+
+.np-edit-product-menu {
+	position: absolute;
+	left: 5px;
+	right: 5px;
+	top: 5px;
+}
+
+.np-edit-product-menu-btn {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.filter-by-country-list th.chackbox {
+	width: 5%;
+}
+
+.filter-by-country-list th.np-fc-country-name {
+	width: 45%;
+}
+
+.filter-by-country-list th.np-fc-iso-code {
+	width: 45%;
+}
+
+.filter-by-country-list th.np-fc-active {
+	width: 5%;
+}
+
+.filter-by-country-list td.np-fc-active {
+	text-align: center;
+}
+
+.filter-by-country-search-box {
+	position: relative;
+	display: inline-block;
+}
+
+.filter-by-country-search-loading {
+	background: url(../img/ajax_loader.gif) left top no-repeat;
+	width: 16px;
+	height: 16px;
+	position: absolute !important;
+	right: 6px;
+	top: 6px;
+}
+
+.np-btn-export-send-history-rem,
+.np-btn-export-send-history {
+	margin-right: 10px;
+}
+
+.np-slider-range-input-text {
+	padding: 0 !important;
+    margin: 0 !important;
+    background: 0 !important;
+    outline: none !important;
+    border: none !important;
+    height: 19px !important;
+}

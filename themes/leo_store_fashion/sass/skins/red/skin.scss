@@ -1,0 +1,60 @@
+@import "compass";
+@import "theme_variables";
+
+
+$link-hover-color: 					#c72828;
+
+$theme-color-default: 				#c72828;
+
+$block-module-highlighted-bg:       #c72828;
+$search-icon-color:                 #c72828;
+$contact-icon-hover-bg:             #c72828;
+$headermain-color-hover:            #c72828; 
+$topbar-link-hover-color:           #c72828;
+
+$breadcrumb-active-color:           #c72828;
+
+$product-deals-link-hover-color:    #c72828;
+$product-icon-color:                #c72828;
+$product-icon-bg-hover-color:       #c72828;
+$product-label-new-bg:              #c72828;
+$product-label-special-bg:          #c72828;
+$button-addtocart-bg-hover:         #c72828;
+$button-addtocart-border-2:         #c72828;
+$product-name-hover-color:          #c72828;
+
+$megamenu-link-hover-color:         #c72828;
+$megamenu-name-hover-color:         #c72828;
+$megamenu-sub-link-hover-color:     #c72828;
+
+
+$vertical-menu-link-hover-color:    #c72828;
+$vertical-menu-link-hover:          #c72828;
+
+$footer-top-color-hover:			#c72828;
+$footer-center-color-hover:			#c72828;
+$footer-bottom-color-hover:			#c72828;
+$footer-nav-color-hover:			#c72828;
+$power-link-color:                  #c72828;
+
+$image-theme-base-path: "../../../img/red/";
+
+@import "../_skin";
+
+
+#cart{        
+    .title-cart{
+        &:before{
+            background: url("#{$image-theme-base-path}icon-shopping-cart.png") no-repeat center center $cart-icon-bg;
+        }
+    }
+}
+.bannercontainer .tp-bullets.simplebullets.round .bullet {
+	background: url("#{$image-theme-base-path}bullet.png") no-repeat top left;
+}
+.bannercontainer .tp-leftarrow.default{
+	background: url("#{$image-theme-base-path}large_left.png") no-repeat 0 0;
+}
+.bannercontainer .tp-rightarrow.default{
+	background: url("#{$image-theme-base-path}large_right.png") no-repeat 0 0;
+}

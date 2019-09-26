@@ -1,0 +1,819 @@
+"Customer number";"Customer ID ";"Title";"Surename";"First Name";"Company";"Industrial sector";"Street";"House number";"Zip code";"Place";"Country";"Phone";"Mobile Phone ";"Telefax";"E-Mail adress";"Web Adress";"Tax number ";"Payment terms"
+41100;102;"Herr";"Singh";"Parbinder";"Roxie Restaurant";"Ital. Restaurant/Imbiss";"Alsterdorfer Straße";288;22297;"Hamburg";"Deutschland";"040/5111457";;;;"www.roxie-restaurant.de";;30
+41101;103;;;;"Roxie Restaurant";"Ital. Restaurant/Imbiss";"Renzelstrasse";6;20146;"Hamburg";"Deutschland";"040/451770";;;;;;30
+41102;104;"Herr";" Syed Mohammed Anis";;"Zahra Nafis UG ";"Asia/Afro Shop";"Augustenstrasse";43;24143;"Kiel";"Deutschland";"0431/739 96 96";"0170 - 855 39 53";"0431/7397432";"syed_anis@hotmail.com";;;30
+41103;105;"Herr";" Nezam";" Zalahuddin";"Zala Restaurant ";"Ind./pak. Restaurant/Imbiss";"Drosselstrasse";11;22305;"Hamburg";"Deutschland";"040/20907686";"0175/2022218";"040/69796603";"info@zala.de";;7146009128;30
+41104;106;;;;"Nomi´s Pizza Lieferservice";"Ital. Restaurant/Imbiss";"Berliner Straße";30;21481;"Lauenburg/Elbe";"Deutschland";"041/53582440";"0160/4580608";;;"www.nomispizza-lieferservice.de";;30
+41105;107;"Herr";"Waschton";"Mike";"Shalimar Restaurant";"Ind./pak. Restaurant/Imbiss";"ABC-Strasse";"46-47";20354;"Hamburg";"Deutschland";"040/442484";;;"info@shalimar-hamburg.de";"www.shalimar-hamburg.de";;30
+41106;109;"Herr ";"Sukha";;"Pronto Pizza Service";"Ital. Restaurant/Imbiss";"Hollenstedter Straße";8;21647;"Moisburg";"Deutschland";"04165216677";"0173/1837720";;;"www.pronto-pizza-moisburg.de";;30
+41107;110;"Herr ";"Khan";"Nasrullah ";"Taj Mahal";"Ital. Restaurant/Imbiss";"Bischofstraße";3;19055;"Schwerin";"Deutschland";"038/55756791";;;;;;30
+41108;111;;;;"Dunia Lebensmittel";"Asia/Afro Shop";"Langenhorner  Chaussee";575;22419;"Hamburg";"Deutschland";"040/63671907";;;;;;30
+41109;112;"Herr ";"Nezam";"Zalahuddin ";"Zala Restaurant";"Ind./pak. Restaurant/Imbiss";"Rothenbaumchaussee";109;20148;"Hamburg";"Deutschland";"040/41332225";;;"tanovic@zala-verwaltung.de ";"www.zala.de";;30
+41110;113;"Herr ";"Nezam";"Zalahuddin";"Zala  Zentrale";"Ind./pak. Restaurant/Imbiss";"Wandsbeker Chaussee";279;22089;"Hamburg";"Deutschland";"040/613927";;;"info@zala.de";"www.zala.de";"71/460/09128";30
+41111;114;;;;"Abirami Asia & Afro Shop ";"Asia/Afro Shop";"Große Burgstr.";26;23552;"Lübeck";"Deutschland";"0451-2037425";"0174/2961855";;;;;30
+41112;115;"Herr ";"Bajwa";"Afshan ";"La Romantica-Pizzalieferservice";"Ital. Restaurant/Imbiss";"Ratzeburger Straße";38;23843;"Bad Oldesloe";"Deutschland";"045/31886148";;;;"www.pizza-laromantica.de";;30
+41113;116;;;;"Rajmahal Restaurant";"Ind./pak. Restaurant/Imbiss";"Wernerstraße";24;27472;"Cuxhaven";"Deutschland";"047/21399589";;;;;;30
+41114;117;;;;"Balutschistan Restaurant ";"Ind./pak. Restaurant/Imbiss";"Grindelallee";91;20146;"Hamburg";"Deutschland";"040/41280246";;;;"www.balutschistan-grindel.de";;30
+41115;118;"Herr";"Singh";" Surjit ";"Laroma Restaurant";"Ital. Restaurant/Imbiss";"Stöteroggestraße";71;21339;"Lüneberg";"Deutschland";"041/3131393";;"0413/131393";;"www.lueneburg-laroma.de";;30
+41116;119;"Herr";"Ahmad";"Imtiaz";"India Haus Restaurant ";"Ind./pak. Restaurant/Imbiss";"Heiligengeiststraße";9;21335;"Lüneberg";"Deutschland";"041/31400 323";;;"ahmad.india-haus@gmx.de";"www.50b.de";;30
+41117;120;"Frau ";"Zoltani";"Estorai ";"Nomi´s Pizza Service";"Ital. Restaurant/Imbiss";"Oedemer Weg";32;21335;"Lüneberg";"Deutschland";"043/1407343";;"0413/1761457";"kontakt@nomis-pizza.de";"www.nomis-pizza.de";;30
+41118;121;"Herr ";"Perveen";"Nighat ";"India Curry Haus Restaurant";"Ind./pak. Restaurant/Imbiss";"Hildesheimer Straße";445;30519;"Hannover";"Deutschland";"051/189992820";;;;"www.india-curry-haus.de";"26/118/20052";30
+41119;122;;;;"Joey's Pizza Service";"Ital. Restaurant/Imbiss";"Harburger Straße";55;29223;"Celle";"Deutschland";"05141937938";;"05141937938";"info@joeys.de";"www.joeys.de";;30
+41120;123;"Herr ";"Ghafoor Sahi";"Akmal ";"Balutschistan Restaurent ";"Ind./pak. Restaurant/Imbiss";"Bahrenfelder Straße";169;22765;"Hamburg";"Deutschland";"040/3902229";;;;"www.balutschistan-grindel.de";;30
+41121;124;;;;"Santorini Grill";"Ital. Restaurant/Imbiss";"Dithmarscher Straße";2;22049;"Hamburg";"Deutschland";"040 687721";;;"info@santorini-grill.de";"www.santorini-grill.de";;30
+41122;125;"Frau ";"Sidhu";;"Taj Mahal Restaurant";"Ind./pak. Restaurant/Imbiss";"Hinüberstraße";21;30175;"Hannover";"Deutschland";"051/13481714";"01716425577";"05113360250";"info@tajmahal.de";"www.tajmahal-hannover.de";;30
+41123;126;"Herr ";"Ishfaq Sahi";"Azher";"Taj Mahal Tandoori Restaurant";"Ind./pak. Restaurant/Imbiss";"Mauernstraße";34;29221;"Celle";"Deutschland";"051419785060";;;"info@tajmahal-celle.de";"www.tajmahal-celle.de";;30
+41124;127;;;;"Taj Mahal Restaurant ";"Ind./pak. Restaurant/Imbiss";"Osterholzer Heerstraße";36;28327;"Bremen";"Deutschland";"0421451835";"0152/53733271";;"info@tajmahal-bremen.de";"www.tajmahal-bremen.com";;30
+41125;128;;;;"Lakshmi Restaurant";"Ind./pak. Restaurant/Imbiss";"Am Markt";1;29451;"Dannenberg";"Deutschland";"05861/986068";;;;;;30
+41126;129;;;;"Afro Asian Shop ";"Asia/Afro Shop";"Augusten Str.";39;24143;"Kiel";"Deutschland";"04317759031";;"032211370093";;;;30
+41127;130;;;;"Your Taj Mahal Restaurant";"Ind./pak. Restaurant/Imbiss";"Julius-Ludowieg-Str.";4;21073;"Hamburg";"Deutschland";"040/76758429";;;;;;30
+41128;131;"Herr ";"Nezam";"Khaled ";"India Express GmbH (Chutney Restaurant)";"Ind./pak. Restaurant/Imbiss";"Europa Passage,  Balindamm";40;20099;"Hamburg";"Deutschland";"040 / 288 05 848";;;"mail@chutney-food.de";"chutney-food.de";;30
+41129;132;"Herr ";"Choudhury";"B. Roy ";"Hathi Indisches Spezialitätenrestaurant";"Ind./pak. Restaurant/Imbiss";"Bargteheider Straße";114;22143;"Hamburg";"Deutschland";"040/6773328";;;"Info@Hathi-Online.de";"hathi-online.de";;30
+41130;133;;;;"Balutschhistan  Pakistani Restaurant Barmbek";"Ind./pak. Restaurant/Imbiss";"Fuhlsbüttler Str";"172 A";22305;"Hamburg";"Deutschland";"040 -65795503";;;;;;30
+41131;134;;;;"Trang Asia Supermarkt";"Asia/Afro Shop";"Fuhlsbüttler Str.";129;22305;"Hamburg";"Deutschland";"040-28577893";"0176-49282600";;"trangasiasupermarkt@yahoo.de";;;30
+41132;135;"Herr";"Chahal";"S.";"Sagir Restaurant";"Ind./pak. Restaurant/Imbiss";"Sallstraße";17;30171;"Hannover";"Deutschland";"05112353593";;;"s.chahal@web.de";"www.sagir-restaurant.de";;30
+41133;136;;;;"Nanak Restaurant";"Ind./pak. Restaurant/Imbiss";"Landwehrdamm";42;27432;"Bremervörde";"Deutschland";"01732196203";;;"nanak_pizzaservice@web.de";;;30
+41134;137;"Herr ";"Ahmad";"Imran";"Star Asian Store Bremen";"Asia/Afro Shop";"Waller Ring";139;28219;"Bremen";"Deutschland";"04218394883";;;"info@starasianstore.de";"www.starasianstore.de";;30
+41135;138;;;;"Enjoy Pizzaservice";"Ital. Restaurant/Imbiss";"Waldenau Marktplatz";2;25421;"Pinneberg-Waldenau";"Deutschland";"04101534728-29";;;;;;30
+41136;139;"Herr ";"Singh Khemra";"Harjit ";"China Wall Restaurant";"Asia/Afro Shop";"Smidtstraße";13;20535;"Hamburg";"Deutschland";"040 29821898";;;"harjitkhehra71@yahoo.de";"www.china-wall.de";;30
+41137;140;;;;"Patara Grill Imbiss";"Ind./pak. Restaurant/Imbiss";"Wilstorfer Str";56;21073;"Hamburg-Harburg";"Deutschland";"040/770055";;;;;;30
+41138;141;"Herr ";" Ahmad";"Iftikhar";"Baluchi Restaurant";"Ind./pak. Restaurant/Imbiss";"Grindelallee";31;20146;"Hamburg";"Deutschland";"040/452479";;;"info@balutschi.com";"www.balutschi.com";;30
+41139;142;"Herr ";" Gothra";"G.S.";"Jogi G. Restautant";"Ind./pak. Restaurant/Imbiss";"Fischerstraße";1;21614;"Buxtehude";"Deutschland";"041/61 3347";;;"piadalraj@yahoo.de";"jogi-buxtehude.de";;30
+41140;143;"Herr ";"Singh Sher Gill";"Balwant ";"Drive Pizza Imbiss";"Ital. Restaurant/Imbiss";"Bürgerweide";62;20535;"Hamburg.";"Deutschland";"040/2518846";;;;"www.drive-pizza.net";;30
+41141;144;;;;"Onkel-Sahingöz GmbH & Co. KG Grossmarkt Stand E 162";"Lebensmittel Großhandel";"Banksstraße";1;20097;"Hamburg";"Deutschland";"040/3290900";;;"isselhorst@onkel-hh.de";"www.onkel-hh.de";;30
+41142;145;"Herr ";"Breitung";"Federico ";"Surimex";"Asia/Afro Shop";"Mundsburger Damm";39;22085;"Hamburg";"Deutschland";"040/22739581";"7127063356";"04018059469";"info@surimex.de";"www.surimex.de";;30
+41143;146;;;;"Roma Pizzeria";"Ital. Restaurant/Imbiss";"Bremer Str.";38;49406;"Barnstorf";"Deutschland";"054/421552";;;;;;30
+41144;147;"Herr ";"Ahmed";"Maqsuad ";"India Haus Hildesheim";"Ind./pak. Restaurant/Imbiss";"Schuhstraße";52;31134;"Hildesheim";"Deutschland";"051/21289 37 83";;;"ahmad.india-haus@gmx.de";;;30
+41145;148;;;;"Din Hau Restaurant";"Asia Restau./Imbiss";"Klosterwall";4;22095;"Hamburg";"Deutschland";"040/30392629";;;;;;30
+41146;149;"Herr";"Bayan";"Schairshah";"Asia Laden Kiel";"Asia/Afro Shop";"Fleethörn";23;24103;"Kiel";"Deutschland";"0431677092";;"0431677093";"post@asia-laden-kiel.de";"www.asia-laden-kiel.de";;30
+41147;150;;;;"Thanh Phong Asia Markt";"Asia/Afro Shop";"Wandsbeker Marktstr.";152;22041;"Hamburg";"Deutschland";"04088305262";;"04088305260";;;;30
+41148;151;"Herr ";"Jahangir Alam";"Mohammad ";"Taj Mahal Restaurant";"Ind./pak. Restaurant/Imbiss";"Langhorner Chaussee";11;22335;"Hamburg";"Deutschland";"040/53 05 05 50";;;"info@taj-mahal-hamburg.com";"taj-mahal-hamburg.com";;30
+41149;152;;;;"Musa Cakar";"Lebensmittel Großhandel";"Banksstraße";28;20097;"Hamburg";"Deutschland";"040/30384090";;"04069208129";;;;30
+41150;153;"Familie";"Ahmad";;"Kashmir Restaurant";"Ind./pak. Restaurant/Imbiss";"Wedeler Landstraße";29;22559;"Hamburg";"Deutschland";"040/82244770";;;;;;30
+41151;154;;;;"Taj Mahal Restaurant";"Ind./pak. Restaurant/Imbiss";"An der Mönchskirche";"1";29410;"Salzwedel";"Deutschland";"039/01307307";;;;;;30
+41152;155;"Herr";"Mirweis";"Sargand";"Thai Asian Supermarket";"Asia/Afro Shop";"Lange Reihe";"1";20099;"Hamburg";"Deutschland";"040/41924457";;"04041924458";;;;30
+41153;156;;;;"See kei";"Asia/Afro Shop";"Trittau";22;21107;"Hamburg";"Deutschland";;;;;;;30
+41154;157;;;;"Asian & Afro Angadi";"Asia/Afro Shop";"Vahrenwalder Str.";"175A";30165;"Hannover";"Deutschland";"051/13574280";;;"Asia.Angadi@yahoo.de";;;30
+41155;158;;;;"Calendula";"Lebensmittel Großhandel";"Am Neumarkt";30;22041;"Hamburg";"Deutschland";"040/6526051";"01626231932";;"info@calendula-hamburg.de";"calendula-hamburg.de";;30
+41156;159;;;;"Khan Plaza";"Lebensmittel Großhandel";"Steindamm";43;22099;"Hamburg";"Deutschland";"040/50743600";;;;;;30
+41157;160;"Herr";"Sardarov";"Hamlet";"Bazar Frisch & Fine ";"Asia/Afro Shop";"Norderstraße";23;25813;"Husum";"Detuschland";"04841809216";"01709507700";;;;;30
+41158;161;;;;"Das Asialand Lebensmittel";"Asia/Afro Shop";"Tangstedter Landstraße";30;22415;"Hamburg";"Deutschland";"04067386937";;;;;;30
+41159;162;"Herr ";"Arslan";"Erhan ";"Weiden  Bazar GmbH";"Lebensmittel Großhandel";"Banksstraße";28;20097;"Hamburg";"Deutschland";"040/45000400";;;"info@weidenbazar.de";"www.weidenbazar.de";;30
+41160;163;"Herr ";"Arslan";"Erhan ";"Weiden Bazar GmbH";"Lebensmittel Großhandel";"Weidenallee";48;20357;"Hamburg";"Deutschland";"040/45000400";;;;;;30
+41161;164;"Herr ";"Chishti";"Sohail ";"Chilihouse";"Ind./pak. Restaurant/Imbiss";"Markt";17;18258;"Schwaan";"Deutschland";"038/448903160";;;"info@chilihouse-schwaan.de";"chilihouse-schwaan.de";;30
+41162;165;"Herr";"Narayanapillai";"Sujthan";"Athi Devi Asia & Afro Supermarkt ";"Asia/Afro Shop";"Leykestraße";1;12053;"Berlin";"Deutschland";"030/62708505";;;;;"DE313118859";30
+41163;166;"Herr";"Warrich";"Yaqup ";"Afro Asia Kosmetik und Lebensmittel";"Asia/Afro Shop";"Torfstraße";24;13353;"Berlin";"Deutschland";"030/4534652";;;;;;30
+41164;167;;;;"Music House";"Eventsaal";"Haldesdorfer Straße";106;22179;"Hamburg";"Deutschland";"04064202717";;"04064202719";"nfo@music-house-hh.de";"www.hamburglocation.com";;30
+41165;168;;;;"Asia Restaurant Tan-Binh";"Asia Restau./Imbiss";"Burgstraße ";28;26122;"Oldenburg";"Deutschland";"044/1 13636";;;;;;30
+41166;169;;;;"Tema Market African Foodstuff Direct Import";"Asia/Afro Shop";"Möllner Landstraße";137;22117;"Hamburg";"Deutschland";;;;;;;30
+41167;170;;"Eppendorf";;"Gurdwara Singh Sabha e.V.";"Verein/Stiftung/Gemeinschaft";"Grandweg";97;22529;"Hamburg";"Deutschland";"040/52878651";;;;"www.gurdwara.de/";;30
+41168;171;;;;"Asia Shop ";"Asia/Afro Shop";"Klingenhagen";2;49377;"Vechta";"Deutschland";;;;;;;30
+41169;172;"Frau ";"Mosarrat";"Sultana ";"India Restaurant";"Ind./pak. Restaurant/Imbiss";"Hamburger Chaussee";75;24113;"Kiel";"Deutschland";"017684419965";"017684420027";;;"www.india-kiel.de";;30
+41170;173;;;;"Sönmez GmbH";"Asia/Afro Shop";"Steindamm";8;20099;"Hamburg";"Deutschland";"040/245484";;;;;;30
+41171;174;;;;"Om Fresh and Healthy";"Ind./pak. Restaurant/Imbiss";"Mühlendamm";1;24113;"Kiel";"Deutschland";"043/1800868270";;;;;;30
+41172;175;;;;"Kan Asia Restaurant";"Asia Restau./Imbiss";"Osakaallee";6;20457;"Hamburg";"Deutschland";"040/32901860";;;;;;30
+41173;176;"Herr ";"Ghai";"Sunil ";"Dostana Import Export Gmbh";"Asia/Afro Shop";"Stralsunder Straße";3;20099;"Hamburg";"Deutschland";"040/28051445";;;"info@dostana-store.de";"www.dostana-store.de";;30
+41174;177;"Herr ";"Singh Muhar";"Dalbir ";"Paradise Food Service";"Ital. Restaurant/Imbiss";"Winterhuder Weg";90;22085;"Hamburg";"Deutschland";"040/2291811";;;;"www.paradise-food-service.de";;30
+41175;178;;;;"Mehar Asian Food";"Asia/Afro Shop";"Stein weg";22;64546;"Mörfelden-Walldorf";"Dutschland";"015904369331";;;;;;30
+41176;179;"Herr";"Naimzai";"Mohibbullah";"Al Noor Markt ";"Asia/Afro Shop";"Neustadt";"67/69";24939;"Flensburg";"Deutschland";"046149388064";;;;"www.alnoor-markt.de";;30
+41177;180;;;;"Sona Food Traders ";"Asia/Afro Shop";"Bülowstr.";57;10783;"Berlin";"Deutschland";"030/21961990";;;"sonafoodtraders@hotmail.com";"www.sonafoodtraders.de";;30
+41178;181;;;;"Pham Cia Asiatischer Supermarkt";"Asia/Afro Shop";"Bahrenfelder Str.";159;22765;"Hamburg";"Deutschland";"01726692920";;;;;;30
+41179;182;"Herr";"Liaquat Ali";"Raja";"Asia Afro Markt";"Asia/Afro Shop";"Westerstraße";60;28199;"Bremen";"Deutschland";"042180930290";"0176/72187873";;"asia.afro.bremen@googlemail.com";;"St.-Nr.60/259/11618";30
+41180;183;;;;"Baba International Lebensmittel";"Asia/Afro Shop";"Adenauerallee";33;20097;"Hamburg";"Deutschland";"040 / 970 75 841";;;"baba.inter@gmail.com";;;30
+41181;184;"Herr ";"Tulat";"Ali ";"Shalimar Restaurant ";"Ind./pak. Restaurant/Imbiss";"Rathausstraße";6;24937;"Flensburg";"Deutschland";"017632327283";;;;;;30
+41182;185;;;;"Wais Import & Export";"Asia/Afro Shop";"Gustav-Adolf-Str";120;22043;"Hamburg";"Deutschland";;;;;;;30
+41183;186;"Herr ";"Kapoor";"Manor ";"Mini Markt";"Asia/Afro Shop";"August-Krogmann-Straße";20;22159;"Hamburg";"Deutschand";;;;;;;30
+41184;187;;;;"Jennat Markt Laith Abu Alnegur";"Asia/Afro Shop";"Neustadt";15;24939;"Flensburg";"Deutschland";"0461 49240503";;;;;;30
+41185;188;"Herr ";"Yoganathan";"Krishnasamy ";"China Haus Restaurant";"Asia Restau./Imbiss";"Hoyersburger Straße";20;29410;"Salzwedel";"Deutschland";"03901423430";;;"mr.sathy@t-online.de";"www.nsathis.com";;30
+41186;189;;;;"Asia Markt ";"Asia/Afro Shop";"Friedrich-Ebert-Straße";2;25421;"Pinneberg";"Deutschland";"0410177 05 97";;;"kieuhanh@onlinehome.de";;;30
+41187;190;;;;"India Express GmbH";"Ind./pak. Restaurant/Imbiss";"Königsstraße";27;70173;"Stuttgart";"Deutschland";;;;;;;30
+41188;191;"Herr ";"Wordtmann-Chatterjee";"Ajoy ";"Teehaus Shila";"Sonstiges";"Wandsbeker Chaussee";123;22089;"Hamburg";"Deutschland";"040/2009990";;;"info@teehaus-shila.de";"teehaus-shila.de";;30
+41189;192;;;;"Blumen Haus Veranstaltungssaal";"Eventsaal";"Holstenhofweg";57;22043;"Hamburg";"Deutschland";"040/25491517";;;;;;30
+41190;193;"Herr ";"Kaur";"Harjinder ";"Punjab Store ";"Asia/Afro Shop";"Stegerwaldring";21;22119;"Hamburg";"Deutschland";"040/75118177";;;;;;30
+41191;194;;;;"Tandoori Palace takeaway";"Ind./pak. Restaurant/Imbiss";"kirkevej";143;6705;"Esbjerg";"Dänemark";;;;;"tandooripalace.dk/";"DK38948067";30
+41192;195;;;;"Asia Super Markt";"Asia/Afro Shop";"Billstraße";117;20539;"Hamburg";"Deutschland";"040/65863615";;;;;;30
+41193;196;;;;"Niharika´s Indian Boutique";"Asia/Afro Shop";"Steintorweg";2;20099;"Hamburg";"Deutschland";"0176/26993031";;;;"www.m-s-indian.com";;30
+41194;197;"Herr ";"Tirzay";"Ahmad Farid ";"Pizza Max";"Ital. Restaurant/Imbiss";"Washingtonallee";111;22111;"Hamburg";"Deutschland";"040/73670849";;;;;;30
+41195;198;;;;"Pizza Max";"Ital. Restaurant/Imbiss";"Bramfelder Chaussee";175;22177;"Hamburg";"Deutschland";"040/60039455";;;"info@pizzamax.de";"www.pizzamax.de";;30
+41196;199;;;;"Malik Beauty Supplies BV";"Asia/Afro Shop";"Schuttevaerweg";130;"3044 BB";"Rotterdam";"Netherlands";"0031104374399";;;"info@malikbeauty.com";;"NL850602932B01";30
+41197;200;;;;"Exotic Marked DK";"Asia/Afro Shop";"Helgolandsgade";18;1653;"København V";"Denmark";"0045 27 71 90 99";;;;;;30
+41198;201;;;;"Madni Sweets";"Asia/Afro Shop";"Vigerslev Allé";32;2500;"Valby";"Denmark";;;;;;;30
+41199;202;"Frau ";"Fietz";"Glory ";"Glorys  Shop Varel";"Asia/Afro Shop";"Langestraße";1;26316;"Varel";"Deutschland";"04451861400";"01766107438";;;;;30
+41200;203;;;;"Afro Beauty Center";"Asia/Afro Shop";"Vahrenwalderstraße";93;30165;"Hannover";"Deutschland";;;;"h@riazy.de";;;30
+41201;204;"Herr";"Crisolli";"Mario ";"Feuer & Glas OHG";"Asia/Afro Shop";"Sandkaut";10;56355;"Nastätten";"Deutschland";"067/72 8530";;;"service@feuerundglas.de";"www.feuerundglas.de";;30
+41202;205;"Herr ";"Preiss";"Moritz ";"Lioko e.K.";"Lebensmittel Großhandel";"Billhorner Brückenstraße";40;20539;"Hamburg";"Deutschland";"040/27866520";;;"info@lioko.de";"www.lioko-mexikaner.de";;30
+41203;206;"Herr";"Oluwatosin Roseline";"Ganiyu ";"Afro Shop";"Asia/Afro Shop";"Braunschweiger Straße";92;39112;"Magdeburg";"Deutschland";;;;;;;30
+41204;207;;;;"Asia Hansaplatz GmbH";"Asia Restau./Imbiss";"Hansaplatz";1;20099;"Hamburg";"Deutschland";"040 30737102";;;;;;30
+41205;208;"Herr";"Nosaief Ghamas Al-Salhi";"Saleh ";"Frugt og Grønt";"Asia/Afro Shop";"Langelandsvej";2;6705;"Esbjerg";"Dänemark";"004553357774";;;"alsalhi@hotmail.dk";;"DK31825075";30
+41206;209;;;;"Asia Imbiss Bok";"Asia Restau./Imbiss";"Wandsbeker Chaussee";272;22089;"Hamburg";"Deutschland";"040/20006106";;;"kundenservice@bokrestaurant.de";"http://www.bokrestaurant.de";;30
+41207;210;;;;"China Haus Restaurant ";"Asia Restau./Imbiss";"Amtshof";2;29439;"Lüchow";"Deutschland";"058/41979679";;;;;;30
+41208;211;"Herr";"Heder Ramin";"Gulamm ";"Chutney Restaurant ";"Ind./pak. Restaurant/Imbiss";"Herold-Center, Berliner Allee";38;22850;"Hamburg-Norderstedt";"Deutschland";"040/52980020";;;"mail@chutney-food.de";"www.chutney-food.de";;30
+41209;212;"Herr ";"Singh";"T. ";"Taj Mahal ";"Ind./pak. Restaurant/Imbiss";"Dielingerstraße";29;49074;"Osnabrück";"Deutschland";"054/13574448";;;"info@tajmahalosnabrueck.de";"tajmahalosnabrueck.de";;30
+41210;213;"Herr ";"Aziz";"Shahid ";"Aziz`s Salate";"Asia/Afro Shop";"Rudolf-Diesel-Straße";1;29664;"Walsrode";"Deutschland";"05161609989";;;;;;30
+41211;214;;;;"Asiakauf";"Asia/Afro Shop";"Ohechaussee";8;22848;"Norderstedt";"Deutschland";"040/52985258";;;"hoangtgiang@yahoo.de";;;30
+41212;215;;;;"Anssar Gmbh";"Asia/Afro Shop";"Steindamm";11;20099;"Hamburg";"Deutschland";"0173/6063377";;;;;;30
+41213;216;;;;"Ariano´s  Grill";"Ital. Restaurant/Imbiss";"Pommernring";131;23569;"Lübeck-Kücknitz";"Deutschland";"045/161303051";"0451-61303050";;;"www.arianosgrill.de";;30
+41214;217;"Herr ";"Ahmed";"Nadeem  ";"Bajwa Asian Foods Gmbh";"Asia/Afro Shop";"Odenwaldstr.";7;64521;"Groß-Gerau";"Deutschland";"061/52987480";;"06152-987481";"info@bajwafoods.com";"bajwa-foods.de";;30
+41215;218;;;;"Apollo Pizza Service";"Ital. Restaurant/Imbiss";"Industriestraße";3;24963;"Tarp";"Deutschland";"046/382224424";;;;;;30
+41216;219;;;;"Transfood Wholesale";"Lebensmittel Großhandel";"Heltorfer Straße";20;40472;"Düsseldorf";"Deutschland";"02114371890";;;"kontakt@transfood-grosshandel.de";"www.transfood-grosshandel.de";;30
+41217;220;"Frau ";"Ahenkan";"Mary ";"Kumasi Market ";"Asia/Afro Shop";"Eppinghofer Str.";142;45468;"Mülheim an der Ruhr";"Deutschland";"020/83761142";;;;;;30
+41218;221;;;;"Castello Pizza Service";"Ital. Restaurant/Imbiss";"Dorfstraße";14;23611;"Sereetz";"Deutschland";"0451 391043";;;;"castello-sereetz.de";;30
+41219;222;"Herr ";"Kabiri ";"Hamed ";"Asia-Kitchen";"Asia Restau./Imbiss";"Bramfelder Chaussee";179;22177;"Hamburg";"Deutschland";"040/63973181";;;;"http://www.asia-kitchen.de/";;30
+41220;223;;;;"Mahal Express ";"Ind./pak. Restaurant/Imbiss";"Weidenbaumsweg";21;21029;"Hamburg";"Deutschland";;;;;;;30
+41221;224;;;;"Kahloon Fine Asian Food ";"Asia/Afro Shop";"An der Riedbahn";5;64560;"Riedstadt";"Deutschland";"061/589178080";;;"kahloon.foods@hotmail.com";;;30
+41222;225;;;;"Raj Mahal Restaurant";"Ind./pak. Restaurant/Imbiss";"Gärtnerstraße";"58b";20259;"Hamburg";"Deutschland";"040/41929846";;;"webmaster@rajmahal-hamburg.de";"www.rajmahal-hamburg.de";;30
+41223;226;;;;"Grando Sukredo Restaurant";"Ital. Restaurant/Imbiss";"Lohbrügger Landstraße";119;21031;"Hamburg";"Deutschland";"040/72106755";;;;;;30
+41224;227;"Herr ";"Naimzada";"Atiqullah ";"Suja Restaurant ";"Ind./pak. Restaurant/Imbiss";"Möllner Landstraße";3;22111;"Hamburg";"Deutschland";"0176/87359077";;;;"www.sujahamburg.de";;30
+41225;228;"Herr ";"Bussri";"S. ";"Kevins Bahar Store";"Asia/Afro Shop";"Steeler Str.";81;45127;"Essen";"Deutschland";"02018750021";;;;"kevinsbaharstore.de";;30
+41226;229;;;;"Faith Tropical Food";"Asia/Afro Shop";"Wandsbeker Chaussee";170;22089;"Hamburg";"Deutschland";;;;;;;30
+41227;230;;;;"Ahmadiyya Muslim Jammat";"Verein/Stiftung/Gemeinschaft";"Genferstraße";11;60437;"Frankfurt am Main";"Deutschland";"0177/7910033";;;"webmaster@ahmadiyya.de";"ww.ahmadiyya.de";;30
+41228;231;"Herr ";"Komar";"Rawish";"Fresh Fruit Cafe and more";"Ital. Restaurant/Imbiss";"Theodorstrasse";48;22761;"Hamburg";"Deutschland";"040/32511565";;;;;;30
+41229;232;;;;"DSN Green Food Company GmbH";"Asia/Afro Shop";"Moorfleeterstraße";50;22113;"Hamburg";"Deutschland";"040/32968762";"0179 390 266 3";"040 - 32 96 87 63";;"www.dsn-greenfood.de";;30
+41230;233;;;;"Afro Shop ";"Asia/Afro Shop";"Findorffstraße";"8-10";28215;"Bremen";"Deutschland";"01725785071";;;;;;30
+41231;234;"Herr ";"Silva";"Senan ";"Breitengrad Restaurant";"Ind./pak. Restaurant/Imbiss";"Gefionstrasse";3;22769;"Hamburg";"Deutschland";"040/43189999";;;"kontakt@breitengrad-hh.de";"restaurant-breitengrad-hamburg.de";;30
+41232;235;;;;"Afro Shop";"Asia/Afro Shop";"Knooper Weg";40;24118;"Kiel";"Deutschland";"043/16668350";;;;;;30
+41233;236;;;;"Sindbad Lebensmittel";"Asia/Afro Shop";"Apenrader Str.";75;24939;"Flensburg-Nordstadt";"Deutschland";"0461 - 58 97 01 21";;;"adnannakas@hotmail.de";;;30
+41234;237;;;;"Union Markt Niebel";"Asia/Afro Shop";"Hauptstraße";36;25899;"Niebüll";"Deutschland";"046617368777";"0152/01708154";;"mustafa_sylt@yahoo.de";"www.unionmarkt.de";;30
+41235;238;;;;"Neovii Pizzeria";"Ital. Restaurant/Imbiss";"im EKZ, Bramfelder Chaussee";230;22177;"Hamburg";"Deutschland";"040/80007117";;;"info@neovii.de";"neovii.de";;30
+41236;239;;;;"Saira India Haus";"Asia/Afro Shop";"Steindamm";21;20099;"Hamburg";"Deutschland";"040/42100254";;;"info@sairas.de";"sairas.de";;30
+41237;241;"Herr/Frau";"Naseri";;"Orientalische Lebensmittel";"Asia/Afro Shop";"Suder  STR";163;20537;"Hamburg";"Deutschland";"040/18161867";;;;;;30
+41238;242;;;;"Udoka Afro Shop Berlin";"Asia/Afro Shop";"Silbersteinstr.";65;12051;"Berlin";"Deutschland";;;;;;;30
+41239;243;;;;"Famous Barber Shop ";"Asia/Afro Shop";"Langemarckstr.";65;28195;"Bremen";"Deutschland";"01739147142";;;;;;30
+41240;244;;;;"Pizza Max   Ghulam Rasool Kohistani";"Ital. Restaurant/Imbiss";"Barmbeker Markt";"25a";22081;"Hamburg";"Deutschland";"040/27148361";;;;"www.pizzamax.de";;30
+41241;245;;;;"Marc Michaelis Ayurvedic Tyerapheut";"Sonstiges";"Eichenstraße";19;20259;"Hamburg";"Deutschland";;;;;;;30
+41242;246;;;;"Himalaya Restaurant";"Ind./pak. Restaurant/Imbiss";"Postkamp";18;30159;"Hannover";"Deutschland";"0511 - 131 60 19";"01725145828";"0511-161 30 89";"info@himalaya-hannover.de";"www.himalaya-hannover.de";;30
+41243;247;;;;"SuJa Restaurant Rinderhalle";"Ind./pak. Restaurant/Imbiss";"Neuer Kamp";31;20359;"Hamburg";"Deutschland";;;;;;;30
+41244;248;"Frau ";"Franzisiska";;"Christo Basi Afro Shop";"Asia/Afro Shop";"Wandsbeker Chausee";218;22089;"Hamburg";"Deutschland";"0176/72253254";;;"christo-basi@live.de";"www.christo-basi.de";;30
+41245;249;"Frau ";"Dejten";"Anke ";"Haveli Restaurant Indisch Bremervörde";"Ind./pak. Restaurant/Imbiss";"Neue Straße";67;27432;"Bremervörde";"Deutschland";"04761 - 92 31 97";;;;;;30
+41246;250;"Frau ";"Tahir";"Rabia ";"Chutney Fünfte GmbH";"Ind./pak. Restaurant/Imbiss";"Am Hauptbahnhof";1;1100;"Wien";"Österreich";4,37E+11;;;"r.tahir78@yahoo.com";;"ATU68855027";30
+41247;251;"Herr ";"Singh";"Sukhdev ";"Grando Sukredo";"Ital. Restaurant/Imbiss";"Pinnebergerstraße";28;22457;"Hamburg";"Deutschland";"040/54805430";;;;;;30
+41248;252;;;;"Peace Afro Shop";"Asia/Afro Shop";"Wandsbeker Zollstraße";154;22041;"Hamburg";"Deutschland";;;;;;;30
+41249;253;;;;"Guman Kolonial Ditial Engros";"Asia/Afro Shop";"Skibhusvej";"133b";5000;"Odense";"Denmark";"004560451840";;;;;"dk30841166";30
+41250;254;"Herr ";"Yari";"Eqbal ";"Goru Gmbh (Chutney Indische Spezialitäten)";"Ind./pak. Restaurant/Imbiss";"Hans-Bredow-Straße";19;28307;"Bremen";"Deutschland";"017663281820";;;;;;30
+41251;255;;;;"Guru Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Jakobistr.";24;30163;"Hannover";"Deutschland";"051121932896";;;"info@guru-hannover.de";"www.guru-hannover.de";;30
+41252;256;"Herr";"Kumar Shrestha";"Shiva ";"Asia Quick";"Asia Restau./Imbiss";"Talstraße";2;20359;"Hamburg";"Deutschland";;;;;"http://www.asiaquick-stpauli.de/";;30
+41253;257;;;;"Pizza Flitzer";"Ital. Restaurant/Imbiss";"Osterholzerlandstraße";45;28325;"Bremen";"Deutschland";"0421 / 407080";;;"info@flitzer-bremen.de";"www.pizzaflitzer-hb.de";;30
+41254;258;;;;"Marias-Lebensmittel";"Asia/Afro Shop";"Berliner Platz";13;22045;"Hamburg";"Deutachland";"040/20 91 94 87";;;;;;30
+41255;259;;;;"Pabla Sweets";"Ind./pak. Restaurant/Imbiss";"Brennerstr.";15;20099;"Hamburg";"Deutschland";;;;;;;30
+41256;260;"Herr";"Nezam";"Kalid ";"Chutney Gmbh";"Ind./pak. Restaurant/Imbiss";"(Europa Galerie) Trierer Straße";1;66111;"Saarbrücken";"Deutschland";"017652847089";;;"hloodin@hotmail.de";;;30
+41257;261;;;;"Pamir Gmbh";"Ind./pak. Restaurant/Imbiss";"Großmannstraße";86;20539;"Hamburg";"Deutschland";"040/7891011";;;"info@pamir-food.de";"www.pamir-food.de";;30
+41258;262;;;;"Nandu Lurup";"Ital. Restaurant/Imbiss";"Industriestr.";1;22869;"Schenefeld";"Deutschland";;;;;;;30
+41259;263;;;;"Pizza Max Ghulam Rasool Kohistani";"Ital. Restaurant/Imbiss";"Stein-Hardenberg-Straße";83;22045;"Hamburg";"Deutschland";"040/82299250";;;;"www.pizzamax.de";;30
+41260;264;"Herr ";"Santhakumaan";"Nerjan ";"Ambal Markt";"Asia/Afro Shop";"Mittelstr.";16;27568;"Bremerhaven";"Deutschland";"04714833893";;;;;;30
+41261;265;;;;"GAP Hair Food Cosmetics Gmbh";"Afro-Kosmetik/Beauty/Friseur";"Max-Brauer-Allee";46;22765;"Hamburg";"Deutschland";"040 - 850 55 71";;"040 - 85 86 12";"gap.cosmetics@gmail.com";;;30
+41262;266;;;;"Indian Restaurant Singh";"Ind./pak. Restaurant/Imbiss";"Mühlenweg";1;31932;"Springe";"Deutschland";"015212132448";;;;;;30
+41263;267;;;;"Weltcafé";"Café";"Pulverteig";18;20099;"Hamburg";"Deutschland";;;;;;;30
+41264;268;;;;"Papaye Restaurant";"Afrikan. Restaurant/Imbiss";"Stormarner Str.";1;22049;"Hamburg";"Deutschland";"040/50699541";;;;;;30
+41265;269;;;;"Tropic Food ";"Afrikan. Restaurant/Imbiss";"Neustadt";13;24939;"Flensburg";"Deutschland";"046157494517";"0152/32044093";"0461 - 14 66 26 50";"info@tropic-food.de";;;30
+41266;270;;;;"Am Kanal - Schnellrestaurant";"Ital. Restaurant/Imbiss";"Nordkanalstraße";58;20097;"Hamburg";"Deutschland";"040233515";;;;;;30
+41267;271;;;;"Bok Wandsbek Lieferservice UG  &CO:KG";"Asia Restau./Imbiss";"Wandsbeker Chaussee";114;22089;"Hamburg";"Deutschland";"040/204578";;;;;;30
+41268;272;;;;"Thai Food Express";"Asia Restau./Imbiss";"Hermannstal";37;22119;"Hamburg";"Deutschland";"040/75666631";;;"thaifood22119@yahoo.de";"http://www.thai-foodexpress.de/";;30
+41269;273;;;;"Chicken Spot Restaurant";"Ital. Restaurant/Imbiss";"Fuhlsbüttler Str";166;22305;"Hamburg";"Deutschland";"040 63669522";;;;;;30
+41270;274;;;;"Medina";"Asia/Afro Shop";"Storegade";116;6700;"Esbjerg";"Denmark";"004548442834";;;;;;30
+41271;275;"Herr ";"Yan";"Egbal ";"Goru Gmbh (Chutney Indische )";"Ind./pak. Restaurant/Imbiss";"AG-Weser-Str.";1;28237;"Bremen";"Deutschland";"015731589146";;;;;;30
+41272;276;"Herr";"Vermani";"Vinay ";"Indische Gewürze und Spezialitäten ";"Asia/Afro Shop";"Höltystraße";1;30171;"Hannover";"Deutschland";"0511 3631711";;"05113631714";"vermani@t-online.de";"www.vermani.de";;30
+41273;277;"Herr";"Tawab";;"India Express Gmbh (Chutney) Gerberpassage";"Ind./pak. Restaurant/Imbiss";"Sophienstraße";21;70178;"Stuttgart";"Deutschland";;;;;;;30
+41274;279;;;;"Suri Asia Shop ";"Asia/Afro Shop";"Gröpelinger Heerstraße ";191;28237;"Bremen";"Deutschland";"042169196167";;;;;;30
+41275;280;"Herr";"Kiremit";"Sait ";"Sultan Markt Gmbh";"Asia/Afro Shop";"Eckenförderstraße Str";"85-87";24116;"Kiel-Gaarden";"Deutschland";"015233691109";;;;;;30
+41276;281;;;;"Jaffna Stores ";"Asia/Afro Shop";"Feilenstraße ";8;33602;"Bielefeld";"Deutschland";"0521 174794";;"0521 - 17 47 97";"info@jaffnastores.com";"www.jaffnastores.de";;30
+41277;282;"Frau ";"Thanh Phuong";"Nguyen";"Asia Kim Supermarkt ";"Asia Restau./Imbiss";"Runde Str.";6;30161;"Hannover";"Deutschland";"0511/3530837";"05111249077";;"kimsuppermarkt@gmail.com";;;30
+41278;283;;;;"Espido Gmbh";"Lebensmittel Großhandel";"Moorfleeterstraße";50;22113;"Hamburg";"Deutschand";"0407338639";"0176- 41 95 708 6";;"onlineshop@espido.de";;;30
+41279;284;;;"Slemann Miri ";"Sultan Markt GmbH";"Asia/Afro Shop";"Neustadt";26;24939;"Flensburg";"Deutschland";"0521 174794";;;;;;30
+41280;285;"Herr";"Wah Hau";"Chai ";"Chuntney Neumünster";"Ind./pak. Restaurant/Imbiss";"Gänsemarkt";1;24534;"Neumünster";"Deutschland";"04321 334 0005";"0173-96 57 171";;;;;30
+41281;286;;;;"Taj Mahal Express ";"Ind./pak. Restaurant/Imbiss";"Rosenhagen ";20;31134;"Hildesheim";"Deutschland";"05121 6051375";;"051216051377";;;;30
+41282;287;;"Wunderland Food Gmbh";;"Wunderland Food Gmbh";"Feinkost-Metzgerei";"Berner Heerweg ";"2";22159;"Hamburg";"Deutschland";"040 - 734 47 281";;;"info@wunderlandfood.de";;;30
+41283;288;;;;"Afro Shop Hadis";"Asia/Afro Shop";"Neckarstr. ";"6a";12053;"Berlin";"Deutschland";"0306861378";"015115438721";;;;;30
+41284;289;"Herr";"Nezam";"Khaled";"Chutney 8 Gmbh. Aquis Palaza (durch die stiftstr: anlieferung)";"Ind./pak. Restaurant/Imbiss";"Adalbertstr.";100;52062;"Aachen";"Deutschland";"0241- 90 05 41 40";;;"t.mir@t-online.de";;;30
+41285;290;;"Sharma & Bhatti Gbr.";;"Mahraja  Restaurant";"Ind./pak. Restaurant/Imbiss";"Markt";15;32423;"Minden";"Deutschland";;;;;;;30
+41286;291;;;;"Win Mart ";"Sonstiges";"Osterholzer Landstraße ";106;28325;"Bremen";"Deutschland";;;;;;;30
+41287;292;;"Sophienhof Kiel";;"Manju Your Indian Express ";"Ind./pak. Restaurant/Imbiss";"Sophienblatt ";20;24103;"Kiel";"Deutschland";;;;;;;30
+41288;293;"Herr";"Faris";"Khalaf ";"Lili Supermarkt";"Asia/Afro Shop";"Knochenhauer Str.";1;30159;"Hannover";"Deutschland";"0511-2285526";"05112287341";"05112282625";;;;30
+41289;294;"Herr";"Reinelt";"Manju";"La Perla ";"Ital. Restaurant/Imbiss";"Alte Heerstraße";37;31135;"Hildesheim";"Deutschland";"05121/2060152";"017691491306";;"manju.reinelt@hotmail.de";"www.laperla-hildesheim.de";;30
+41290;295;;;;"Kaghan Indian Restaurant ";"Ind./pak. Restaurant/Imbiss";"Lämmertwiete ";2;21073;"Hamburg";"Deutschland";"040 32527895";;;"Keine";"www.kaghan.de";;30
+41291;296;;;;"Pak Punjab Store ";"Asia/Afro Shop";"Alexanderstraße ";272;26127;"Oldenburg";"Deutschland";"044193546690";;;;;;30
+41292;297;"Herr";"Rahmani";"Azizullah ";"Manju Indien Express ";"Ind./pak. Restaurant/Imbiss";"Königsallee";56;40212;"Düsseldorf";"Deutschland";"0211 8632760";"01773303010";;"KEINE";"www.eatmanju.de";;30
+41293;298;;;;"Haryana Indisches Restaurant ";"Ind./pak. Restaurant/Imbiss";"Scheideweg ";56;26121;"Oldenburg";"Deutschland";"0441/969 68 722";;"0441/969 68 723";"service@restaurant-haryana.de";"haryana-restaurant.de";;30
+41294;299;;;;"Yarl Supermarkt ";"Asia/Afro Shop";"Heerstr ";104;47053;"Duisburg";"Deutschland";"0203/98406782";;;;;"64/109/04960";0
+41295;300;"Herr";"Echzig";;"Mega Markt  ";"Asia/Afro Shop";"Oelmühlenstr";105;33604;"Bielefeld";"Deutschland";"052194938708";;521;"keine";"keine";;30
+41296;301;"Herr ";"Gullam Heder";"Ramin ";"Chutney 9 GmbH EKZ Essen";"Ind./pak. Restaurant/Imbiss";"Limbecker Platz";"1a";45127;"Essen";"Deutschland";"(0201) 61 69 98 43";"017661894005";;"Keine";"chutney-food.de";;30
+41297;302;"Herr";"Kassem";;"Can Minimarkt ";"Asia/Afro Shop";"Kavalleriestraße";"2-10";33602;"Bielefeld ";"Deutschland";"05213057784";"017671712371";;"keine";"keine";;30
+41298;303;"Herr ";"Adusei";"Michael ";"Afro/Asia International Shop";"Asia/Afro Shop";"Kurt-Schumacher-Str";18;30159;"Hannover";"Deutschland";"05111319706";"01725123937";5111697136;"Afrointernational@gmx.de";;;30
+41299;304;;;;"Taste of India ";"Ind./pak. Restaurant/Imbiss";"Lilienthalstr";"25b";24941;"Flensburg";"Deutschland";;;;;;;30
+41300;305;;;;"Punjabi Indisches Restaurant ";"Ind./pak. Restaurant/Imbiss";"Ritterbrunnen";7;38100;"Braunschweig";"Deustchland";"05312191047";;;;;;30
+41301;306;;;;"Di Guo ";"Asia/Afro Shop";"Hamburger Allee";37;30161;"Hannover";"Deutschland";"05113882622";;;;;;30
+41302;307;;;;"Akash Food Trading ";"Lebensmittel Großhandel";"Bobstraße ";2;50676;"Köln";"Deutschland";"0221 - 272 06 60";"0177 - 215 01 85";"03212 - 146 83 19";"s.wadwa@gmx.de,info@akashbazaar.de";;;30
+41303;308;;;;"I Shop ";"Asia/Afro Shop";"Andreastraße";"8-9";30159;"Hannover";"Deutschland";"051151949760";;;;;;30
+41304;309;;;;"KSC Srilankan Shop";"Asia/Afro Shop";"Fuldastraße";12;12045;"Berlin";"Deutschland";"0306239362";;;;;;30
+41305;310;;;;"Nana Afro Accessoires";"Asia/Afro Shop";"Vahrenwalder Straße ";38;30165;"Hannover";"Deutschland";"051156867016";;;;;;30
+41306;311;;;;"Shanti Indisches Restaurant ";"Ind./pak. Restaurant/Imbiss";"Ostendorferstraße ";47;27726;"Worpswede";"Deutschland";"047927215";;;;;;30
+41307;312;;;;"Sindos Markt ";"Asia/Afro Shop";"Kerpenerstraße ";80;50170;"Kerpen - Sindorf";"Deutschland";"0227351852";;;;;;30
+41308;313;;;;"Massala ";"Ind./pak. Restaurant/Imbiss";"Grüne straße ";41;27283;"Verden";"Deutschland";;;;;;;30
+41309;314;;;;"Indien Restaurant Raja Shanti";"Ind./pak. Restaurant/Imbiss";"Admiralstraße ";127;28215;"Bremen";"Deutschland";"0421370346";;;;;;30
+41310;315;;;;"Altun Gastronomie Bedarf ";"Lebensmittel Großhandel";"Wellseedamm";21;24145;"Kiel";"Deutschland";"04318879910";;;;;;30
+41311;316;;;;"Afro Asia Shop ";"Asia/Afro Shop";"Grindelallee ";117;20146;"Hamburg";"Deutschland";"04041620402";;;;;;30
+41312;317;;;;"Neon Kiosk ";"Asia/Afro Shop";"Bahnhofstraße ";28;28195;"Bremen";"Deutschland";;;;;;;30
+41313;318;;;;"Altun Market ";"Asia/Afro Shop";"Wasbkerstraße ";30;24534;"Neunünster";"Deutschland";"043217545958";;;;;;30
+41314;319;;;;"Ons Kiosk ";"Asia/Afro Shop";"Falkenstraße ";12;28195;"Bremen";"Deutschland";;;;;;;30
+41315;320;;;;"Longfood  ";"Ind./pak. Restaurant/Imbiss";"Albert-Schweitzer-Straße";10;30880;"Laatzen";"Deutschland";"015258399999";;;"ngotanpham288@yahoo.com.vn";;;30
+41316;321;;;;"Asia Markt ";"Asia/Afro Shop";"Albert-Schweitzer-Straße";59;38226;"Salzgitter";"Deutschland";"053418489477";;;;;;30
+41317;322;;;;"Butt Sweet Food ";"Asia/Afro Shop";"Föhrerstraße";10;13353;"Berlin";"Deutschland";"030/45490987";;;;;;30
+41318;323;;;;"Ya Man ";"Afrikan. Restaurant/Imbiss";"Gotzkowskystraße ";17;10555;"Berlin";"Deutschland";"03039808917";;;;;;30
+41319;324;;;;"Hua Li Asia Supermarkt Gmbh ";"Asia/Afro Shop";"Bahnhofstraße ";10;28195;"Bremen";"Deuschland";"042124278668";"0421 242 78 665 ";"042124278667";"hualigmbh@hotmail.com";;;30
+41320;325;;;;"Hua Li Asia Supermarkt ";"Asia/Afro Shop";"Vor dem Steintor";102;28203;"Bremen";"Deutschland";"04217947823";;;;;;30
+41321;326;;;;"Indian Curry House";"Ind./pak. Restaurant/Imbiss";"Vor dem steintor";78;28203;"Bremen";"Deutschland";"042179428209";;;;;;30
+41322;327;"Herr";"Saini";"Surender ";"Plenum";"Ind./pak. Restaurant/Imbiss";"Egestorffstraße ";5;30449;"Hannover";"Deutschland";"0511441690";"01724147685";;;;;30
+41323;328;;;;"Ashoka";"Asia/Afro Shop";"Herrenteichs straße ";"1d";49074;"Osnabruck";"Deutschland";"0541260505";;;;;;30
+41324;329;;;;"African Foods Drinks Suplier";"Afrkani.  Restaurant/Imbiss";"Bredowstraße";11;10551;"Berlin";"Deutschland";"017637372713";;;;;;30
+41325;330;;;;"Maharaja Indian Restaurant ";"Ind./pak. Restaurant/Imbiss";"Hastedter Heerstraße";290;28207;"Bremen ";"Deutschland";"04214174814";;;;;;30
+41326;331;;;;"Qadir Food Traders ";"Asia/Afro Shop";"Brunnenstraße ";"111a";13355;"Berlin";"Deutschland";"030 - 46 79 8772";;;"qadirfoodtraders@googlemail.com";;;30
+41327;332;"Herr ";" L. Odom";"Simon";"Afro Shop Afrikanische Spezialitäten";"Asia/Afro Shop";"Fallersleber Straße";42;38100;"Braunschweig";"Deutschland";"053161493039";"015203721681";"053161493094";;;;30
+41328;333;;;;"Namaste Indischer Supermarkt ";"Asia/Afro Shop";"karl Marx Straße";"21-23";12043;"Berlin";"Deutschland";"0306273424";;;;;;30
+41329;334;;;;"Khan Spät Kauf";"Asia/Afro Shop";"martin optiz straße ";1;13357;"Berlin";"Deutschland";"03046064290";;;;;;30
+41330;335;;;;"LAHORE FOOD S.R.O ";"Asia/Afro Shop";"Husitská";"33/34";"130 00";"Prag";"Tschechien";;;;;;;30
+41331;336;;;;"Dubai Supermarket";"Asia/Afro Shop";"Edwin Rahrs vej";32;8220;"Brabrand-Aarhus";"Deutschland";"04526284643";;;;;"CZ27203468";30
+41332;337;;;;"Kohinoor ";"Asia/Afro Shop";"Neustädter Straße";25;33602;"Bielefeld";"Deutschland";;;;;;;30
+41333;338;;;;"Akwa Bell Afroshop Salon ";"Asia/Afro Shop";"August bebel straße ";101;38602;"Bielefeld";"Deutschland";"05217709438";;;;;;30
+41334;339;;;;"Orient Shop ";"Asia/Afro Shop";"Karl-Marx Straße";12;12043;"Berlin";"Deutschland";"03097883212";;;;;;30
+41335;340;;;;"Asia Mekong ";"Asia Restau./Imbiss";"Kurt Schumacher Straße";29;30159;"Hannover";"Deutschland";"0511326453";;;;;;30
+41336;341;;;;"Krishna Bio Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Große Annenstraße";"53-54";28199;"Bremen";"Deutschland";"042152279939";;;;;;30
+41337;342;;;;"Thai Supermarkt und Thai Massage";"Asia/Afro Shop";"Schöppenstedterstr ";25;38100;"Braunschweig";"Deutschland";;"01778875015";;;;;30
+41338;343;;"In Baitus Sabuh";;"Kashmiri Shop ";"Asia/Afro Shop";"Genferstraße";11;60437;"Frankfurt";"Deutschland";"06950830332";;;;;;30
+41339;344;"Herr";"Singh";"Swaran ";"S.K Mathon B.V.";"Lebensmittel Großhandel";"Taag    forepark";"1-13";"2491 CR";" Den Haag";"Netherlands";"031703019842";"031703019843";;"info@skmathon.com";;;30
+41340;345;;;;"Toko Indonesia ";"Asia/Afro Shop";"Brennerstraße";27;20099;"Hamburg";"Deutschland";"04073128888";;;;;"NL808533174B01";30
+41341;346;;;;"Star Markt ";"Asia/Afro Shop";"Nadorster Straße";83;26123;"Oldenburg";"Deutschland";"044193543692";;;;;;30
+41342;347;;;;"Maharani Indisches Restaurant ";"Ind./pak. Restaurant/Imbiss";"Findorffstrasse";144;28215;"Bremen";"Deutschland";"04215662566";;;;;;30
+41343;348;;;;"Welcome India";"Ind./pak. Restaurant/Imbiss";"Kollau Strasse";144;22456;"Hamburg";"Deutschland";;;;;;;30
+41344;349;;;;"Afro Asia Shop ";"Asia/Afro Shop";"Kurt schumacher Straße";5;34117;"Kassel";"Deutschland";"017672846614";;;;;;30
+41345;350;;;;"Asia Shop ";"Asia/Afro Shop";"Westfleth";17;21614;"Buxtehude";"Deutschland";;;;;;;30
+41346;351;;;;"Anh Linh Asia-Lebensmittel ";"Asia/Afro Shop";"Rebenring";"6/7";38106;"Braunschweig";"Deutschland";"05313495514";"015211902828";;"info@asiamarktonline.de";;;30
+41347;352;;;;"Asia Shop";"Asia/Afro Shop";"Hauptstraße";13;21614;"Buxtehude";"Deutschland";;;;;;;30
+41348;353;;;;"Chennai Mahal";"Ind./pak. Restaurant/Imbiss";"Bahnhofstraße";37;21614;"Buxtehude";"Deutschland";" 04161 8008260";;;;;;30
+41349;354;;;;"Ebony Afro Shop";"Asia/Afro Shop";"Bürgermeiser Smidt Strasse";135;27568;"Bremerhaven";"Deutschland";"0471414285";;;;;;30
+41350;355;;;;"Afro American Shop";"Asia/Afro Shop";"Badstraße";"37a";13357;"Berlin";"Deutschland";"0304911325";;;;;;30
+41351;356;;;;"Afro Roots Beauty Shop";"Asia/Afro Shop";"Lotte Lenya Bogen";553;10623;"Berlin";"Deutschland";"03031017720";;;;;;30
+41352;357;;;;"Afro Beauty Shop";"Asia/Afro Shop";"Reinickendorferstraße";81;13347;"Berlin";"Deutschland";"03049906957";;;;;;30
+41353;358;;;;"Afro Euro Beauty Shop";"Asia/Afro Shop";"Schulstraße";17;13347;"Berlin";"Deutschland";"03046066399";;;;;;30
+41354;359;;;;"Afro International Shop ";"Asia/Afro Shop";"Triftstraße";7;13353;"Berlin";"Deutschland";"03046065562";;;;;;30
+41355;360;"Herr";"Weeratunga";"Lakshman";"Asia Markt  ";"Asia/Afro Shop";"Bahnhofstraße";18;21423;"Winsenluhe";"Deutschland";"015210538832";;;;;;30
+41356;361;;;;"Bombay Restaurant ";"Ind./pak. Restaurant/Imbiss";"Herforderstraße";42;33602;"Bielefeld";"Deutschland";;;;;;;30
+41357;362;;;;"Asia Markt Hoang-Le ";"Asia/Afro Shop";"Zingel";3;31134;"Hildesheim";"Deutschland";"05121989009";;;;;;30
+41358;363;;;;"Thai Asia Shop";"Asia/Afro Shop";"Pionierstraße ";1;32423;"Minden";"Deutschland";"040 41924457";;;;;;30
+41359;364;;;;"Namaste Indische Restaurant ";"Ind./pak. Restaurant/Imbiss";"Johanisstraße ";36;33611;" Bielefeld";"Deutschland";;;;;;;30
+41360;365;;;;"DUNYA Orientalische Lebensmittel";"Asia/Afro Shop";"Kurt-Schumacher-Platz ";5;24109;"Kiel";"Deutschland";;;;;;;30
+41361;366;;;;"Tropical Foods ";"Asia/Afro Shop";"Altendorfer Straße";266;45143;"Essen";"Deutschland";"017634900132";;;;;;0
+41362;367;"Frau ";"Abaka Johnson";"Nana ";"Gods Way";"Asia/Afro Shop";"Torres Quevedo ";5;50010;"Zaragoza";"Spanien";"0034876014388";"0034608672488";;"godswaylocutorio@yahoo.com";;;30
+41363;368;;;;"Saira India Haus 2";"Ind./pak. Restaurant/Imbiss";"Winsenerstraße";54;21077;"Hamburg - Harburg";"Deutschland";;;;;;;30
+41364;369;"Herr";"Nadarajah Gunarajan";"Kathiravelu ";"Gunarajan Handelsagentur ";"Asia/Afro Shop";"Seumestraße";8;28197;"Bremen";"Deutschland";"0421 - 57 69 593";"0172 - 402 19 88";"0421 - 57 69 594";"gunarajan@t-online.de";;;30
+41365;370;;;;"Serra Kunda ";"Asia/Afro Shop";"Hastedter Heerstr.";383;28207;"Bremen";"Deutschland";;"0152 - 15 35 44 35";;;;;30
+41366;371;;;;"Illias Telecom";"Asia/Afro Shop";"Norrebrogade";251;2200;"Kopenhagen";"Dänemark";"004527308930";;;;;;30
+41367;372;;;;"Gandhi Indische Spezialitäten ";"Ind./pak. Restaurant/Imbiss";"Schöppenstedter Str.";32;38100;"Braunschweig";"Deutschland";"05314811574";"015111638212";;;"www.restaurant-gandhi-braunschweig.de";"DK29946310";30
+41368;373;;;;"Öncü Supermarkt";"Asia/Afro Shop";"Billstedter Hauptstraße";49;22111;"Hamburg";"Deutschland";;;;;;;30
+41369;374;;;;"Faaye s Afro Shop ";"Asia/Afro Shop";"Gröpelinger Heerstraße";112;28237;"Bremen";"Deutschland";"0421 - 69 52 23 94";;;;;;30
+41370;375;;;;"Star Impex ";"Asia/Afro Shop";"Franziusstraße ";150;44147;"Dortmund";"Deutschland";"02318602696";"01722183703";2318602698;"info@star-impex.de";;;30
+41371;376;;;;"Badshah Restaurant ";"Ind./pak. Restaurant/Imbiss";"Waller ring ";135;28219;"Bremen";"Deutschland";;;;;;;30
+41372;377;;;;"Asia Shop Mekong ";"Asia/Afro Shop";"Hafenstraße";179;27568;"Bremerhaven";"Deutschland";"0471 951 58 64";;;;;;30
+41373;378;;"Wholesale";;"TS  Food Traders Gmbh ";"Lebensmittel Großhandel";"Potsdamer str 117-";119;10783;"Berlin";"Deutschland";;"01772671972";;;;;30
+41374;379;;;;"TS Food Supermarkt ";"Asia/Afro Shop";"Alt-Moabit";74;10555;"Berlin";"Deutschland";"030- 397 41  118";"0177 - 510 70 58";;;"www.tsfoods-supermarkt.de";;30
+41375;380;;;;"Kitchen King Indisches Restaurant ";"Ind./pak. Restaurant/Imbiss";"Mitte, Bürgermeister-Smidt-Straße";10;27568;"Bremerhaven";"Deutschland";"047129007960";;;;;;30
+41376;381;;"Ali Rezaie und Ali Ahmad  Gbr";;"Nahi Gbr Rostok";"Asia/Afro Shop";"Wismarsche Straße";62;18057;"Rostock";"Deutschland";;;;;;;30
+41377;382;;;;"Akus Afro Shop ";"Asia/Afro Shop";"Vahrenwalderstraße";20;31065;"Hannover";"Deutschland";;;;;;;30
+41378;383;;;;"Tropical Jerk Chicken ";"Asia Restau./Imbiss";"An der Schillingbrücke";3;10243;"Berlin";"Deutschland";;;;;;;30
+41379;384;;;;"Afro Shop ";"Asia/Afro Shop";"Heinrich Mann Allee";16;14473;"Potsdamm";"Deutschland";;;;;;;30
+41380;385;"Herr";"Arora";"S.";"Ever Green Food ";"Asia Restau./Imbiss";"Herzberger Straße Halle 6 room";128;10365;"Berlin";"Deutschland";"04447 - 961 280";;;"info@evergreen-food.de";;;30
+41381;386;"Herr";"Badora";"Piotr ";"La Piazza";"Ind./pak. Restaurant/Imbiss";"Veerßerstraße";41;29525;"Uelzen";"Deutschland";;;;;;;30
+41382;387;;;;"Erden Market Gmbh";"Asia/Afro Shop";"Gründgensstraße ";26;22309;"Hamburg";"Deutschland";;;;;;;30
+41383;388;;;;"Manju Berlin Gmbh";"Ind./pak. Restaurant/Imbiss";"Blomeweg";1;22147;"Hamburg";"Deutschland";;;;;;;30
+41384;389;;"Potsdamer Platz Arkaden ";;"Manju Potsdamer Platz ";"Ind./pak. Restaurant/Imbiss";"Alte Potsdamer Straße ";7;10785;"Berlin";"Deutschland";;;;;;;30
+41385;390;"Herr";"Krebs";"Manfred ";"Manju SSC Berlin (Schloss-Strassen-Center)";"Ind./pak. Restaurant/Imbiss";"Walther-Sreiber-Platz";1;12161;"Berlin";"Deutschland";"0152 / 28 40 42 20";;;"besseressen@deli-well.de";"deli-well.de/index.html";;30
+41386;391;;;;"Foodcourt 47 Gmbh";"Asia/Afro Shop";"Hammerbrookstraße";47;20097;"Hamburg";"Deutschland";;;;;;;30
+41387;392;;;;"Stern Supermarkt ";"Asia/Afro Shop";"Rahlstedter Weg ";73;22147;"Hamburg";"Deutschland";;;;;;;30
+41388;393;;;;"Puri Quick ";"Ind./pak. Restaurant/Imbiss";"Stadtweg";25;24837;"Schleswig";"Deutschland";;;;;;;30
+41389;394;;;;"Thai Mas BV";"Asia/Afro Shop";"Kievitsven";104;"5249 JK";" Rosmalen ";"Niederlande";"Purchase@ThaiMas.nl";;;"Finance@ThaiMas.nl";;;30
+41390;395;;;;"Restaurant Tipasa";"Ital. Restaurant/Imbiss";"Schlumacherstraße";12;23552;"Lübeck";"Deutschland";;;;;;"NL819112963B01";30
+41391;396;;;;"Asia Laden Neumünster";"Asia/Afro Shop";"Wasbeker Straße ";26;24534;"Neumünster";"Deutschland";"043216026264";"015755789362";;"angar-bayan@web.de";;;30
+41392;397;;;;"Manju Köln";"Ind./pak. Restaurant/Imbiss";"Aachener Straße";1253;50858;"Köln";"Deutschland";;;;;;;30
+41393;398;;;;"Chutney ";"Ind./pak. Restaurant/Imbiss";"Centroalle";81;46047;"Oberhausen";"Deutschland";;;;;;;30
+41394;399;"Frau ";"Rabia";;"Chutney Spezialitäten Gmbh";"Ind./pak. Restaurant/Imbiss";"Handelskai";"94-96";1200;"Wien";"Österreich";"0043 664 52 46 506";"0043 133 00 918";;"r.tahir78@yahoo.com";;;30
+41395;400;;;;"Tahir Ayub Khan";"Sonstiges";"Horst-Embacher-Alee";"12a";22850;"Norderstedt";"Deutschland";;;;;;"ATU68855045";30
+41396;401;;;;"Asia Shop Kiel ";"Asia/Afro Shop";"Holtenauer Straße ";155;24118;"Kiel Ravensberg";"Deutschland";;;;;;;30
+41397;402;;;;"Asia Afro Supermarkt ";"Asia/Afro Shop";"Billstraße";114;20539;"Hamburg";"Deutschland";"04025328109";"01521158400";;;;;30
+41398;403;;;;"Pizzeria Restaurant Shalimar ";"Ind./pak. Restaurant/Imbiss";"Natruperstraße";225;49090;"Osnabruck";"Deutschland";"054167335271";"01621350632";"054167399420";;;;30
+41399;404;;;;"City Pizza ";"Ital. Restaurant/Imbiss";"Schuhstraße";5;29525;"Uelzen";"Deutschland";;;;;;;30
+41400;405;;;;"JDS Foods Cash and Carry B.v";"Lebensmittel Großhandel";"Aalsmeerderweg";"285b";"1432CN";"Aalsmeer";"Niederlande";;;;;;;30
+41401;406;;;;"India Food Singh Gmbh ";"Ind./pak. Restaurant/Imbiss";"Breitenbachstrasse";"18-20";13509;"Berlin";"Deutschland";173371000000;"017641692415";;;;"NL852339100B01";30
+41402;407;;;;"Kabul Bazaar";"Asia/Afro Shop";"Goetheplatz";1;30169;"Hannover";"Deutschland";;;;;;;30
+41403;408;;;;"Himalaya Restaurant";"Ind./pak. Restaurant/Imbiss";"Angelburger Straße";69;24937;"Flensburg";"Deutschland";"0461 - 408 336 72";;;"Himalayaflensburg@gmail.com ";;;30
+41404;409;;;;"Milin Impex ";"Asia/Afro Shop";"Westendorfstraße ";42;44287;"Dortmund";"Deutschland";"0231 -45 96 17";"0172 5868367";"0231 - 181 52 88";"info@milinimpex.de";;;30
+41405;410;;;;"Soulfood ";"Ital. Restaurant/Imbiss";"Limbecker Platz";"1a";45127;"Essen";"Deutschland";;;;;;;30
+41406;411;;;;"Enjoy Pizza Service ";"Ital. Restaurant/Imbiss";"Colombusring";18;18106;"Rostock";"Deutschland";;;;;;;30
+41407;412;;"Indian Food and Sweets";;"Tiffin Indian Food and Sweet ";"Ind./pak. Sweet/Imbiss";"Falkenstraße";60;28195;"Bremen";"Deutschland";"042198885646";;;;;;30
+41408;413;;"Singh";"Charanjeet ";"Pomodoro";"Ital. Restaurant/Imbiss";"Schlesische straße";17;27809;"Lemwerder";"Deutschland";;;;;;;30
+41409;414;;;;"Öz Akan";"Asia/Afro Shop";"Gleviner Straße";3;18273;"Güstrow";"Deutschland";;;;;;;30
+41410;415;;;;"Shalimar ";"Ind./pak. Restaurant/Imbiss";"Martinistraße";"62-66";28195;"Bremen";"Deutschland";;;;;;;30
+41411;416;;;;"Mahal Express ";"Asia/Afro Shop";"Hermesstraße";4;63263;"Neu Isenburg";"Deutschland";"015732345099";;;;;;30
+41412;417;;;;"Maharaja Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Budapesterstraße";34;20359;"Hamburg";"Deutschland";;;;;;;30
+41413;418;"Herr";"Vieyem";;"Baba Trading";"Asia/Afro Shop";"Wartburg Straße";53;28217;"Bremen";"Deutschland";"042117539212";"015211740840";;;;;30
+41414;419;;;;"India House Restaurant ";"Ind./pak. Restaurant/Imbiss";"Hagenmarkt";15;38100;"Braunschweig";"Deutschland";;;;;;;30
+41415;420;;;;"Steintor Bazar";"Asia/Afro Shop";"Vor dem Steintor";89;28203;"Bremen";"Deutschland";"042134662477";"015217764964";;;;;30
+41416;421;;;;"Afi Coiffure";"Asia/Afro Shop";"Langemarckstraße";154;28199;"Bremen";"Deutschland";"04215244916";"01725821985";;"info@aficoiffure.de";;;30
+41417;422;;;;"Asia Markt ";"Asia/Afro Shop";"Hafenstraße";11;27576;"Bremerhafen";"Deutschland";"04719020935";;;;;;30
+41418;423;"Herr";"Rashed";;"Royal Frui QB";"Asia/Afro Shop";"Danmarksgad";"70A";9000;"AAlborg";"Denmark";"004528442434";;;;;;30
+41419;424;"Herr";"Singh Toor";"Onkar ";"Pal Foods";"Asia/Afro Shop";"Unionstraße";1;59557;"Lippstadt";"Deutschland";;;;;;"DK34961506";30
+41420;425;"Herr";"Shahzad";"Khuram ";"S & H Foods Gmbh ";"Lebensmittel Großhandel";"Dieselstraße";4;64546;"Mörfelden-Walldorf";"Deutschland";"06105 - 703 87 00";;;"buchhaltung@shfoods.de";;;30
+41421;426;;;;"Kohenoor Restaurant & Lounge ";"Ind./pak. Restaurant/Imbiss";"Bremerhavener Heerstraße";74;28717;"Bremen";"Deutschland";"01773442082";;;;;;30
+41422;427;;"City Point Kassel";;"Manju ";"Ind./pak. Restaurant/Imbiss";"Königsplatz";61;34117;"Kassel";"Deutschland";;;;;;;30
+41423;428;;;;"Badshah Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Atenser Allee";5;26954;"Nordenham";"Deutschland";;;;;;;30
+41424;429;;;;"Punjabi Cash & Carry Gmbh & Co. KG";"Lebensmittel Großhandel";"Maria-Probst-Straße";"41A";80939;"München";"Deutschland";"089- 322 103 19";"089- 354 66 575";"089- 322 103 21";"punjabi-gmbh@t-online.de";"www.punjabi-gmbh.de";;30
+41425;430;;;;"Badsha Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Ölschlägern";"31-32";38100;"Braunscheweig";"Deutschland";"0531/2615987";"0157-71434684";;"info@badsha.de";"www.badssha.de";;30
+41426;431;;;;"Amiralsgatan livs AB";"Asia/Afro Shop";"Ahlmansgatan";4;21430;"Malmö";"Schweden";"0464087080";;;;;;30
+41427;432;;;;"Bhai Bhai Sweets";"Asia/Afro Shop";"4 RUE DES 2 GARES";;75010;"paris";"Frankreich";;;;"bhaibhaisweets@yahoo.com";;"SE559102100001";30
+41428;433;;;;"Kohinoor Shop ";"Asia/Afro Shop";"Adolf-Kolping-Straße";10;80336;"München";"Deutschland";"089 - 554 522";;;"love_viks_soli@yahoo.co.in,ramarora@yahoo.com";;;30
+41429;434;;"Al Bashar";;"Frugt Og Gront";"Ind./pak. Restaurant/Imbiss";"Amagerbrogade";89;2300;"Kobenhavn 5";"Dänemark";"004571397374";;;;;;30
+41430;435;;;;"Indian Corner Restaurant";"Ind./pak. Restaurant/Imbiss";"Norrebrogade";59;2200;"Kobenhavn";"Dänemark";"004535392802";;;;;;30
+41431;436;;"Wholesale in Food";;"Kamaj Bv";"Asia/Afro Shop";"Ellermanstraat";28;"1099 Bz ";"Duivendrecht";"Holland";"0031204680500";;;;;;30
+41432;437;;;;"Ariana Market";"Asia/Afro Shop";"Colbjorensgade";25;1652;"Kobenhavn";"Dänemark";"04533240645";;;;;;30
+41433;438;;;;"Saidi Catering ";"Asia/Afro Shop";"Hvidovrevej";90;"Dk-2610";"Rodovre";"Denmark";"004571696643";;;;;;30
+41434;439;;;;"Benni Quick Shop ";"Asia/Afro Shop";"Woltmershausen";268;28197;"Bremen";"Deutschland";;;;;;;30
+41435;440;"Frau ";"Loan";;"Asien Shop";"Asia/Afro Shop";"Gülden str";60;38100;"Braunschweig";"Deutschland";"05312214391";"015210501060";;;;;30
+41436;441;;;;"Ewa Wessendorf Gmbh ";"Ind./pak. Restaurant/Imbiss";"Süderstraße";244;20537;"Hamburg";"Deutschland";"040 - 21 09 68 0";;"040 - 21 09 68 68";"ewa@wessendorf.com";"www.wessendorf.com";;30
+41437;442;;;;"Jerusalem Markt";"Asia/Afro Shop";"Friedrich Ebert Straße";56;45127;"Essen";"Deutschland";"015773103749";;;;;;30
+41438;443;;;;"Guru Restaurant";"Ind./pak. Restaurant/Imbiss";"Jernbanegade";5;1608;"Copenhagen";"Dänemark";;;;;;;30
+41439;444;;;;"Kashmir Restaurant";"Ind./pak. Restaurant/Imbiss";"Norrebrogade";51;2200;"Kobenhavn";"Dänemark";"004535375471";;;;;;30
+41440;445;;;;"Indus Restaurant";"Ind./pak. Restaurant/Imbiss";"Istedgade";25;1650;"Kobenhavn";"Dänemark";;;;;;;30
+41441;446;"Herr";" Seddiqi";"Fahim";"Ariana Supermarkt";"Lebensmittel Großhandel";"Viehoferplatz";18;45127;"Essen";"Deutschland";;;;;;;30
+41442;447;;;;"Maharaja";"Ind./pak. Restaurant/Imbiss";"Gl.Kongevej";"86c";1850;"Frederiksberg c";"Dänemark";"04533211003";;;;;;30
+41443;448;;;;"Ali Baba Indisk Restaurant";"Ind./pak. Restaurant/Imbiss";"Griffenfeldsgade";22;2200;"Kobenhavn";"Dänemark";;;;;;;30
+41444;449;;;;"Afro Beauty Shop ";"Asia/Afro Shop";"Schulstraße";17;13347;"Berlin";"Deutschland";"03046066399";;;;;;30
+41445;450;;;;"Mamma Mia Pizzeria  ";"Ital. Restaurant/Imbiss";"Splitting rechts";40;26871;"papenburg";"Deutschland";;;;;;;30
+41446;451;;;;"Taj Mahal - Indisches  Restaurant ";"Ind./pak. Restaurant/Imbiss";"Kleine Burg";15;38100;"Braunschweig";"Deutschland";"053143344";;;"info@tajmahal-braunschweig.de";"www.tajmahal-braunschweig.de/";;30
+41447;452;"Herr";"Anyangbe";"Frank";"Pan Africa Catering";"Afrikan. Restaurant/Imbiss";"Kirchhofstraße /  Ecke Wipperstraße";41;12055;"Berlin";"Deutschland";;;;;"https://www.panafricaberlin.de/";;30
+41448;453;;;;"Azizi Laden ";"Asia/Afro Shop";" Rote Str. ";9;37073;"Göttingen";"Deutschland";"015778538353";;;;;;30
+41449;454;;;;"Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Gerstland Straße ";3;49593;"Bersenbrück";"Deutschland";;;;;;;30
+41450;455;;;;"Dabran Food ";"Asia/Afro Shop";"Werftstrasse";201;24143;"Kiel";"Deutschland";;;;;;;30
+41451;456;;;;"Nasir Food Hall";"Ind./pak. Restaurant/Imbiss";"Frederikssundvej";"37st";2400;"Kobenhavn";"Dänemark";;;;;;;30
+41452;457;"Herr";"Rasheed";;"AL Madina Super Markt";"Asia/Afro Shop";"Donaustr.";39;12043;"Berlin";"Deutschland";"03068409233";"015903065943";;;;;30
+41453;458;;;;"Afro Kiko";"Asia/Afro Shop";"Hinter Liebfrauen";6;38100;"Braunschweig";"Deutschland";;;;;;;30
+41454;459;;;;"Tamarinde Indische-Orientalische Cuisine ";"Ind./pak. Restaurant/Imbiss";"Gruben Straße";7;18055;"Rostock";"Deutschland";"038121055633";;;"info@tamarinde-lounge.de";"www.tamarinde-lounge.de";;30
+41455;460;;;;"Cafe Restaurant India House ";"Ind./pak. Restaurant/Imbiss";"Am Kaiserkai";46;20457;"Hamburg";"Deutschland";"(040) 300 696 66";;;;;;30
+41456;461;"Herr";"Singh";"Indvir ";"Taj Quick";"Ind./pak. Restaurant/Imbiss";"Markt";20;23812;"Wahlsteht";"Deutschland";;;;;;;30
+41457;462;;;;"Yoga Haus - Ganesha";"Verein/Stiftung/Gemeinschaft";"Remonteweg";3;29462;"Wustrow";"Deutschland";"05843 9610";;"05843-6689818";" rezeption@yogahaus-ganesha.de";;;30
+41458;463;;;;"Sepeliha K-A-C";"Asia/Afro Shop";"Klein Breese";6;29497;"Wolfersdorf";"Deutschland";;;;;;;30
+41459;464;;;;"Roots UG";"Asia/Afro Shop";"Lyser-Str.";32;22761;"Hamburg";"Deutschland";"01797978111";;;;;;30
+41460;465;"Frau ";"Suraj";"Tanja";"ALDOS";"Asia/Afro Shop";"ESPANREIHE";15;22589;"Hamburg";"Deutschland";"040 87972656";;;;;;30
+41461;466;;;;"Bhatti Jabar";"Asia/Afro Shop";"Südring";44;21465;"Hamburg  Bergedorf";"Deutschland";;;;;;;30
+41462;467;"Frau ";"Boadu";"Doris";"EYE ONYAME Afro Shop";"Asia/Afro Shop";"Wandsbeker Chaussee";216;22089;"Hamburg";"Deutschland";"040-29823006";;;;;;30
+41463;468;"Herr";"Shahid";;"China Drive";"Asia/Afro Shop";"Glasshütendamm";87;22851;"Norderstedt";"Deutschland";"0171447200";;;;;;30
+41464;469;;"Haidoung L.E.";;"Longfood  Indian Food";"Ind./pak. Restaurant/Imbiss";"Ernst August Platz";2;30159;"Hannover";"Deutschland";;;;;;;30
+41465;470;;;;"AlsterCliff";"Asia/Afro Shop";"Fährdamm";13;20148;"Hamburg";"Deutschland";;;;;;;30
+41466;471;"Frau ";" Aderele";"Annet";"Isheri - Afro Shop";"Asia/Afro Shop";"Rathenower Str.";25;10559;"Berlin";"Deutschland";"03039408844";"017689052271";;;;;30
+41467;472;;;;"Indisches Restaurant Raman";"Ind./pak. Restaurant/Imbiss";"Bahnhofstraße ";4;21465;"Reinbek";"Deutschland";;;;;;;30
+41468;473;;;;"Asia Shop ";"Asia/Afro Shop";"Möserstraße";35;49074;"Osnabrück";"Deutschland";"054121248";;"0541 2023779";;;;30
+41469;474;;;;"Nur Markt";"Asia/Afro Shop";"Friedrichebertstraße";"1-3";25421;"Pinneberg";"Deutschland";;;;;;;30
+41470;475;;;;"Meisterkoch Schättiger Kapeller  Gmbh";"Sch./pak. Gmbh/Imbiss";"Billstraße";94;20539;"Hamburg";"Deutschland";"040 7804030";;;;;;30
+41471;476;;;;"Afro Shop Osnabrük";"Asia/Afro Shop";"Johanisstraße";131;49074;"Osnabrück";"Deutschland";;;;;;;30
+41472;477;;;;"Sangam Indisches Restaurant ";"Ind./pak. Restaurant/Imbiss";"Osnabrücke straße";7;49134;"Wallenhorst";"Deutschland";"05407 8985106";;54078985107;"sangam@t-online.de";;;30
+41473;478;;;;"Maharaja Restaurant ";"Ind./pak. Restaurant/Imbiss";"Lindenstraße";74;49393;"Lohne (Oldenburg)";"Deutschland";;;;;;;30
+41474;479;;;;"Ideal Cash Carry Imran";"Lebensmittel Großhandel";"Bertha von Suttner Str";2;64560;"Riedstadt Wolfskehlen";"Deutschland";" (0 61 58) 82 21 33";;;"idealfoodsgermany@gmail.com";;;30
+41475;480;"Herr";"Hassan";"T.";"Bombay Basar ";"Asia/Afro Shop";"Stephanusstraße";2;30449;"Hannover";"Deutschland";"05111236572";;;;;;30
+41476;481;;;;"Best Food Of Asia ";"Ind./pak. Restaurant/Imbiss";"Vahrenwalderstraße";44;30165;"Hannover";"Deutschland";"051189847109";"017641860900";;;;;30
+41477;482;;;;"Mundfein Pizzawerkstatt  ";"Ital. Restaurant/Imbiss";"Friedrich-Ebert-Straße";3;25421;"Pinneberg";"Deutschland";"04101 515550";;;"info@mundfein.de";;;30
+41478;483;;;;"Mundfein Pizzawerkstatt";"Ital. Restaurant/Imbiss";"Spaldingstraße";47;20097;"Hamburg";"Deutschland";;;;;;;30
+41479;484;;;;"Pak Asian Food";"Asia/Afro Shop";"Löwen Straße";12;65428;"Rüsselheim";"Deutschland";;;;;;;30
+41480;485;"Herr";"Sahi";"Asghar";"India Tandoori Haus";"Ind./pak. Restaurant/Imbiss";"Jakobistraße";6;30163;"Hannover";"Deutschland";"0511 80761717";"0160 202 42 83";;"nfo@india-tandoori-haus.de";;;30
+41481;486;;;;"Pinocchio  Pizzaservice";"Ital. Restaurant/Imbiss";"Oldenburgerstraße";68;27753;"Delmenhorst";"Deutschland";"04221 7804200";;;;;;30
+41482;487;;;;"San Remo Pizzaservice";"Ital. Restaurant/Imbiss";"Ehnernstraße";116;26121;"Oldenburg";"Deutschland";;;;;;;30
+41483;488;"Herr";"Hayat";"Marzia ";"Ariana PIzzeria";"Ital. Restaurant/Imbiss";"Scheyerer  STR";70;85276;"Pfaffen hofen an der ILM";"Deutschland";;;;;;;30
+41484;489;;;;"Monsoon Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Am Marktplatz";7;22880;"Wedel Hamburg";"Deutschland";"04103 9055666";;;;;;30
+41485;490;;;;"Blitz Pizza Service";"Ital. Restaurant/Imbiss";"Nachtigalstraße";3;24149;"Kiel";"Deutschland";;;;;;;30
+41486;491;"Herr";"Anjum";"Mohammad";"Kashmir Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"BENNIGSER  STRASSE";18;30982;"Pattensen Hüpede";"Deutschland";"051011-58883578";"015210776574";;"Kashmir@rissen.de";;;30
+41487;492;;;;"Star Pizzaservice ";"Ital. Restaurant/Imbiss";"Bremer Straße";38;27749;"Delmenhorst";"Deutschland";"04221 2837020";;;"kontakt@starpizzadelmenhorst.de";"www.starpizzadelmenhorst.de";;30
+41488;493;;;;"Tropical Foods ";"Asia/Afro Shop";"Am Doben";124;28203;"Bremen";"Deutschland";;;;;;;30
+41489;494;;;;"Sathana Asia Shop Kiosk ";"Ind./pak. Restaurant/Imbiss";"Woltmershauser Str";268;28197;"Bremen";"Deutschland";"042159624844";"015224416123";;;;;30
+41490;495;"Herr";"Bulmus";"Kerim";"Alsterdorfer Fruchthaus";"Asia/Afro Shop";"Alsterdorfer str";35;22299;"Hamburg";"Deutschland";"04067303038";;;;;;30
+41491;496;"Herr";"Guhulam";"Mustafa ";"Touch of India ";"Ind./pak. Restaurant/Imbiss";"Teutoburgerstraße";32;33604;"Bielefeld";"Deutschland";"0521 2381193";;;;;;30
+41492;497;;;;"Helal Bazar GmbH Gemüsegroßhandel";"Lebensmittel Großhandel";"Lagerstraße";17;20357;"Hamburg";"Deutschland";"040438340";"01715284937";"0404306511";;;;30
+41493;498;"Herr ";"Quang";"TA Minh ";"Special Curry";"Ind./pak. Restaurant/Imbiss";"(Mercado) Ottensener  Hauptstrasse";10;22765;"Hamburg";"Deutschland";"0162 4135021";"01755189609";;;"www.specialcurry.de";;30
+41494;499;;;;"Gurudwara Guru Nanak Niwas e.V";"Verein/Stiftung/Gemeinschaft";"Brennerstraße";27;20099;"Hamburg";"Deutschland";"040/28003883";;"04028003884";;;;30
+41495;500;"Herr ";"Habib";"Zariffi  ";"Taj Mahal  Quick";"Ind./pak. Restaurant/Imbiss";"Rosenstr";7;20095;"Hamburg";"Deutschland";"040/326007";;;"0152 03748755";;;30
+41496;501;;;;"Worldwide Food";"Asia/Afro Shop";"Stuvkamp";24;22081;"Hamburg";"Deutschland";"040 - 234 92 037";"017664127346";"04037421709";"info@worldwidefood.de";"www.worldwidefood.de";;30
+41497;502;;;;"Bistro Hoang  Mai";"Asia/Afro Shop";"Öjendorfer Damm";42;22043;"Hamburg";"Deutschland";"04063643661";;;;;;30
+41498;503;"Herr ";"Bhatti";;"Asia Laden Lübeck";"Asia/Afro Shop";"Glockengießerstr.";16;23552;"Lübeck";"Deutschland";"0451/4792134";"0451-2963550";;"info@asia-laden.com";"www.asia-laden.com";;30
+41499;504;;;;"Bella Joanna Pizzaservice";"Ital. Restaurant/Imbiss";"Hauptstraße";32;23898;"Sandesneben";"Deutschland";"04536--809570";;4,95E+11;;"www.bellajoannapizzaservice.de";;30
+41500;505;;;;"Gurudwara Shri Guru Nanak Niwas E.V.";"Verein/Stiftung/Gemeinschaft";"Schneideralle";34;30248;"Hannover";"Deutschland";4,91E+11;;;;;;30
+41501;506;;;;"Balutschistan Pakistanisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Schulterblatt";88;20357;"Hamburg";"Deutschland";"040433661";;;;"balutschistan-grindel.de";;30
+41502;507;;;;"Shalimar -The Indian Restaurant ";"Ind./pak. Restaurant/Imbiss";"Lange Laube";13;30159;"Hannover";"Deutschland";"051114848";;"0511 71 38 20";"info@shalimar-hannover.de";"www.shalimar-hannover.de";;30
+41503;508;;;;"Jaffna Stores";"Asia/Afro Shop";"Am Dobben";124;28203;"Bremen";"Deutschland";"04213371421";;"04217942952";;;;30
+41504;509;;"Z.Hd. H/F Senthurchelvan Sobana";;"Kumarans Asia Laden ";"Asia/Afro Shop";"Langemarckstraße";104;28199;"Bremen";"Deutschland";"0421 5966236";"01732367117";"04215244931";;;;30
+41505;510;;;;"Punjabi Store ";"Asia/Afro Shop";"Falkenstraße";36;28195;"Bremen";"Deutschland";"04219581418";;;;;;30
+41506;511;;;;"Johnny's Afro Asia Callshop";"Asia/Afro Shop";"An der Weide";33;28203;"Bremen";"Deutschland";"04213015687";"01704719803";;"gafaar@gmx.de";;;30
+41507;512;;;;"African American Afro Shop";"Asia/Afro Shop";"Billstedter Hauptstr";6;22111;"Hamburg";"Deutschland";"04073675909";"040394759";"04073675910";;;;30
+41508;513;;;;"Kaneshie Afrikan Shop";"Asia/Afro Shop";"Lange straße";22;60311;"Frankfurt am Main";"Deutschland";"06929728585";"01622539465";;;;;30
+41509;514;;;;"Grace's World of Beauty";"Afro-Kosmetik/Beauty/Friseur";"Max-Brauer-Allee";46;22765;"Hamburg";"Deutschland";"0408505571";"01705814208";"040858612";"info@graceworldofbeauty.de";"http://www.gwob.de/";;30
+41510;515;;;;"Helal Bazar";"Lebensmittel Großhandel";"Bartelsstraße";49;20357;"Hamburg";"Deutschland";"04043190500";"04043190501";"04043190502";;;;30
+41511;516;;;;"Onur GmbH & Co. KG";"Asia/Afro Shop";"Fuhlsbüttler Straße";169;22305;"Hamburg";"Deutschland";"040/61183385";"07131363232";"04061183996";;;;30
+41512;517;;;;"Mehtab Indian Store Gmbh ";"Ind./pak. Restaurant/Imbiss";"Lange Reihe";9;20099;"Hamburg";"Deutschland";"040246969";;"040- 555 67 308";"kapoor.surbir@gmail.com";;;30
+41513;518;;;;"Ariana Basar";"Asia/Afro Shop";"Schiffbeker Weg";4;22119;"Hamburg";"Deutschland";"0407313853";"01708130073";"0407158684";;;;30
+41514;519;;;;"Asia Markt Ahrensburg";"Asia/Afro Shop";"Rathausstraße";8;22926;"Ahrensburg";"Deutschland";"04102/202782";;;"info@asiamarkt-ahrensburg.de";"www.asiamarkt-ahrensburg.de";;30
+41515;520;"Herr ";"Biskupek";"Peter ";"Baste & Lange GmbH";"Lebensmittel Großhandel";"Am Genter Ufer";"4a";21129;"Hamburg";"Deutschland";"040-78110990";;;;;;30
+41516;521;;;;"Das Asian Center";"Verein/Stiftung/Gemeinschaft";"Holzdamm";53;20099;"Hamburg";"Deutschland";;;;;;;30
+41517;522;"Herr ";"Taneja";"Kumar ";"Quality Store";"Asia/Afro Shop";"Hansa Platz";4;20099;"Hamburg";"Deutschland";"040/55502637";;;;;;30
+41518;523;"Herr ";"Ogochukuwu Akanihu";"Godfrey ";"Fils Dór Afro Shop";"Asia/Afro Shop";"Fuhlsbüttler Str.";153;22305;"Hamburg";"Deutschland";"01711891847";;;;;;30
+41519;524;;;;"Lee-Asia-Shop Asiatische Lebensmittel";"Asia/Afro Shop";"Große Bergstr.";197;22767;"Hamburg";"Deutschland";"040/38612946";;;;;;30
+41520;525;;;;"Asia Welt";"Asia/Afro Shop";"Holstenstr.";198;22765;"Hamburg";"Deutschland";"040/41307029";"015120047746";;"asiawelt@gmx.de";;;30
+41521;526;"Herr ";"Akram";"Shahid ";"MAS Impex";"Asia/Afro Shop";"Wilstorfer Str";49;21073;"Hamburg";"Deutschland";"040/28007805";;"040 - 253 28 750";"info@masimpex.com";"www.masimpex.com";;30
+41522;527;;;;"Pizza Max";"Ital. Restaurant/Imbiss";"Bergedorfer Staße";127;21029;"Hamburg";"Deutschland";;;;;;"DE 245049652";30
+41523;528;;;;"Firat Handels- und Marketing GmbH";"Asia/Afro Shop";"Havighorster Redder";"55-59";22115;"Hamburg";"Deutschland";"040/63675774";;;;;;30
+41524;529;;;;"El-Shaddai int. Afro Markt";"Asia/Afro Shop";"Langemarckstraße";"76-80";28195;"Bremen";"Deutschland";"0421-6848796";"0421-6848798";;;;;30
+41525;530;"Herr";"El Abd";"Nader ";"Fresh Green";"Lebensmittel Großhandel";"Bankstr.";28;20097;"Hamburg";"Deutschland";"040-30704898";"040/30709916";"0403070991";"info@fresh-green.eu";"www.fresh-green.eu";;30
+41526;531;"Herr";"Ayasi";"Samin ";"Raj Mahal Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Humboldtstraße";142;22083;"Hamburg";"Deutschland";;;;"webmaster@rajmahal-hamburg.de";"www.rajmahal-hamburg.de";;30
+41527;532;"Herr ";"Ahmed";"Shabbir ";"Pizzeria L-Ancura";"Ital. Restaurant/Imbiss";"Bahnhofstraße";16;29553;"Bienenbüttel";"Deutschland";"058231700";;;"shabbirahmed@hotmail.de";"www.pizzeria-lancora.de";;30
+41528;533;;;;"AAT Trading Gmbh";"Asia/Afro Shop";"Hammerbrookstr.";84;20097;"Hamburg";"Deutschland";"04023808183";;"04023686203";"shop@asiaundafro.de";"www.asiaundafro.de";;30
+41529;534;;;;"Pronto Pizza Service";"Ital. Restaurant/Imbiss";"Lübeker Strasse";122;22085;"Hamburg";"Deutschland";"040/25491570";;;;;;30
+41530;535;;;;"India House Supermarkt ";"Asia/Afro Shop";"Aegidiendamm";9;30169;"Hannover";"Deutschland";"0511887972";;;"Indiahouse.hannover@gmail.com";;;30
+41531;536;"Herr ";"Aslan";"Erol ";"Adese Markt ";"Asia/Afro Shop";"Rieckhoffstr.";"8-10";21073;"Hamburg";"Deutschland";"040/79416687";"04079416682";"017624090665";" info@adesemarkt.de";"www.adesemarkt.de";;30
+41532;537;"Herr";"Amiri";"Basehir Ahmed ";"Helal Market";"Asia/Afro Shop";"Barsbüttelerstr.";12;22043;"Hamburg";"Deutschland";"040/33983319";;;;;;30
+41533;538;;;;"Jana Store";"Asia/Afro Shop";"Wegen";10;21430;"Malmo";"Schweden";;;;;;;30
+41534;539;;;;"Bistro Mondiale";"Ital. Restaurant/Imbiss";"Altencellertorstraße";2;29221;"Celle";"Deutschland";;;;;;;30
+41535;540;;;;"Vinh Loi Asien Supermarkt GmbH";"Asia/Afro Shop";"Wandsbeker Königstr.";23;22041;"Hamburg";"Deutschland";"040/3258890";"040-806071710";;"hung@vinhloi.de";"www.vinhloi.de";;30
+41536;541;;;;"Asropa Food GmbH";"Asia/Afro Shop";"Wilhelm-Iwan-Ring";5;21035;"Hamburg";"Deutschland";"030/36166800";;;;;;30
+41537;542;;"Murad";"Shindar ";"Shinder Murad  ";"Asia/Afro Shop";"Engelbostelerdamm";45;30167;"Hannover";"Deutschland";"051176355168";"05119826849";"0511-76355169";;;;30
+41538;543;;;;"Tropical Imbiss";"Afrikan. Restaurant/Imbiss";"Kroonhorst";78;22549;"Hamburg";"Deutschland";"0172 4559483";;;;;;30
+41539;544;;;;"Goa Indische Spezialitäten";"Ind./pak. Restaurant/Imbiss";"Dünenweg";"1b";23946;"Boltenhagen";"Deutschland";"0388-25383991";;"038825383992";;"www.goa-restaurant.de";;30
+41540;545;;;;"Ariana Asiatisch Minden";"Asia Restau./Imbiss";"Königstraße";8;32423;"Minden";"Deutschland";;"017684736723";;;;;30
+41541;546;;;;"Grando Sukredo";"Ital. Restaurant/Imbiss";"Ehestorfer  Heuweg";89;21149;"Hamburg";"Deutschland";"040/61193643";;;"040/61193972";;;30
+41542;547;;;;"Gandhi Restaurant";"Ind./pak. Restaurant/Imbiss";"Wakenitzufer";13;23564;"Lübeck";"Deutschland";"04513990812";;;"Info@Gandhi-Luebeck.de";"gandhi-luebeck.de";;30
+41543;548;"Frau ";"Thi Thanh Huong";"Nguyen ";"Long Food Restaurant";"Asia Restau./Imbiss";"Osdorfer Land";131;22609;"Hamburrg";"Deutschland";"01723267923";"017640205578";;;;;30
+41544;549;;"PREISE FÜR GROSSHANDEL KUNDEN";;"BAR ZAHLUNG BEIM VERKAUF IM LAGER";"Asia/Afro LAGER";;;;;;;;;;;;30
+41545;550;"Herr";"Sanghamitra";"Szepat ";"Mitra's Kitchen";"Asia/Afro Shop";"Rehwinkel";9;21039;"Escheburg";"Deutschland";"04152 934734";"0160 2228971";;"mitra@best-cfd.de";;;30
+41546;551;;;;"Hong Kong Asia Markt ";"Asia/Afro Shop";"Fackenburger Allee";18;23554;"Lübeck";"Deutschland";"04513179791";;"0451317972";;;;30
+41547;552;;;;"Bombay Palace Restaurant ";"Ind./pak. Restaurant/Imbiss";"Sülztorstr.";2;21337;"Lüneberg";"Deutschland";;"04131 - 2466567";"04131-2466562";"info@bombayplace.de";;;30
+41548;553;;;;"Mr. Clou";"Vegan/ Veg. Restaurant/Imbiss";"(Wandelhalle) Glockengießerwall";8;20095;"Hamburg";"Deutschland";;;;;;;30
+41549;554;;;;"Mehmet Yücel";"Asia/Afro Shop";"Rehrstieg";56;21147;"Hamburg";"Deutschland";"040/7960956";"0176/48168415";;;;;30
+41550;555;;;;"India Tandoori Haus Restaurant";"Ind./pak. Restaurant/Imbiss";"Vahrenwalder Str.";53;30165;"Hannover";"Deutschland";"05113520840";"0160/2024283";;;;;30
+41551;556;;;;"Sahne-Kähler, Ernst Kähler OHG";"Lebensmittel Großhandel";"Gustav-Kunst-Str.";1;20539;"Hamburg";"Deutschland";"040/227436-0";;"040-227436-436";;;;30
+41552;557;;;;"Manju your Indian Express GmbH";"Ind./pak. Restaurant/Imbiss";"Glockengießerwall";"8-10";20095;"Hamburg";"Deutschland";;;;;"www.zala.de";;30
+41553;558;;;;"Taj Mahal Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Große Burgstraße";59;23552;"Lübeck";"Deutschland";"0451-3995099";;"0451-3995272";;"www.taj-mahal-luebeck.de";;30
+41554;559;;;;"Call Shop";"Asia/Afro Shop";"Adenauerallee";1;20097;"Hamburg";"Deutschland";;;;;;;30
+41555;560;;;;"Que Huong Asia Shop";"Asia/Afro Shop";"Fuhlsbüttler Str.";417;22309;"Hamburg";"Deutschland";"040/6315684";"040-6319405";;;;;30
+41556;561;;;;"Zaandam Afro Food";"Asia/Afro Shop";"Hammer Landstr.";18;20537;"Hamburg";"Deutschland";"040/25306730";"040/25306731";"017627944275";;;;30
+41557;562;"Herr";"Hussain";"Malik Khalid ";"Dk Desi Bazaar";"Asia/Afro Shop";"Banegardsvej";104;2600;"Glostrup";"Denmark";"004575957070";"00452395351";;"desibazardk@gmail.com";;"DK38584588";30
+41558;563;"Herr ";"Zerik";"Murat  Sahin ";"City Mini Markt";"Asia/Afro Shop";"Neue Sülze";20;21335;"Lüneburg";"Deutschland";;;"0176-25625600";;;;30
+41559;564;;;;"GOA Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Dankwartstraße";45;23966;"Wismar";"Deutschland";;;;;"www.goa-restaurant.de";;30
+41560;565;;;;"ADA Asian Shop";"Asia/Afro Shop";"Grasemann Str";19;28277;"Bremen";"Deutschland";"0421-8983150";;;;;;30
+41561;566;;;;"Punjab Sweet";"Asia/Afro Shop";"Folehaven";2;2500;"Valby";"Denmark";"004536443055";;;"04527501215";;;30
+41562;567;"Herr ";"Ahmad";"Maqsuad";"India Haus ";"Ind./pak. Restaurant/Imbiss";"Veerßer str.";41;29525;"Uelzen";"Deutschland";"0581-97 38 27 70";;;"ahmad.india-haus@gmx.de";;;30
+41563;568;"Herr";"Taqwa";"Masjed";"African Muslim Union";"Verein/Stiftung/Gemeinschaft";"Arndtstr.";10;30167;"Hannover";"Deutschland";"(0511) 70036534";"01731868274";;;;;30
+41564;569;;;;"Maharani Restaurant";"Ind./pak. Restaurant/Imbiss";"Hallerstraße";1;20146;"Hamburg";"Deutschland";"040/42949691";"04042949693";;;;;30
+41565;570;;;;"Joe Kadi";"Ital. Restaurant/Imbiss";"Pestalozzistraße";22;22305;"Hamburg";"Deutschland";"01744467489";"017686333766";;;;;30
+41566;571;;;;"Dong Tien Supermarkt (Asia Markt)";"Asia/Afro Shop";"Wilstorfer Str";52;21073;"Hamburg";"Deutschland";"040/767 56 303";"040-85104803";"040 767 56 303";"dongtien@ok.de";;;30
+41567;572;;;;"Shukria Restaurant";"Ind./pak. Restaurant/Imbiss";"Eppendorfer Marktplatz";8;20251;"Hamburg";"Deutschland";"040/4801147";"0176-63881118";;;;;30
+41568;573;;;;"Taj Mahal Restaurant ";"Ind./pak. Restaurant/Imbiss";"Große Straße";15;22926;"Ahrensburg";"Deutschland";"04102888888";;;;;;30
+41569;574;;;;"Grando Sukredo";"Ital. Restaurant/Imbiss";"Kirchenstr.";28;25436;"Moorrege";"Deutschland";"0412282018";"04122929765";;;;;30
+41570;575;"Herr ";"Yildirium";"Erhan ";"Onur Feinkost";"Asia/Afro Shop";"Kleiner Schippsee";15;21073;"Hamburg";"Deutschland";"040/76755501";;"040/76797635";"info@onur-gmbh.de";"www.onur-gmbh.com";;30
+41571;576;;;;"Med Market ";"Asia/Afro Shop";"Bahnhofstraße";21;29525;"Uelzen";"Deutschland";"058178098";"0171/9054425";;;;;30
+41572;577;;;;"Raza Handelsgeselschaft (Afro Shop)";"Asia/Afro Shop";"Bahnhofstr.";20;24143;"Kiel";"Deutschland";;;;;;;30
+41573;578;;;;"Bibo Nazar ";"Sonstiges";"Limmerstr.";93;30451;"Hannover";"Deutschland";"051154300944";;;"info@bombayplace.de";;;30
+41574;579;;;;"Indo Pak";"Asia/Afro Shop";"Ystadvägen";8;21430;"Malmö";"Sweden";"0046 4085 709";;;"info@indopak.se";"www.indopak.se";"SE556735698401";30
+41575;580;;;;"My Asia";"Asia/Afro Shop";"Bergstr.";24;24103;"Kiel";"Deutschland";"04316572638";;;"info@myasia-kiel.de";"www.myasia-kiel.de";;30
+41576;581;;;;"Asia Markt Mabuhay Asiatische Lebensmittel & Geschenkartikel";"Asia/Afro Shop";"Knooper Weg";42;24103;"Kiel";"Deutschland";"04315878372";;"0431787280";;;;30
+41577;582;;;;"Shalimar Restaurant";"Ind./pak. Restaurant/Imbiss";"Hauptstr.";51;25548;"Kellinghusen";"Deutschland";"048223637997";;"048223637999";;"www.shalimar-sh.de";;30
+41578;583;;;;"Tadsch Mahal Indisches Spezialitätenrestaurant";"Ind./pak. Restaurant/Imbiss";"Alte Lübecker Chaussee";31;24113;"Kiel";"Deutschland";"0431336765";;;;"www.tadschmahal-kiel.de";;30
+41579;584;;;;"African Market";"Asia/Afro Shop";"Ziegelteich";21;24103;"Kiel";"Deutschland";"04313105680";"01745937133";;;;;30
+41580;585;;;;"Bollyfood Bombay Restaurant";"Ind./pak. Restaurant/Imbiss";"Knooper Weg";"140a";24105;"Kiel";"Deutschland";"04315878153";;;"bollyfoodbombay@googlemail.com ";"www.bollyfood-bombay.de";;30
+41581;586;"Herr";"Asante Jakobsen";"Samuel";"African House";"Asia/Afro Shop";"Abel Cathrines Gade";3;1654;"Copenhagen";"Dänemark";"04533232391";;;"info@africanhouse.dk";"www.africanhouse.dk";"DK27847781";30
+41582;587;"Herr";"Rahmani";"Ramin ";"Kabul Marked";"Asia/Afro Shop";"Reventlowsgade";"22kld";1651;"Copenhagen";"Dänemark";"004533337586";;;"kabulmarked@hotmail.com";;"DK27847782";30
+41583;588;;;;"Probe 2000";"Asia/Afro Shop";"Istedgade";59;1650;"Copenhagen";"Dänemark";"004533793380";;;"luckprobe@yahoo.com";;;30
+41584;589;"Herr";"Jamshid";;"Afghan Marked";"Asia/Afro Shop";"Reventlowsgade";20;1651;"Copenhagen";"Dänemark";"0045 33 25 84 03";;"0045332584";;;"DK27266959";30
+41585;590;;;;"Cydam Specialities Store";"Asia/Afro Shop";"Gothersgade";135;"kl, 1123";"Copenhagen";"Dänemark";;;;;;;30
+41586;591;"Herr";"Rana";"W. ";"Punjab Restaurant und Lieferservice";"Asia/Afro Shop";"Alter Husumer Weg";260;24941;"Flensburg";"Deutschland";"04614305374";"017660869726";;;;;30
+41587;592;;;;"M+M Afro Shop";"Asia/Afro Shop";"Landwehrstraße";117;28217;"Bremen";"Deutschland";"04211690990";;;;;;30
+41588;593;;"Habib Ur Rehman Ch.";;"Odense Multi Food";"Asia/Afro Shop";"Kildemosevej";11;5000;"Odense C";"Dänemark";"004566121465";"004566121498";"004560666935";"info@odensemultifood.dk";"www.odensemultifood.dk";;30
+41589;594;;;;"Dickson's Afro Shop";"Asia/Afro Shop";"Bismarckstraße";2;24943;"Flensburg";"Deutschland";"04613189314";"016091984429";;"dickson@versanet.de";;;30
+41590;595;"Herr ";"Ahmed";"Fahim ";"Rialto Pizza Factory";"Ind./pak. Restaurant/Imbiss";"Ostenfelder Straße";68;25813;"Husum";"Deutschland";"04841935128";"01752465855";"04841935178";;;;30
+41591;596;"Herr";"Uday";;"Royal Bright";"Lebensmittel Großhandel";"Folehaven";51;"2tv / 2500";"Valby";"Dänemark";"004550568988";"004571835252";;;;29577226;30
+41592;597;;;;"Makosa Afro Shop ";"Asia/Afro Shop";"Falkenstr";16;28195;"Bremen";"Deutschland";"04211652712";"0172-4240304";"04211652713";;;;30
+41593;598;;;;"Tradenet International Handels GmbH";"Asia/Afro Shop";"Randstraße";1;22525;"Hamburg";"Deutschland";"040/41347887";;"040/52014094";;;;30
+41594;599;;;;"Royal India Express Food Ug";"Ind./pak. Restaurant/Imbiss";"Billstr";98;20539;"Hamburg";"Deutschland";"040-87094100";"017688230405";"04088173697";;;;30
+41595;600;"Herr ";"Zarai";"Kamel ";"CCS Fruchtkorb";"Asia/Afro Shop";"Schreyerring";26;22309;"Hamburg";"Deutschland";"040-85412960";;;;;;30
+41596;601;;;;"Prego Grill";"Ital. Restaurant/Imbiss";"Elisabethstraße";52;24143;"Kiel";"Deutschland";"04317068300";;"04317754207";;"www.prego-grill.de";;30
+41598;602;;;;"Phuong Trung";"Asia/Afro Shop";"Auf dem Wüstenort";14;21335;"Lüneburg";"Deutschland";"04131-408724";"04131408725";;;;;30
+41599;603;;;;"Dil Restaurant (India Cup) ";"Ind./pak. Restaurant/Imbiss";"Wandsbeker Marktstraße";97;20041;"Hamburg";"Deutschland";"040/52605633";"0178/3104031";;;;;30
+41600;604;"Herr";"Zurmatie";"Reshad ";"DSN Green Food Company GmbH ";"Asia/Afro Shop";"Sophienblatt";48;24114;"Kiel";"Deutschland";"04316794679";"017670256811";;;;;30
+41601;605;;;;"Pizza Service";"Ital. Restaurant/Imbiss";"Lüneburger Landstr.";"2d";21391;"Reppenstedt";"Deutschland";"0176/22517666";;;;;;30
+41602;606;;;;"Himalaya Asia Shop";"Asia/Afro Shop";"Lange Reihe";"22-24";24103;"Kiel";"Deutschland";"043198262862";"015205897471";;;;;30
+41603;607;;"Asiatische und Afrikanische Lebensmittel";;"Asia Mover Markt";"Asia/Afro Shop";"Apenrader Straße";73;24939;"Flensburg";"Deutschland";"046143042594";"015778094928";;;"www.asia-mover.com";;30
+41604;608;;;;"Strag Trading ";"Asia/Afro Shop";"Falkenstraße";24;28195;"Bremen";"Deutschland";"01743190140";;;;;;30
+41605;609;;;;"Allaf Supermarkt";"Asia/Afro Shop";"Hospitalstraße";4;63450;"Hanau";"Deutschland";;;;;;;30
+41606;610;;;;"Cash and Carry Vine Khana";"Asia/Afro Shop";"Adenauerallee";2;20097;"Hamburg";"Deutschland";;;;;;;30
+41607;611;;;;"Chauhdry Food Traders Gmbh ";"Ind./pak. Restaurant/Imbiss";"Saatwinkler Damm";9;13627;"Berlin";"Deutschland";"030/2172347";"030 34 50 43 61";"030/23639289";;"cft-berlin.de";;30
+41608;612;"Herr";"Zabihullah";"Ghousi ";"Tropical Market";"Asia/Afro Shop";"Hamburger Str.";180;22083;"Hamburg";"Deutschland";;;;;;;30
+41609;613;;;;"Ahmadiya Muslim Jammat";"Verein/Stiftung/Gemeinschaft";"Pinneberger str.";46;22457;"Hamburg";"Deutschland";;;;;"www.ahmadiyya.de";;30
+41610;614;;"Hamid Sons UG";;"Punjab Asian Bazar ";"Asia/Afro Shop";"Odenwaldstraße";13;64521;"Gross-Gerau";"Deutschland";"061527127289";"0178-7414264";;;"www.punjabasianfood.de";"St Nr .02119148806";30
+41611;615;;"International Baeber Salon";;"Africa Unique Shop ";"Asia/Afro Shop";"Langenscheidtst";"12b";10827;"Berlin";"Deutschland";"030/78006394";"01778998296";;;"www.africanuniquekleistpark.de";;30
+41612;616;;;;"Alpha and Omega International Afro Shop";"Asia/Afro Shop";"Weserstraße";"3";12047;"Berlin";"Deutschland";"03061624972";;;"alpha-and-omega-international@t-online.de";"www.alphaandomegaafroshop.com";;30
+41613;617;;;;"Max Afro Shop";"Asia/Afro Shop";"Karl-Marx-Straße";25;12043;"Berlin";"Deutschland";"030/53606308";;"03053606309";;;;30
+41614;618;;;;"Pat´s Afro Shop";"Asia/Afro Shop";"Veringstraße";83;21107;"Hamburg";"Deutschland";;;;;;;30
+41615;619;"Frau ";"Stein";"Christina ";"Tropical Shop ";"Asia/Afro Shop";"Fährstr.";28;21107;"Hamburg";"Deutschland";"040/7521452";;;;;;30
+41616;620;"Herr ";"Nadarajah";"Ragavan ";"Radhaan Supermarkt ";"Asia/Afro Shop";"Sonnenallee";15;12047;"Berlin";"Deutschland";"03062732211";"015141302534";;;;;30
+41617;621;"Herr";"Yaw";"Wofa ";"Afro Shop am Rathaus Neukölln Berlin";"Asia/Afro Shop";"Boddinstraße";64;12053;"Berlin";"Deutschland";"03068088980";;"03068087162";;;;30
+41618;622;;;;"Afro Asia Shop ";"Asia/Afro Shop";"Hauptstrasse";15;10827;"Berlin";"Deutschland";"03049809393";"01734773990";;"afroasia007@gmail.com";;;30
+41619;623;;;;"African Beauty Bazaar & Ivy Hair Palace";"Afro-Kosmetik/Beauty/Friseur";"Sesenheimerstr.";16;10627;"Berlin";"Deutschland";"03034094625";"01706188093";"03034096846";;;;30
+41620;624;"Herr ";"Melion";;"Cocoon Hairshop";"Afro-Kosmetik/Beauty/Friseur";"Potsdamer Straße";199;10783;"Berlin";"Deutschland";"03021016671";"01792379840";"03021016804";;;;30
+41621;625;;;;"Fausties Afro Shop ";"Afro-Kosmetik/Beauty/Friseur";"Lübecker Str.";49;10559;"Berlin";"Deutschland";"0303963424";;;;;;30
+41622;626;"Frau ";"Jennifer";;"Unique Afro Kosmetic Berlin";"Afro-Kosmetik/Beauty/Friseur";"Sonnenallee";21;12047;"Berlin";"Deutschland";"030 - 814 94 262";"0176 -37 61 3710";;"unique_osei@yahoo.com";;;30
+41623;627;;;;"A one Thomas - Afro Shop & Hair Cut";"Afro-Kosmetik/Beauty/Friseur";"Schwedenstr.";"17a";13357;"Berlin";"Deutschland";"0304919950";"01709383160";;;;;30
+41624;628;;;;"Egbeosa Afro World";"Asia/Afro Shop";"Vesterbrogade";87;1620;"Copenhagen";"Dänemark";"004533258979";"004540322861";;;;;30
+41625;629;;;;"Salon Skaley";"Asia/Afro Shop";"Oehlenschlægersgade";2;1663;"Copenhagen";"Dänemark";"004533232627";"004528936993";;;;"DK27314805";30
+41626;630;;;;"Punjab Food Trader GmbH ";"Asia/Afro Shop";"Tromsoerstr";6;13359;"Berlin";"Deutschland";"030 - 493 01 239";;"030 - 49 301 242";"punjabfood@hotmail.de";;;30
+41627;631;;;;"Tropical Markt ";"Asia/Afro Shop";"Erikastr.";3;12439;"Berlin";"Deutschland";"030/62704980";"015214515274";"01630474330";;;;30
+41628;632;;;;"Thai Curry Delhi";"Ind./pak. Restaurant/Imbiss";"Heegbarg";31;22391;"Hamburg";"Deutschland";;;;;;;30
+41629;633;"Herr ";"Bhatti";"Zaman ";"Masala House ";"Asia/Afro Shop";"Allerheiligenstraße";23;60313;"Frankfurt am Main";"Deutschland";"069-281444";"069281444";"06990432011";;;;30
+41630;634;;;;"Bombay - Indisches Spezialitätenrestaurant";"Ind./pak. Restaurant/Imbiss";"Daniel-von-Büren-Straße";29;28195;"Bremen";"Deutschland";"0421170596";;421170596;"info@bombay-restaurant.de";"www.bombay-restaurant.de";46150385794;30
+41631;635;;;;"Internetcafe Neeja (Western Union)";"Sonstiges";"Langemarckstraße";66;28199;"Bremen";"Deutschland";"042152514754";;;;;;30
+41632;636;;;;"Afro & Body Berlin";"Asia/Afro Shop";"Hobrechtstr.";2;12043;"Berlin";"Deutschland";"03074309484";"017685202211";;;;;30
+41633;637;;;;"Asia & Afro Trading GmbH";"Asia/Afro Shop";"Hamerbrookstraße";84;20097;"Hamburg";"Deutschland";"04073434462";;;"info@asiaundafro.de";"www.asiaundafro.de";;30
+41634;638;"Herr";"Luong";"Van Dinh ";"Green Mango";"Asia/Afro Shop";"Möllner Landstr.";15;22111;"Hamburg";"Deutschland";"040/73672413";"0177/3570055";;;;;30
+41635;639;"Herr";"Truong";"Thin Kim Yeh ";"Centergrønt";"Asia/Afro Shop";"Laerkevej";21;6000;"Kolding";"Dänemark";"004555518417";"00475504740";;;;;30
+41636;640;;;;"Pak Food";"Ind./pak. Restaurant/Imbiss";"Vedbækgade";"10";2200;"Copenhagen";"Dänemark";"004535837020";;;"safique 786@yahoo.dk";;;30
+41637;641;;;;"Iqbal Food";"Asia/Afro Shop";"Hørsholmsgade";24;2200;"Copenhagen";"Dänemark";"004535858248";;;"RANJAN@sriambaal.dk";;;30
+41638;642;;"V/zmarai Shirzai";;"Oriental Food Slagater";"Asia/Afro Shop";"Taastrup Hovedgade";73;2630;"Tastrup";"Dänemark";"004543522800";"004571421616";;;;"DK27700217";30
+41639;643;"Frau ";"Naa Baden";"Esther ";"Kaneshie Market Import Export";"Asia/Afro Shop";"Max-Brauer-Allee";160;22765;"Hamburg";"Deutschland";"0403805987";;;;;;30
+41640;644;;;;"Lavastein";"Ital. Restaurant/Imbiss";"Serrahnstraße";"3-5";21029;"Hamburg";"Deutschland";"040721223";;;"info@restaurant-lavastein.de";"www.restaurant-lavastein.de";;30
+41641;645;;;;"Pinneberger Pizza-Service";"Ind./pak. Restaurant/Imbiss";"Friedrich-Ebert-Damm";"1-3";25421;"Pinneberg";"Deutschland";"04101764 00";;;;;;30
+41642;646;;;;"CMB Lebensmittel Gmbh";"Asia/Afro Shop";"Weidenbaumsweg";19;21029;"Hamburg";"Deutschland";"0407216935";"017690274947 Barish";"0407247164";;;;30
+41643;647;;;;"Delhi Restaurant";"Ind./pak. Restaurant/Imbiss";"Stellinger Weg";35;20255;"Hamburg";"Deutschland";"040405554";;"04041172857";"info@restaurant-delhi.de";"www.restaurant-delhi.de";;30
+41644;648;;;;"Krishna - Indische Spezialitäten";"Ind./pak. Restaurant/Imbiss";"Serrahnstraße";9;21029;"Hamburg";"Deutschland";"04072006930";;;;;;30
+41645;649;"Herr ";"Mubarik";"Nasir ";"Punjab Shop Asiamarkt";"Asia/Afro Shop";"(Eidelstedter Platz) Lohkampstr.";11;22523;"Hamburg";"Deutschland";"040 - 5720 49 42";"040 - 55 00 56 33";;"mubarik.a.n@hotmail.de";;;30
+41646;650;;;;"Malata Markt";"Asia/Afro Shop";"Dithmarscher Straße";2;22049;"Hamburg";"Deutschland";"040687881";;;;;;30
+41647;651;;;;"AL HADI INTER Food ApS";"Asia/Afro Shop";"Vestergade";13;7400;"Herning";"Dänemark";"+457162 62 26";;;;;"DK37396974";30
+41648;652;;;;"Ready-Pizza";"Ital. Restaurant/Imbiss";"Horner Landstraße";150;22111;"Hamburg";"Deutschland";"04027885544";"04027885546";"04027885556";"info@readypizza.de";"www.ready-pizza.de";;30
+41649;653;"Frau ";"Hecht";"Janet ";"Afrikiko Afro Shop ";"Asia/Afro Shop";"Wandsbeker Marktstr.";144;22041;"Hamburg";"Deutschland";"040-68919706";;;;;;30
+41650;654;;;;"Lavastein Restaurant";"Ital. Restaurant/Imbiss";"Am Markt";1;23909;"Ratzeburg";"Deutschland";"04541 840324";;"04072005164";"info@restaurant-lavastein.de";"www.restaurant-lavastein.de";;30
+41651;655;"Herr";"Lam ";"Nguyen";"Mai Thu Restaurant";"Asia Restau./Imbiss";"Auricher Straße";290;26721;"Emden";"Deutschland";4921585150;"0151/25278389";;;;;30
+41652;656;"Herr ";"Rashid";"Harun ";"Rashid´s Restaurant & Bistro";"Ind./pak. Restaurant/Imbiss";"Schützenweg";11;26129;"Oldenburg";"Deutschland";"04419736234";;"04119736234";"info@rashids.de";"www.rashids.de";;30
+41653;657;;;;"Kashmir Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Alexanderstraße";39;26121;"Oldenburg";"Deutschland";"04412050081";;"04412050082";;"kashmir-oldenburg.de";;30
+41654;658;"Herr ";"Balasini";"Adnan ";"City Pizza Service ";"Ital. Restaurant/Imbiss";"Nadorster Straße";79;26123;"Oldenburg";"Deutschland";"044188525253";"044188525254";"04418 525255";"city-pizza-oldenburg@webimbiss.de";"www.city-pizza-oldenburg.de";;30
+41655;659;;;;"Mr. Bollywood Restaurant";"Ind./pak. Restaurant/Imbiss";"Bei den drei Pfählen";10;28205;"Bremen";"Deutschland";"04214308004";;;;;;30
+41656;660;;;;"Veggie House";"Ind./pak. Restaurant/Imbiss";"Graf-Moltke-Straße";26;28211;"Bremen";"Deutschland";"042146823515";;;;;;30
+41657;661;;"Setor Nutakor ritter";;"Deutsch Afro Beauty";"Afro-Kosmetik/Beauty/Friseur";"Nadorster Str.";51;26123;"Oldenburg";"Deutschland";"04413503297";"015210327524";;"johnny.koutonou@yahoo.de";;;30
+41658;662;;"Loi Diem Thuy";;"Asia Shop Vina Store";"Asia/Afro Shop";"Martinistraße";66;28196;"Bremen";"Deutschland";"04211690917";;;"info@asiadesign.org";"www.asia-shop-bremen.de";;30
+41659;663;;;;"Happy Grill & China City";"Asia Restau./Imbiss";"Nordstraße";15;28217;"Bremen";"Deutschland";"04213887616";;;;;;30
+41660;664;;;;"Asien Markt Thanh Hung";"Asia/Afro Shop";"Staulinie";10;26122;"Oldenburg";"Deutschland";"044112643";"01752433210";"04412179577";;;;30
+41661;665;;;;"Pizza Max";"Ital. Restaurant/Imbiss";"Ludolfstr.";41;20249;"Hamburg";"Deutschland";"04046091100";;;;;;30
+41662;666;;;;"Curry House Indian Restaurant";"Ind./pak. Restaurant/Imbiss";"Bramfelder Chaussee";230;22177;"Hamburg";"Deutschland";"015212874750";;;;;;30
+41663;667;;;;"Nyarco Berlin";"Asia/Afro Shop";"Wilhelmsruher Damm";177;13439;"Berlin";"Deutschland";"03060950913";"017634923077";;;;;30
+41664;668;;;;"Samantha Wilson Inajetovic";"Asia/Afro Shop";"Södra Förstadsgatan";91;21420;"Malmö";"Sweden";"0046739521543";4081819;;"Samanthasbutik@yahoo.com";;;30
+41665;669;"Herr";"Ruban";;"Indian Mahal Restaurant";"Ind./pak. Restaurant/Imbiss";"Bazarfyn";;5000;"Odense C";"Dänemark";"004566131093";"004523708676";;"info@indianmahal.de";;;30
+41666;670;"Herr";"Mansour";"Khaled ";"Mango Bazarfyn";"Asia/Afro Shop";"Thriges Plads";"3-7";5000;"Odense C";"Dänemark";"004566110075";"004529931446";;"info@mango-bazarfyn.dk";"www.mango-bazarfyn.dk";;30
+41667;671;"Herr ";"Tran";"Felix ";"Easy Asian Trading AB";"Asia/Afro Shop";"Stålkulegatan";9;21228;"Malmö";"Schweden";"004640939710";"0046739372756";"004640930305";"info@esayasia.net";"www.easyasia.se";;30
+41668;672;;;;"Lucu Food AB";"Asia/Afro Shop";"Singelgatan";1;21228;"Malmö";"Schweden";"004640931313";;;"info@lucufood.se";"www.lucufood.se";;30
+41669;673;"Herr";"Rostami";"Mehrdad ";"Abdos Trading Malmö";"Asia/Afro Shop";"Scheelegatan";32;21228;"Malmö";"Schweden";"0046701820033";;;"info@abdostrading.se";"ww.abdostrading.de";;30
+41670;674;"Herr";"Didia";"Jean Bernard ";"Dan Afrika";"Asia/Afro Shop";"(Center-Ost) Vollsmose Allé";10;5240;"Odense NO";"Denmark";"004528344695";;;"Jean.bernard@galnet.dk";;;30
+41671;675;"Herr";"Al Janabi";"Dhafer ";"Ori Frugt";"Asia/Afro Shop";"(Center Ost) Vollsmose Allé";10;5240;"Odense NO";"Dänemark";"004529330074";;;;;;30
+41672;676;;;;"Globisco ";"Asia/Afro Shop";"Bergsgatan";"4B";21154;"Malmoe";"Schweden";"0046406111989";;;"afroeuro@globisco.se";"www.globisci.se";"SE501223172501";30
+41673;677;"Herr";"Alhulo";"Noor ";"Super Center Aps";"Asia/Afro Shop";"Frederikssundsvej";34;2400;"Kopenhagen nv";"Dänemark";"004538108030";"004533500327";;"Noor_alhulo@hotmail.com";;;30
+41674;678;;;;"Hansa Food Yildiz";"Asia/Afro Shop";"Händelweg";4;23556;"Lübeck";"Deutschland";;;;;;;30
+41675;679;"Herr";"Safdar";;"Inspired";"Asia/Afro Shop";"Ystadsvägen";"8-10";21430;"Malmö";"Schweden";;;;"atiaza2006@gmail.com";;;30
+41676;680;;;;"Pizza Time";"Ital. Restaurant/Imbiss";"Brogade";1;5000;"Odense C";"Dänemark";"004566122099";;;;"www.pizzatimeodense.just-eat.dk";;30
+41677;681;"Herr";"Isan";"Ehab";"Butik Oliven";"Asia/Afro Shop";"Thriges Plads";"3-7";5000;"Odense C";"Dänemark";"004526473370";;;"Ehabinsan@hotmail.com";;;30
+41678;682;"Frau ";"Marie";;"Gods Gift Afro Shop";"Asia/Afro Shop";"Norra Skolgatan";13;21152;"Malmö";"Schweden";"0762-238629";"0769911323";;"marieyoung2005@yahoo.com";;;30
+41679;683;"Herr";"Siwan";;"Pizza Napoli";"Ital. Restaurant/Imbiss";"Nyborgvej";183;5220;"Odense SO";"Dänemark";"004566122373";;;;;;30
+41680;684;;;;"Saigon Marked";"Asia/Afro Shop";"Nyborgvej";181;5220;"Odense SO";"Dänemark";"004565914046";;"004565914047";"quangdamdk@yahoo.dk";;;30
+41681;685;"Herr";"Hung";"Mac Kien ";"Kina Center Livs";"Asia/Afro Shop";"Möllevangstorget";7;21424;"Malmö";"Schweden";;;"040/194595";;;;30
+41682;686;"Frau ";"Selli";;"Selli's Afroshop";"Asia/Afro Shop";"Seestrasse";37;13353;"Berlin";"Deutschland";"03032594395";;;;;;30
+41683;687;"Herr";"Iftikhar";;"La Venezia Restaurant";"Ital. Restaurant/Imbiss";"Hammer Steindamm";113;20535;"Hamburg";"Deutschland";"040 2004828";;;"kontakt@la-venezia-hamburg.com";"www.la-venezia-hamburg.de";;30
+41684;688;"Herr";"Nezam";"Khaled ";"India Express GmbH (Chutney Restaurant)";"Ind./pak. Restaurant/Imbiss";"Hamburger Meile, Hamburger Straße";27;22083;"Hamburg";"Deutschland";"040/288 05 848";;"040/288 05 849";;"www.chutney-food.de";;30
+41685;689;"Herr";"Kala";;"Pizza Max";"Ital. Restaurant/Imbiss";"Ulzburgerstraße";112;22850;"Norderstedt";"Deutschland";"040/53309933";;;;;;30
+41686;690;;;;"Fly Pizza Service";"Ital. Restaurant/Imbiss";"Rahlstedter Straße";70;22149;"Hamburg";"Deutschland";"040/6724594";;"040/665879";;;;30
+41687;691;;;;"Inter Feinkost";"Asia/Afro Shop";"Fuhlsbüttler Straße";166;22305;"Hamburg";"Deutschland";"01712806300";;;;;;30
+41688;692;;;;"Aldo's Pizzeria & More Lieferservice";"Ital. Restaurant/Imbiss";"Lohbrügger Landstraße";80;21031;"Hamburg";"Deutschland";"040/89725548";;;;;;30
+41689;693;"Herr";"Dang Tai";"Nguyen ";"Mai Thu Restaurant";"Asia Restau./Imbiss";"Burgstr.";28;26122;"Oldenburg";"Deutschland";"044113636";;;;"http://www.mai-thu.de";;30
+41690;694;"Herr";"Sing";"Kulwant ";"City Pizza";"Ital. Restaurant/Imbiss";"Breite Straße";1;19288;"Ludwiglsust";"Deutschland";;;;;;;30
+41691;695;;;;"Kumba Afro Hairstyles";"Afro-Kosmetik/Beauty/Friseur";"Langemarckstraße";175;28199;"Bremen";"Deutschland";"042184098523";;"0152/08765017";;;;30
+41692;696;;;;"Elaste Usabimana";"Asia/Afro Shop";"Vesterbrogade";"122kl";1620;"Copenhagen V";"Dänemark";"004533238187";"004560862361";;"usel63@yahoo.dk";;;30
+41693;697;;;;"Thang Long Asia Food";"Asia/Afro Shop";"Marktplatz";7;30853;"Langenhagen";"Deutschland";;;;;;;30
+41694;698;;;;"Indian Temple Restaurant";"Ind./pak. Restaurant/Imbiss";"Fuhlsbüttler Straße";159;22059;"Hamburg";"Deutschland";"040/870 99 447";;;"info@indian-temple.de";"www.indian-temple.de";"43/045/02059";30
+41695;699;;;;"Vinh-Loi Asien-Supermarkt";"Asia/Afro Shop";"Wandsbeker Königstraße";"23-25";22041;"Hamburg";"Deutschland";;;;;;;30
+41696;700;"Frau";"Bintou";;"Bintous Afro Friseursalon";"Afro-Kosmetik/Beauty/Friseur";"Holstenstraße";198;22765;"Hamburg";"Deutschland";;;;;;;30
+41697;701;"Herr";"Faheem";;"Rialto Pizza Factory";"Ital. Restaurant/Imbiss";"Rosenburgweg";"20A";25817;"Bredstedt";"Deutschland";"0467194 28464";"01752465855";;;;;30
+41698;702;;;;"New Asia";"Asia/Afro Shop";"Fühlsbüttlerstraße";1;22305;"Hamburg";"Deutschland";"040/2002052";;;;;;30
+41699;703;"Herr ";"Mohammad";"Iqbal ";"Jamal Afro Shop";"Asia/Afro Shop";"Torfstraße";21;13353;"Berlin";"Deutschland";"030/81799939";;;;;;30
+41700;704;"Herr";"Tony";;"Afro Shop Success";"Asia/Afro Shop";"Sonnenallee";126;12045;"Berlin";"Deutschland";;;;;;;30
+41701;705;;;;"Kaghan Restaurant";"Ind./pak. Restaurant/Imbiss";"Fühlbüttelerstraße";"172a";22305;"Hamburg";"Deutschland";;;;;;;30
+41702;706;;;;"Koh-I-Noor Dhaba Indischer Imbiss";"Ind./pak. Restaurant/Imbiss";"Hildesheimer Straße";85;30169;"Hannover";"Deutschland";"051195483483";;;;"www.kohinoor-dhaba.de";;30
+41703;707;"Frau ";"Gyau";"Agnes ";"Kaneshie Afro Shop";"Asia/Afro Shop";"Moselstraße";51;60329;"Frankfurt am Main";"Deutschland";"06929728585";;;;"www.kaneshie.de";;30
+41704;708;;;;"Spicelands GmbH ";"Asia/Afro Shop";"Kaiserstraße";60;60329;"Frankfurt am Main";"Deutschland";"069250361";;"069250362";;;;30
+41705;709;"Herr";"Cole";"John Julius ";"Exo Mark ";"Asia/Afro Shop";"Ollenhauer Str.";18;13403;"Berlin";"Deutschland";"030 - 95 62 58 17";;"017664364332";"johnjuliuscole@yahoo.de";;;30
+41706;710;;;;"Aman Cash & Carry";"Asia/Afro Shop";"Leipziger Str.";70;60487;"Frankfurt am Main";"Deutschland";"069-77011374";;"01781754224";;;;30
+41707;711;;"Pizza Lieferservice";;"Pizza Eck ";"Ital. Restaurant/Imbiss";"Adolf-Brütt-Straße";60;25813;"Husum";"Deutschland";"048417794072";;;"info@pizza-eck-husum.de";"www.pizza-eck-husum.de";;30
+41708;712;"Herr ";"Dougles";;"Simba World of Beauty";"Afro-Kosmetik/Beauty/Friseur";"Werner-Hilpert-Str.";1;34117;"Kassel";"Deutschland";"05613172160";;"0174/5600756";"info@simbabeauty.de";;;30
+41709;713;;;;"Phuong Lan";"Asia/Afro Shop";"Goethe-Allee";14;37073;"Göttingen";"Deutschland";"0551531072";;;"binh_lan@gmx.de,k.huynh@gmx.de";;;30
+41710;714;;;;"Kim-Xinh Asia Kaufhaus";"Asia/Afro Shop";"Kurt-Schumacher-Str.";5;34117;"Kassel";"Deutschland";;;;"asia-kaufhaus@arcor.de";;;30
+41711;715;;;;"Chek Mama Afro Shop ";"Asia/Afro Shop";"Ritter-Brüning-Straße";28;30449;"Hannover";"Deutschland";;;;;;;30
+41712;716;;;;"Boussi Falafel";"Ind./pak. Restaurant/Imbiss";"(Europa Pasage) Ballindamm";40;20095;"Hamburg";"Deutschland";"040/69 63 02 51";;;"info@boussifalafel.de";"www.boussifalafel.de";;30
+41713;717;;;;"Punjab Store";"Asia/Afro Shop";"Pulverteich";16;20099;"Hamburg";"Deutschland";;;;;;;30
+41714;718;"Herr";"Singh";"Gurphej ";"Pizza King Lieferservice";"Ital. Restaurant/Imbiss";"Feldschmiedekamp";28;25524;"Itzehoe";"Deutschland";"048/21149014";;;"Pizzakingitzehoe@yahoo.de";"www.pizzakingitzehoe.de";1,81E+11;30
+41715;719;;;;"Homestore Afro Shop";"Asia/Afro Shop";"Am Gojenboom";57;22111;"Hamburg";"Deutschland";;;;;;;30
+41716;720;;;;"Manju Indian Express";"Ind./pak. Restaurant/Imbiss";"Schloßstraße";11;12163;"Berlin";"Deutschland";;;;;;;30
+41717;721;"Herr ";"Ahmed";"Mehmood";"Taj Mahal Restaurant ";"Ind./pak. Restaurant/Imbiss";"Lüner Straße";1;21335;"Lüneburg";"Deutschland";"041316059969";;;;"www.taj-mahal-lg.de";;30
+41718;722;"Herr ";"Khan";"N. ";"Pizza Haus Husum";"Ital. Restaurant/Imbiss";"Treibweg";6;25813;"Husum";"Deutschland";"04841775353";;;;;;30
+41719;723;;;;"Suja -Einfach Indisch-(Einkaufzentrum Galerie)";"Ind./pak. Restaurant/Imbiss";"Breite Straße";16;21244;"Buchholz";"Deutschland";"041814067840";;;;;;30
+41720;724;"Herr";"Longhani";"Ravi ";"Asia und Afro Shop ";"Asia/Afro Shop";"Sandkamp";1;22111;"Hamburg";"Deutschland";;;;;;;30
+41721;725;;;;"Badshah Imbiss Sweet Center";"Ind./pak. Restaurant/Imbiss";"Bremer Reihe";24;20099;"Hamburg";"Deutschland";"040246043";;;;;;30
+41722;726;;;;"Indian Bazaar Harburg";"Ind./pak. Restaurant/Imbiss";"Lüneburgertor";9;21073;"Harburg";"Deutschland";"0176/61914870";;;;;;30
+41723;727;;;;"Thaindi Restaurant";"Asia Restau./Imbiss";"Bramfelder Chaussee";28;22177;"Hamburg";"Deutschland";"040/6919941";;;"balram@alice-dsl.net";"www.thaindi.de";;30
+41724;728;;;;"Taverna Metaxa";"Ital. Restaurant/Imbiss";"Straßburger Straße";23;22049;"Hamburg";"Deutschland";"040/69521";;;;;;30
+41725;729;;;;"Asia Shop Buchholz";"Asia/Afro Shop";"Rathausplatz";4;21244;"Buchholz in der Nordheide";"Deutschland";"04181 29 04 54";;;;;;30
+41726;730;"Herr";"Joe";"Kwasi  ";"Alima the Stylist";"Afro-Kosmetik/Beauty/Friseur";"Wandsbeker Chaussee";94;22089;"Hamburg";"Deutschland";"017685322949";;;;;;30
+41727;731;"Herr";"Celik";"Sitki ";"Özka Fischhandel";"Asia/Afro Shop";"Steindamm";47;20099;"Hamburg";"Deutschland";"040/28669777";;;;;;30
+41728;732;;"Europa Passage";;"Hanoi deli 2-Etage";"Asia Restau./Imbiss";"Ballindamm";40;20095;"Hamburg";"Deutschland";"040-4030762134";;;;;;30
+41729;733;;;;"Onur GmbH & Co. KG";"Türkisches Restaurant/Imbiss";"Fuhlsbüttler Straße";120;22305;"Hamburg";"Deutschland";"040/6902110";;;"onurbuchhaltung@onur-gmbh.com";"www.onur-gmbh.com";;30
+41730;734;;;;"Jaipur Tandoori Restaurant";"Ind./pak. Restaurant/Imbiss";"Lerchenfeld";14;22081;"Hamburg";"Deutschland";"040/2209475";;;"attipetty@web.de";"www.jaipur-restaurant.com";;30
+41731;735;"Herr ";"Shah Behrooz";"Ahmed ";"Pizza Max";"Ital. Restaurant/Imbiss";"Louise-Schroeder-Straße";27;22767;"Hamburg";"Deutschland";"040/33424330";;;;"www.pizzamax.de";;30
+41732;736;;;;"Sari Sari ApS";"Asia/Afro Shop";"Reverdilsgade";3;1701;"Kopenhagen V";"Dänemark";"0045 33 33 00 60";;;"info@topbiz.dk";;"DK33248261";30
+41733;737;"Frau ";"Engelmann";"Beatrice";"Asafo Market ";"Sonstiges";"Am Centrumhaus";5;21073;"Hamburg";"Deutschland";"017671793544";;;;;;30
+41734;738;;;;"Celina´s Lieferdienst ";"Ital. Restaurant/Imbiss";"Neuperver Str.";43;29410;"Salzwedel";"Deutschland";"03901305022";;"03901308466";;"www.celinas-saw.de";"106/275/00381";30
+41735;739;;;;"Josy´s Gallery";"Asia/Afro Shop";"Lindenweg";7;25436;"Tornesch";"Deutschland";;;;;;;30
+41736;740;;;;"Taj Mahal Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Sonnenweg";12;38518;"Gifhorn";"Deutschland";"053716369606";;"01739476929";;;;30
+41737;741;"Frau ";"Saitz";"Suzanne ";"Bantou Village";"Asia/Afro Shop";"Kameruner Str.";2;13351;"Berlin";"Deutschland";"030/45797636";"017673823637";;"info@bantou-village.de";"info@bantou-village.de";;30
+41738;742;;;;"Green Star (Grosse Markt Stand Nr263)";"Asia/Afro Shop";"Bank Str";28;20097;"Hamburg";"Deutschland";"040 79416330";"015739051691";;"info@greenstar-web.com";;;30
+41739;743;;;;"SE-SA";"Lebensmittel Großhandel";"Bank Str.";;20097;"Hamburg";"Deutschland";;;;;;;30
+41740;744;;;;"Asia Super Markt ";"Asia/Afro Shop";"Ohechaussee";8;22848;"Nordstedt";"Deutschland";"040 52985258";;"01773410957";"hoangtgiang@yahoo.de";;;30
+41741;745;"Frau  ";"Seidi";"Hadidjatou   06-10-1968";"ETS Kadi Shop";"Asia/Afro Shop";"Pulverteich";8;20099;"Hamburg";"Deutschland";;"015215175904";;;;;30
+41742;746;;;;"King of India Meinweg";"Ind./pak. Restaurant/Imbiss";"Maienweg";320;22335;"Hamburg";"Deutschland";"040 46645023";;;;;;
+41743;747;"Frau";"Müller";"Deborah";"DEBBY Afro Shop";"Asia/Afro Shop";"Frieden Str";2;25335;"Elmshorn";"Deutschland";"041015386576";"015210717575";;"deborahmueller50@outlook.de";;;30
+41744;748;;;;"H G G Gmbh";"Asia/Afro Shop";"Steindamm";70;20099;"Hamburg";"Deutschland";;;;;;;
+41745;749;;;;"Suja Restaurant Centrum";"Ind./pak. Restaurant/Imbiss";"Rosen  Str";39;20095;"Hamburg";"Deutschland";;;;;;;
+41746;750;;;;"Star Cash a";"Cas./pak. a/Imbiss";;67;30165;;"Deutschland";;;;;;;30
+41747;751;;;;"Star Cash & Carry GmbH ";"Cas./pak. GmbH/Imbiss";"Vahrenwalder Str.";67;30165;"Hannover";"Deutschland";;;;;;;30
+41748;752;;;;"Barakzai Markt";"Asia/Afro Shop";"Rothenburgortermarktplatz";2;20539;"Hamburg";"Deutschland";;;;;;;30
+41749;753;;;;"King of India Restaurant ";"Ind./pak. Restaurant/Imbiss";"St. Georgs Kirchhof";1;20099;"Hamburg";"Deutschland";"040-41924495";;"0176-31679609";" info@king-of-india.com";;;0
+41750;754;"Herr";"Singh Jeer";"Jasvir ";"JJ Global Trader e.k. (tor11+12)";"Lebensmittel Großhandel";"Langer Kornweg";"34a";65451;"Kelsterback";"Deutschland";;;;;;;30
+41751;755;"Herr";"Singh";"Karandeep";"Masala Express";"Asia/Afro Shop";"Mendel  Str";"26 D";21031;"Hamburg";"Deutschland";"040 75110666";;;;;;30
+41752;756;;;;"India Express Gmbh";"Ind./pak. Restaurant/Imbiss";"Von Bargen Straße ";18;22043;"Hamburg";"Deutschland";"015772004787";"0176 88230405";"040 88173697";"info@india-express-food.de";"www.india-express-food.de";;30
+41753;757;;;;"Asia Shop Herne";"Asia/Afro Shop";"Hauptsraße";282;44649;"Herne";"Deutschland";;;;;;;30
+41754;758;;;;"Majeed Asian Food ";"Ind./pak. Restaurant/Imbiss";"Adolf von Menzel Straße";"9-11";65428;"Rüsselheim am Main ";"Deutschland";;;;;;;30
+41755;759;;;;"Taj Mahal ";"Ind./pak. Restaurant/Imbiss";"Bloherfelderstraße";66;26129;"Oldenburg";"Deutschland";"0441 18039042";"017670909830";44118039044;"info@tajmahal-ol.de ";;;30
+41756;760;;;;"PMZ Baburi Gmbh ";"Asia/Afro Shop";"Billstraße";98;20539;"Hamburg";"Deutschland";"040-36096842";;"04036096844";"shop@baburi.de,baburi@outlook.de";;;30
+41757;761;"Herr";"Mirzada";"Niaz Mohammad ";"Mastana Markt ";"Asia/Afro Shop";"Vahrenheider Markt ";41;30179;"Hannover";"Deutschland";"051164200868";;;;;;30
+41758;762;;;;"Husumer City MARKT";"Asia/Afro Shop";"Norder str";40;25813;"Husum";"Deutschland";"01767233825";;;;;;30
+41759;763;;;;"Bahar Lebenmittel Markt";"Asia/Afro Shop";"Tangstedter Landstr.";20;22415;"Hamburg";"Deutschland";;"017634348913";;;;;30
+41760;764;;;;"India Temple";"Ind./pak. Restaurant/Imbiss";"Sasseler Chaussee";205;22393;"Hamburg";"Deutschland";"017623510616";;;;;;30
+41761;765;;;;"Orient Markt";"Asia/Afro Shop";"Auf dem Wüstenort";11;21335;"Lüneburg";"Deutschland";;;;;;;30
+41762;766;"Herr";"Singh";"Kulwant";"TAJ Pizza Service";"Ital. Restaurant/Imbiss";"Wittenburger Str";97;19053;"Schwerin";"Deutschland";;"015214428330";;;;;30
+41763;767;;;;"Le Royal Event-Saal Gmbh";"Eventsaal";"Hermann-Buck-Weg";9;22309;"Hamburg";"Deutschland";;;;;;;30
+41764;768;;;;"Bhai Bhai Sweets";"Asia/Afro Shop";"Alexanderstraße";33;64283;"Darmstadt";"Deutschland";"01736674124";"015252970990";;;;;30
+41765;769;;;;"Rice and Roll";"Ind./pak. Restaurant/Imbiss";"Krohnstieg";69;22415;"Hamburg";"Deutschland";" 040 53327598";;;"info@riceandroll.de";;;30
+41766;770;"Herr";"Singh";"Harjinder ";"Kartar Foods Berlin";"Ind./pak. Restaurant/Imbiss";"Senftenbergerring";3;13439;"Berlin";"Deutschland";;;;;;;30
+41767;771;;;;"Ready Pizza Service ";"Ital. Restaurant/Imbiss";"Tonndorfer Hauptstraße ";59;22045;"Hamburg";"Deutschland";;;;;;;30
+41768;772;"Herr";"Patel";"Krunal ";"Namaste Restaurant ";"Ind./pak. Restaurant/Imbiss";"Lübecker Straße";230;19059;"Schwerin ";"Deutschland";;;;;;;30
+41769;773;;;;"Resturent RAMAN";"Ind./pak. Restaurant/Imbiss";"Bahnhofstraße";4;21465;"Reinbek";"Deutschland";"040 78877166";;;;;;30
+41770;774;;;;"Lucky Traders Gmbh ( Lieferung Badstraße 55    13357 Berlin) ";"Asia/Afro Shop";"Herzberg Straße  ";"128-1";10365;"Berlin";"Deutschland";" 0171 4486269";;;"tariqjavaid@web.de";;;30
+41771;775;;;;"Mamson Asia-Restauant Hafencity";"Ind./pak. Restaurant/Imbiss";"Osakaallee";6;20457;"Hamburg";"Deutschland";"(040) 329 01 860";;"04032901771";;;;30
+41772;776;;;;"S&S Markt paderborn";"Asia/Afro Shop";"Bahnhofstraße";3;33102;"Paderborn";"Deutschland";"05251 310792";;;;;;30
+41773;777;;;;"Gurudawara Shri Guru Nanak Sahba";"Verein/Stiftung/Gemeinschaft";"Kronenstr.";17;30161;"Hannover";"Deutschland";;;;;;;30
+41774;778;;;;"Pak Asien Shop Hamm";"Asia/Afro Shop";"Sedanstraße";"56-58";59065;"Hamm";"Deutschland";"02381 - 9414892";"0176 - 84 8077 12";;"amor9826@gmail.com";;;30
+41775;779;;;;"MAKARUN MUNDSBURG";"Ind./pak. Restaurant/Imbiss";"Hamburger Strasse";"1";22083;"Hamburg";"Deutschland";"015773945499";;;;;;30
+41776;780;;;;"Asia Bazaar Hamburg";"Asia/Afro Shop";"Edith Stein Platz";6;21035;"Hamburg";"Deutschland";;;;;;;30
+41777;781;;;;"Maharaja Indisches Restaurant";"Ind./pak. Restaurant/Imbiss";"Goslarer Straße";78;38690;"Goslar";"Deutschland";;;;;;;30
+41778;782;"Herr";"Djebbabi";"Sofiane";"Orient GBR";"Asia/Afro Shop";"Am Kirchhof ";"1-5";25746;"Heide";"Deutschland";"01747694610";;;;;;30
+41779;783;"Herr";"Falak";;"Indian Gewürze";"Asia/Afro Shop";"Ohechaussee";2;22848;"Norderstedt";"Deutschland";;;;;;;30
+41780;784;;;;"India Flair ";"Asia/Afro Shop";"Große Straße";21;49377;"Vechta";"Deutschland";44419536800;;;;;;30
+41781;785;;;;"M.Arif";"Konservenhandel /Sonderposten";"Halstenbeker Straße";62;22457;"Hamburg";"Deutschland";;;;;;;30
+41782;786;"Herr";"Karakos";"Mustafa";"FARMSON MARKT";"Asia/Afro Shop";"August-Krogmann-Str.";22;22159;"Hamburg";"Deutschland";;;;;;;30
+41783;787;"Herr";"Ahmadi";"Jamal";"YASIN MARKT";"Asia/Afro Shop";"Kandinsky Allee";20;22115;"Hamburg";"Deutschland";;;;;;;30
+41784;788;;;;"SAONIKI PIZZA";"Ital. Restaurant/Imbiss";"Neudorf Str";37;24782;"Büdelsdorf";"Deutschland";"015115273566";;;;;;30
+41785;789;;;;"Østens Specialiteter ApS";"Asia/Afro Shop";"Park Alle";"11 st";8000;"Aarhus C ";"Dänemark";"0045 33 21 22 21";;;"ostenssp@hotmail.com ";;;30
+41786;790;;;;"Manju Berlin Express OG";"Ind./pak. Restaurant/Imbiss";"Heegbarg";31;22391;"Hamburg";"Deutschland";;;;;;;30
+41787;791;;;;"Manju Berlin Express OG";"Ind./pak. Restaurant/Imbiss";"Osdorfer Landstraße";131;22609;"Hamburg";"Deutschland";;;;;;;30
+41788;792;;;;"Dang,Thang Tung";"Asia Restau./Imbiss";"Bächerweg Gebäude ";94;24852;"Eggebek";"Deutschland";;;;;;"DK36076429";30
+41789;793;;;;"Rose Ahmed Gmbh";"Ind./pak. Restaurant/Imbiss";"Fuhlsbüttler Str";"172A";22305;"Hamburg";"Deutschland";"01605109784";;;;;;30
+41790;794;;;;"Bombay Bistro";"Asia/Afro Shop";"Horner Landstr.";195;22111;"Hamburg";"Deutschland";"040-65064970";;;;;;30
+41791;795;"Herr";"Alam";"Fahrid   ";"Edris Super Markt";"Asia/Afro Shop";"Bergedorfer Str";136;21029;"Hamburg";"Deutschland";;;;;;;30
+41792;796;"Herr";"Noor";"Agha ";"Noor Super Markt ";"Asia/Afro Shop";"Elmshorner Str.";23;25421;"Pinneberg";"Deutschland";"-38634360---61 F-62";;;;;;30
+41793;797;"Herr ";"Many";;"Many express";"Asia/Afro Shop";"lübeckerstrasse";122;22085;"Hamburg";"Deutschland";"015144809622";;;;;;30
+41794;798;;;;"Schahan Supermarkt ";"Asia/Afro Shop";"Charlottenburger Str.";27;22045;"Hamburg";"Deutschland";"015218003250";;;"Ckarimi 992@ gmail.com";;"44/601/01072";30
+41795;799;;;;"Burger Point";"Ital. Restaurant/Imbiss";"Groper Sohippsee";26;21073;"Hamburg";"Deutschland";"01788177886";;;;;;30
+41796;800;;;;"Taneja Arun ";"Asia/Afro Shop";"Billstraße";77;20539;"Hamburg";"Deutschland";;;;;;;30
+41797;801;;;;"DENISE NTOUKAM Harburg";"Asia/Afro Shop";"ALTER POST WEG";"93 D";21075;"Hamburg";"Deutschland";;;;;;;30
+41798;802;;;;"Kakar Omar";"Asia/Afro Shop";"Leopoldstraße";"1/276";6850;"Dornbirn";;;;;;;;30
+41799;803;"Herr";"Mohamad";"Merheb";"YA Hala";"Asia/Afro Shop";"Lübecker Str.";65;23611;"Bad Schwartau";"Deutschland";"015253601515";;;"kimosmann@hotmail.de";;;30
+41800;804;;;;"Tasty Kichen ";"Asia/Afro Shop";"An der Mühle ";91;27570;"Bremerhafen ";"Deutschland";;;;;;;30
+41801;805;;"Thier Galerie / Ramin";;"Chutney ";"Ind./pak. Restaurant/Imbiss";"Westenhellweg ";102;44137;"Dortmund ";"Deutschland";;"017661894005";;;;"ATU70987505";30
+41802;806;"Frau";"Nguyen";"Anika ";"Vietfood ";"Lebensmittel Großhandel";"Liebigstraße";"2-20";22113;"Hamburg";"Deutschland";;;;;;;30
+41803;807;;"Dutt";"K.";"Khusboo Import Export";"Lebensmittel Großhandel";"Tinnumer  weg ";4;22117;"Hamburg";"Deutschland";;;;;;;0
+41804;808;"Herr";"Kielpinski";"Dominik";"Shive Garden Kielpinski und Jankowski  GBR";"Ind./pak. Restaurant/Imbiss";"Dobbelens Weg";45;20537;"Hamburg";"Deutschland";"0152-13237590";;;"magic@shivagarden.de";;;0
+41805;809;;;;"Kandahar Bazar FrankFurt";"Asia/Afro Shop";"Pfaffenwiese";58;65931;"Frankfurt am Main ";"Deutschland";"015211606060";;;;;;0
+41806;810;;;;"MAS INDIA Bremen";"Asia/Afro Shop";"AM OSLERHAUSEN BAHNHOF ";31;28239;"Bremen";"Deutschland";;;;;;;0
+41807;811;;;;"Safran Food";"Asia/Afro Shop";"Franz Gruber Platz";16;64859;"Epperthausen";"Deutschland";;;;"safran.epp@gmail.com";;;0
+41808;812;;;;"Vickys Indian Fresh Food ";"Ind./pak. Restaurant/Imbiss";"Kurhausstraße";"6-8";23795;"Bad Segeberg ";"Deutschland";"015254246885";;;;;;0
+41809;813;;"MILAJ";;"YOURES";"Asia/Afro Shop";"MexiKo ring";19;;"Hamburg";"Deutschland";"017662616578";;;;;;0
+41810;814;;;;"Prince begels";"Asia/Afro Shop";"Halmtorvet";2;"1700v";"Kobenhavn";"Deutschland";;;;;;;0
+41811;815;;;;"Al Barakha Shop Kiel";"Asia/Afro Shop";"Augustenstraße ";37;24143;"Kiel";"Deutschland";;;;;;;30
+41812;816;;;;"Afro Textiles";"Asia/Afro Textiles";"Engelbosteler Damm";61;30167;"Hannover";"Deutschland";;;;;;;0
+41813;817;"Herr  ";"Rahmani";"Azizullah";"Manju Express Neuss";"Ind./pak. Restaurant/Imbiss";"Breslauer Straße ";"2-4";41460;"Neuss";"Deutschland";;;;;;"DK35408592";0
+41814;818;;;;"NUR BASAR";"Asia/Afro Shop";"Fuhlsbüttler str";174;22305;"Hamburg";"Deutschland";;;;;;;0
+41815;819;;;;"Bao Bab Bremen";"Asia/Afro Shop";"Stadter Straße ";114;28205;"Bremen ";"Deutschland";;"01729182392";;;;;0
+41816;820;;;;"Kandahar Bazar and Spice House";"Asia/Afro Shop";"Kaiserstraße";79;60329;"Frankfurt am Main";"Deutschland";;;;;;;0
+41817;821;;"Bazoumena";"Kone";"Afroshop";"Asia/Afro Shop";"Fühlsbüttler str";279;22307;"Hamburg";"Deutschland";"015730436395";;;;;;0
+41818;822;;;;"Faaborg Bazar c/o";"Asia/Afro Shop";"Ostergade";46;5600;"Faaborg";"Dänemark";;;;;;;0
+41819;823;;;;"Kolding Bazar I/S";"Asia/Afro Shop";"Mazantigade";3;"DK 6000";"Kolding";;;;;;;;0
+41820;824;;"Altmark Center ";;"Magnasch Salzwedel";"Asia/Afro Shop";"Buchenallee";6;29410;"Salzwedel";"Deutschland";;;;;;;0
+41821;825;;;;"City Shop";"Asia/Afro Shop";"Burgstraße";13;29410;"Salzwedel";"Deutschland";;;;;;"DK36324295";0
+41822;826;;;;"Indian Delight";"Asia/Afro Shop";"Kirchenallee";55;20099;"Hamburg ";"Deutschland";;;;;;"DK39006669";0
+41823;827;;;;"India Flayer Resturent Fiesta";"Ind./pak. Restaurant/Imbiss";"Grosse Str ";21;49377;"Fiesta";"Deutschland";;;;;;;0
+41824;828;;;;"Healthy Food System GmbH";"Ind./pak. Restaurant/Imbiss";"Berner Heerweg ";115;22159;"Hamburg";"Deutschland";;;;;;;0
+41825;829;;;;"Curry Haus Schleswig";"Ind./pak. Restaurant/Imbiss";"Lollfuß";39;24837;"Schleswig";"Deutschland";;;;;;;0
+41826;830;;;;"Elfte Chutney Gmbh Bielefeld (Shop Nr.2 Foodcourt  2.OG)";"Ind./pak. Restaurant/Imbiss";"Bahnhofstraße ";28;33602;"Bielefeld";"Deutschland";;;;;;;0
+41827;831;;;;"Egu Favour ";"Asia/Afro Shop";"Bremer Straße ";28;26789;"Leer Ostfriesland";"Ostfriesland";;;;;;;0
+41828;832;;;;"Indian Ocean Store Nürnberg";"Asien/Afro Shop";"Pillenrutherstraße";52;90459;"Nürnberg";"Deutschland";;;;;;;0
+41829;833;;;;"Taj Mahal Hamm";"Ind./pak. Restaurant/Imbiss";"Ostenallee";4;59063;"Hamm";"Deutschland";"015155555668";;;;;;0
+41830;834;;"Tharmaseelan";;"Asia Markt Lüneburg";"Asia/Afro Shop";"Auf dem wüstenort";14;21335;"Lüneburg";"Deutschland";;;;;;;0
+41831;835;;;;"Asmai Markt Kassel ";"Asia/Afro Shop";"Kurt Schumacherstraße ";5;34117;"Kassel";"Deutschland";;;;;;;0
+41832;836;;;;"Bizzim Markt ";"Asia/Afro Shop";"Harenbergerstraße";11;30453;"Hannover";"Deutschland";;;;;;;0
+41833;837;;;;"Bizzim Market gmbh ";"Asia/Afro Shop";"Göttinger chaussee";82;30459;"Hannover";"Deutschland";;;;;;;0
+41834;838;;;;"Bah Chernor ";"Asia/Afro Shop";"Bei den Drei Pfählen";17;28237;"Bremen ";"Deutschland";;;;;;;0
+41835;839;;;;"Keita Kadiali";"Asia/Afro Shop";"Kurt schumacher straße";5;34117;"Kassel";"Deutschland";;;;;;;0
+41836;840;;;;"Afro shop Celle";"Asia/Afro Shop";"Bahnhofstraße";"38a";29221;"Celle Neuenhäusen";"Deutschland";"01709615503";;;;;;0
+41837;841;"Herr";"Sahi";"Azhar";"Punjab Tandoori";"Ind./pak. Restaurant/Imbiss";"Marien Str";101;30171;"Hannover";"Deutschland";"01784754794";;;;;;0
+41838;842;;;;"Afro Shop Wolfsburg ";"Asia/Afro Shop";"Hesslingerstraße";7;38440;"Wolfsburg";"Deutschland";;;;;;;0
+41839;843;;;;"Barkwende Afro Shop";"Asia/Afro Shop";"Mannheimerstraße ";213;55543;"Badkreuznach ";"Deutschland";;;;;;;0
+41840;844;"Herr";"Ahmad / Nahimi";"Ali ";"Gbr Herrn Rezaie ";"Ind./pak. Restaurant/Imbiss";"Tribseer Damm ";76;18437;"Stralsund";"Deutschland";;;;;;;0
+41841;845;;;;"Nazarixan Mumtaz";"Asia/Afro Shop";"Wandsbeker Chausse";98;22089;"Hamburg";"Deutschland";;;;;;;0
+41842;846;;;;"Altinbasak Market";"Asia/Afro Shop";"August Krogmannstraße ";22;22159;"Hamburg";"Deutschland";;;;;;;0
+41843;847;"Herr";"Sing";"Ram";"Jas Asian Store Offenbach";"Ind./pak. Restaurant/Imbiss";"Odenwaldring";86;63069;"Offenbach am Main";"Deutschland";"069-83836120";;;"jasfresch@yahoo.de";;;0
+41844;848;;;;"lemon gras (Mekado center)";"Ind./pak. Restaurant/Imbiss";"Ottenser Hauptstraße";"2-6";22765;"Hamburg";"Deutschland";"01628356141";;;;;;0
+41845;849;;;;"Muana Afro Shop Bremen";"Asia/Afro Shop";"Hohentor Straße ";78;28199;"Bremen";"Deutschland";;;;;;;0
+41846;850;;"SHAHIDA BEGUM TITHI";;"Asia Shopping Center Berlin";"Asia/Afro Shop";"Brunnenstraße ";"105-109";13355;"Berlin";"Deutschland";;;;;;;0
+41847;851;;;;"Asia Might Berlin";"Asia Restau./Imbiss";"Kurfürstenstraße";33;10785;"Berlin";"Deutschland";;;;;;;0
+41848;852;"Herr";"Emil";"Thomas ";"Karathomas";"Asia/Afro Shop";"Wilsnacker Str";47;19348;"Perleberg";"Deutschland";;;;;;;0
+41849;853;;;;"TKS BestFoods Dortmund";"Asia/Afro Shop";"Rheinische  Str";79;44137;"Dortmund";"Deutschland";;;;;;;0
+41850;854;;;;"Majlis Khudamulahmadiyya DE";"Asia/Afro Shop";"Genfer  Str";11;60437;"Frank Furt/Main";"Deutschland";;;;;;;0
+41851;855;;;;"Trend maker Neuss";"mak./pak. Neuss/Imbiss";"Oberstraße";132;41460;"Neuss";"Deutschland";;;;;;;0
+41852;856;;;;"Master Afro Asia Köln";"Afrikan. Restaurant/Imbiss";"Eulenbergster";10;51065;"Köln";"Deutschland";;;;;;;0
+41853;857;;;;"HINDU TEMPEL";"Verein/Stiftung/Gemeinschaft";"Bill Str";77;20539;"Hamburg";"Deutschland";;;;;;;0
+41854;858;;;;"Exodeen Impex Gerose-Gerao";"Lebensmittel Großhandel";"Olderwald Str";16;64521;"Grose-Gerau";"Deutschland";"017655629061";;;;;;0
+41855;859;;;;"Mira Food Store Berlin";"Ind./pak. Restaurant/Imbiss";"Sanderstraße";3;12047;"Berlin";"Deutschland";;;;;;;0
+41856;860;"Herr";"Rai";"Nikhil";"Tandoorz Buchholz";"Asia/Afro Shop";"bremerstrasse";"2b";21244;"Buchholz";"Deutschland";;;;;;;0
+41857;861;;;;"Restaurant Rialto";"Ital. Restaurant/Imbiss";"Taft";5;25946;"Norddorf /Amrum";"Deutschland";"01711646649";;;;;"ust ID:DE-309645951";0
+41858;862;;;;"Pizzeria Mammamia Holdorf";"Ital. Restaurant/Imbiss";"Großestraße ";6;49451;"Holdorf";"Deutschland";;;;;;;0
+41859;863;;;;"Lakshmi Best Food Krefeld ";"Asia/Afro Shop";"Ostwall";113;47798;"Krefeld";"Deutschland";;;;;;;0
+41860;864;;;;"Kashmir Store ";"Asia/Afro Store";"Bismarckstraße";77;40210;"Düsseldorf";"Deutschland";"021117543591";"01736613286";;"bajaj_enter@yahoo.com";;;0
+41861;865;;;;"Kashmir Store Essen";"Asia/Afro Shop";"Hachestaße";13;45127;"Essen";"Deutschland";;;;;;;0
+41862;866;;;;"SJB Afro shop";"Asia/Afro shop";"winsenstrasse";28;21077;"Hamburg";"Deutschland";;;;"info@sjbafroshop";;;0
+41863;867;;;;"Golden Event Center";"Eventsaal";"Von Bargen Str";23;22043;"Hamburg";"Deutschland";;;;;;;0
+41864;868;"Herr";"Wali";"Mohammadi Ahmad ";"Mohammadi ";"Asia/Afro Shop";"Lindenstraße ";9;6217;"Merseburg";"Deutschland";;;;;;;0
+41865;869;;;;"La Perla Salzgitter";"Ital. Restaurant/Imbiss";"Am Platz";6;38259;"Salzgitter";"Deutschland";;;;;;;0
+41866;870;;;;"Jaffro Supermarkt";"Asia/Afro Shop";"Eppinghoferstraße";126;45468;"Mülheim an der Ruhr ";"Deutschland";;;;;;;0
+41867;871;;;;"Om Ganesha Lebensmittel ";"Asia/Afro Shop";"Fleischmengergasse";29;50676;"Köln";"Deutschland";;;;;;;0
+41868;872;;;;"Shenai";"Ind./pak. Restaurant/Imbiss";"Bernerdotterstraße";55;22763;"Hamburg";"Deutschland";;;;;;;0
+41869;873;;;;"Indian shop Stuttgart";"Asia/Afro Shop";"Tunnelstraße ";12;70469;"Stuttgart";"Deutschland";;;;;;;0
+41870;874;"Herr";"Farid";;"FARID SUPERMARKT";"Asia/Afro Shop";;;;"Hamburg";"Deutschland";"01767170588";;;;;;0
+41871;875;;;;"Shenai ";"Ind./pak. Restaurant/Imbiss";"Redingskamp";25;22523;"Hamburg";"Deutschland";;;;;;;0
+41872;876;;;;"HAFRU-Hanseatische Fruchtvertriebgesellschaft mbh Großmarkt";"Lebensmittel Großhandel";"Banksstr.";28;20097;"Hamburg";"Deutschland";"040-3258030";"01724214915";;;;;0
+41873;877;"Herr";"Dogan";"Onur";"Sönmez Jenfeld";"Asia/Afro Shop";"Barsbüttlerstrasse ";"4/4c";22043;"Hamburg";"Deutschland";;;;;;;0
+41874;878;;;;"Razzaq Shop Nahe";"Asia/Afro Shop";"Bielfeld";13;23866;"Nahe";"Deutschland";"015146428590";;;;;;0
+41875;879;;;;"Asien Food Express ";"Ind./pak. Restaurant/Imbiss";"Wöschenhof";14;22045;"Hamburg";"Deutschland";"01739633850";;;;;;0
+41876;880;;;;"Masjid Gulzar e Madina";"Verein/Stiftung/Gemeinschaft";"Kurze Straße ";1;30952;"Ronnenberg";"Deutschland";;;;;;;0
+41877;881;;;;"Alhamra Shop Osnabrück";"Asia/Afro Shop";"Johanisstraße ";109;49074;"Osnabrück";"Deutschland";;;;;;;0
+41878;882;;;;"Chutney Oberhausen";"Ind./pak. Restaurant/Imbiss";"Centroallee ";81;46047;"Oberhausen";"Deutschland";;"015770454756";;"aziz.martin@web.de";;;0
+41879;883;"Herr";"Aziz";"Martin ";"Cayan Kiosk ";"Asia/Afro Shop";"Schulterblatt";83;22769;"Hamburg";"Deutschland";;;;;;;0
+41880;884;;;;"Eylül Kiosk";"Asia/Afro Shop";"Ottenser Hauptstr.";61;22765;"Hamburg";"Deutschland";;;;;;;0
+41881;885;;;;"Yasmin Store Berlin";"Asia/Afro Shop";"Pichelsdorferstraße ";103;13595;"Berlin ";"Deutschland";;;;;;;0
+41882;886;"Herr";"Palendra ";"Chelliah ";"Adchaya International Dortmund";"Kaufhaus";"Alter Hell Weg ";115;44379;"Dortmund";"Deutschland";;;;;;4100900756;0
+41883;887;;;;"Namaste India Stuttgart";"Ind./pak. Restaurant/Imbiss";"Sindelfingerstraße";3;71032;"Böblingen";"Deutschland";;;;;;;0
+41884;888;;;;"THANH PHONG";"Asia/Afro Shop";"Wandsbeker Markt str";18;22041;"Hamburg";"Deutschland";"040-88305262";;"040-88305260";"thanh-phong@t-onlin.de";;;0
+41885;889;;;;"Fazal Ahmad Khan NorderStedt";"Ind./pak. Restaurant/Imbiss";"Waldstraße";79;22846;"Norderstedt";"Deutschland";;;;;;"Steuernummrt  31450295260";0
+41886;890;;"Shopping City Süd    ";"Galerie 222,Top 41,  ";"Chutney Spezialitäten Gmbh";"Ind./pak. Restaurant/Imbiss";"Vösendorfer Südring ";;2334;"Vösendorf";"Österreich";;;;;;;0
+41887;891;;;;"IMAN Supermarkt";"Asia/Afro Shop";"Wismarsche str.(Doberaner platz)";62;18057;"Rostock";"Deutschland";"017641000000";"017643700000";;"esmaeili@hotmail.de";;;0
+41888;892;;;;"Martin And Sons ";"Ind./pak. Restaurant/Imbiss";"Zur Kupferhütte ";13;47053;"Duisburg";"Deutschland";;;;;;;0
+41889;893;;;;"Rajput Supermarkt";"Asia/Afro Shop";"Hendrik Droststaat";35;"8121BE";"OIst-Wijhe";"Niederlande";"0031570545548";"0031684189007";;"Shatay03@gmail.com";;"ATU68855027";0
+41890;894;"Herr";"Alam";"Anik Kazmi";"Al-Baqara Halal Bistro&Tke Away";"Ind./pak. Restaurant/Imbiss";"lübecker str";122;22087;"Hamburg";"Deutschland";"017634835555";;;;;;0
+41891;895;;;;"Krish Indian Store";"Ind./pak. Store/Imbiss";"Hansaplatz";6;20099;"Hamburg";"Deutschland";;;;;;;0
+41892;896;;;;"Hotel John-Brinckman";"Hotel";"Mittel Promenade Str";24;23946;"Ostseebad Boltenhagen";"Deutschland";"038825400 F 2529306";;;"XXJBHXX@AOL.com";"www.Hotel-john-Brinckman.de";"NL858068849B01";0
+41893;897;"Herr";"Ghorbani";"Masoud";"Orientbazar24";"Asia/Afro Shop";"Elmer Landstr.";67;27432;"Bremervörde";"Deutschland";"017623225388";;;"info@orietbazar24.com";;;0
+41894;898;"Herr";"Rana";"Iqbal";"A. POINT S.R.O.";"Asia/Afro Shop";"Ružová 947/10, Nové Mesto";;"110 00";"Prag";"Tschechien";"(420775000000";;;"apoint@tiscali.cz";;;0
+41895;899;"Herr";"Murtaza";"Muhammad";"Rajput Foods";"Asia/Afro Shop";"Företagshusvägen";1;"244 93";"Kävlinge";"Schweden";"0046 72 5 6 7 8 9 10";;"0046 725678910";"rajputfoods@gmail.com";;;0
+41896;900;"Herr";"Singh";"Lovedeep";"Shakti Fine Food";"Ind./pak. Restaurant/Imbiss";"Altchemnitzerstraße";27;9120;"Chemnitz";"Deutschland";"037127096488";;;;;;0
+41897;901;;"Myra Products Gmbh";;"Spice Village ";"Asia/Afro Shop";"Tempelhofer Damm";206;12099;"Berlin";"Deutschland";;;;;;"CZ26192489";0
+41898;902;;;;"Raj Mahal";"Ind./pak. Restaurant/Imbiss";"Lindenstr";35;25421;"Pinneberg";"Deutschland";"041015858440";;;;;"SE750310953501";0
+41899;903;;;;"Masoud Ghorbani";"Asia/Afro Shop";"Elmer Landstrasse";67;27432;"Bremervörde Elm ";"Deutschland";"047619245334";;;;;;0
+41900;904;;;;"Masala Darbar Restaurant";"Ind./pak. Restaurant/Imbiss";"Aegidienstraße";"4-6";23552;"Lübeck";"Deutschland";;;;;;;0
+41901;905;"Herr";"Bozhidar";"Yankov ";;;"Nordwestbahnstraße ";"7/13";1020;"Wien";"Österreich";"004369910426666";;;;;;0
+41903;"906";;;;"Yankov Bozhidar";;"Nordwestbahnstraße";"1020";;"Wien";"Österreich";;;;;;;
+41904;"907";;"Ben Fredj-Wunderlich";"Adel";"Hotel John Brinckman";;"Mittelpromenade";"23946";;"Ostseebad Boltenhagen";"Deutschland";;;;;;;
+41905;"908";;;;"Anmol AB";;"kvarnängsvägen";"14149";;"huddinge";"Schweden";;;;;;;
+41906;"909";;"Hosseini";"Sodabeh";"Kian Markt";"Asia/Afro Shop";"Mittel Strasse";"22851";;"Norderstedet";"Deutschland";;;;;;;
+41907;"910";;"Himalaya";"Restaurant and Catering";;;"Wilhemshöher Allee   253-255";"34131";;"Kassel";"Deutschland";;;;;;;
+41908;"911";;;;"Asia Supermarkt Bewas Lebensmittel";"Asia/Afro Shop";"Schillerstraße";"71638";;"Ludwigsburg";"Deutschland";;;;;;;
+41909;"912";;;;"Asien Bazaar";"Asia/Afro Shop";"Fleischmengergasse";"50676";;"Köln";"Deutschland";;;;;;;
+41910;"913";;"Mundsburg Center";;"Tandoori";"Ind./pak. Restaurant/Imbiss";"Hamburger Straße";"22083";;"Hamburg";"Deutschland";;;;;;;
+41911;"914";;;;"Kawaljit singh";;"Kölnerstraße";"47807";;"Krefeld";"Deutschland";;;;;;;
+41912;"915";;;;"Punani Veje und Singh Taranjit";;"Theodor Heuss-Str";"70806";;"Kornwestheim";"Deutschland";;;;;;;
+41913;"916";;;;"LeQuan";;"Spitaler Str";"20095";;"Hamburg";"Deutschland";"040-30061777";;;;;;
+41914;"917";;;;"Maharaja Restaurant";"Ind./pak./Sri.L. Restaurant/Imbiss";"Tonhallenstraße";"32423";;"Minden";"Deutschland";;;;;;;
+41915;"918";;"Food Center Amsterdam";;"Global Choice Foods";"Asia/Afro Shop";"Centrale Grootshandelmarkt";"1051 LJ";;"Amsterdam";"Niederlande";;;;;;;
+41916;"919";;"Ullah";"Ehsan";"Malik Asian Store";"Asia/Afro Shop";"Kieler Str";"22527";;"Hamburg Eidelstedt";"Deutschland";;"01714831071";;"Ullah 830@G Mail.com";;;
+41917;"920";;;;"Seeland Impex";"Asia/Afro Shop";"Münchenerstraße";"60329";;"Frankfurt am Main";"Deutschland";;;;;;;
+41918;"921";;;;"Manju Berlin";"Ind./pak./Sri.L. Restaurant/Imbiss";"Grunerstraße";"10179";;"Berlin";"Deutschland";;;;;;;
+41919;"922";;;;"Ahir Chhinda";"Ind./pak./Sri.L. Restaurant/Imbiss";"An De Geest";"21149";;"Hamburg";"Deutschland";;;;;;;

@@ -1,0 +1,45 @@
+@import "compass";
+@import "theme_variables";
+
+#leosearchtopbox{
+	position: relative;
+	margin: 0;
+	select,input{
+		height: 39px;
+		line-height: 39px; 
+		padding: 9px;
+		border: 1px solid #dcdcdc;
+		background: #fff;
+		@include rounded-corners(0);
+		@include appearance(none);		
+	}
+	select{
+		line-height: 17px;
+		@include box-shadow(0 0 2px rgba(0,0,0,0.1));
+	}
+	input{
+		@include rtl-margin-left(-1px);
+		@include box-shadow(3px 0 6px rgba(0,0,0,0.1));
+	}
+	button{
+		position: absolute;
+		@include rtl-right(7px);
+		top: 10px;
+		color: #8c8c8c;
+		background: transparent !important;
+		border: none !important;
+		width: 20px;
+		padding: 0;
+	}
+	span{
+		color: $theme-color-secondary;
+		position: absolute;
+		@include rtl-right(10px);
+		top: 2px;
+		line-height: 36px;
+	}
+	.category_filter{
+		position: relative;
+		display: inline;
+	}
+} 

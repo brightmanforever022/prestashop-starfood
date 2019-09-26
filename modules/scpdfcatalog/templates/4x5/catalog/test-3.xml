@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfparams>
+<name><![CDATA[test-3]]></name>
+<title><![CDATA[Test Catalouge 2]]></title>
+<filename><![CDATA[test-3]]></filename>
+<legalnotice><![CDATA[<p>All content of this catalog is owned or controlled by My Company and is protected by worldwide copyright laws.</p>]]></legalnotice>
+<footer><![CDATA[<p>This catalog is provided by My Company.</p>]]></footer>
+<idlang>2</idlang>
+<firstpage>0</firstpage>
+<tocdisplay>1</tocdisplay>
+<pagenumber></pagenumber>
+<format><![CDATA[4x5]]></format>
+<uselinks>1</uselinks>
+<usecategcover>1</usecategcover>
+<usecategheader></usecategheader>
+<activeproduct></activeproduct>
+<withstockproduct></withstockproduct>
+<filterbybrand>-</filterbybrand>
+<orderby><![CDATA[position$asc]]></orderby>
+<xdaysago><![CDATA[]]></xdaysago>
+<doctitle><![CDATA[Katalog Test 2]]></doctitle>
+<docsubject><![CDATA[Test Inhalt]]></docsubject>
+<doccreator><![CDATA[Star Food Impex GmbH]]></doccreator>
+<doclogo><![CDATA[logo-test-3-2019-02-04-17-54-11.png]]></doclogo>
+<author><![CDATA[Star Food Impex GmbH]]></author>
+<categlist><![CDATA[289,311,312,313,314,315,290,291,308,309,310]]></categlist>
+<currency>1</currency>
+<usecustomergroup>1</usecustomergroup>
+<productimageformat>medium_default</productimageformat>
+<fontname>helvetica</fontname>
+<vatinc>1</vatinc>
+<vatexc></vatexc>
+<emptycol>1</emptycol>
+<emptycollibelle></emptycollibelle>
+<product_title>title</product_title>
+<combinationsinc>0</combinationsinc>
+<thousandssep> </thousandssep>
+<decimalssep>,</decimalssep>
+<hidecurrency></hidecurrency>
+<showSupplierReference></showSupplierReference>
+<showStock></showStock>
+<dontShowFakeCombinations></dontShowFakeCombinations>
+<hidedecimals></hidedecimals>
+<categorynewpage>1</categorynewpage>
+<pc_collibelle_1></pc_collibelle_1>
+<pc_collibelle_2></pc_collibelle_2>
+<pc_currency_1></pc_currency_1>
+<pc_currency_2></pc_currency_2>
+<pc_usecustomergroup_1></pc_usecustomergroup_1>
+<pc_usecustomergroup_2></pc_usecustomergroup_2>
+<pc_pricecolumns_1></pc_pricecolumns_1>
+<pc_pricecolumns_2></pc_pricecolumns_2>
+</pdfparams>

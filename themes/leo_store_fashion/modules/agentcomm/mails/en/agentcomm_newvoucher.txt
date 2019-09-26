@@ -1,0 +1,11 @@
+[{shop_url}] 
+
+Hi {name},
+
+New voucher generated for you: 
+Code: {voucher_code}
+Date start: {voucher_date_from}
+Date finish: {voucher_date_to}
+
+
+{shop_name} [{shop_url}]

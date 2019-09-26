@@ -1,0 +1,72 @@
+@import "compass";
+@import "theme_variables";
+
+.blog_container {
+	background: $light-background;
+	position: relative;
+	margin-bottom: 20px;
+	.blog-meta {
+		font-size: $font-size-base - 2px;
+		margin-bottom: 10px;
+		> * {
+			margin-right: 5px;
+		}
+	}
+	.blog-viewmore {
+		margin-top:20px; 
+		display:none;
+	}
+	.blog-created {
+		font-size: $font-size-base - 2;
+	}
+	.blog-created {
+	  position: absolute;
+	  top: 0px;
+	  @include rtl-right(0);
+	  background: $theme-color-default;
+	  @include size( 50px, 50px);
+	  text-align: center;
+	  color: $white;
+	  .day{
+	    font-size: 22px;
+	    display: block;    
+	    line-height: 18px;
+    	padding-top: 8px;
+	  }
+	  .month{
+	    font-size: 10px;
+	    text-transform: uppercase;
+	  }
+	}
+	.blog-info{
+		h4 {
+			margin: 20px 0 10px;
+			line-height: 25px;
+			min-height: 50px;
+			a {
+				font-size: $font-size-base + 2;
+				font-family: $font-family-septenary;
+				color: $theme-color-secondary;
+				text-transform: none;
+				&:hover{
+					color: $link-hover-color;
+				}
+			}
+		}
+	}
+	.blog-shortinfo{
+		font-size: $font-size-base;
+	}
+	.blog-image {
+		position: relative;
+		overflow: hidden;
+		img {
+			@include transition(all 1s ease-in-out);
+		}
+		&:hover {
+			img {
+				@include transform(scale(1.5));
+			}
+		}
+	}
+}

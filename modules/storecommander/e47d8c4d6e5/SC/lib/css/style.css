@@ -1,0 +1,68 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+.dhx_header_cmenu{
+	background:#E2EDF2;
+	padding:5px;
+	border:1px solid #5A5A78;
+}
+
+.dhx_combo_select{
+	width:220px !important;
+	height:250px !important;
+}
+
+.sc_error{
+	color:red;
+	font-weight:bold;
+	border:1px solid #EEAAAA;
+	margin-bottom:10px;
+	padding:5px;
+}
+
+.firstLoginPage{
+	background:#FFFFFF url('../img/firstloginpage.jpg') no-repeat;
+	margin:0px auto;
+	padding:130px 35px 0px 35px;
+	width:530px;
+}
+.btn_pink{
+	width:109px;
+	height:25px;
+	background:#FFFFFF url('../img/btn_pink.gif') no-repeat;
+	color:white;
+	border:0px;
+	padding-top:0px;
+	cursor:pointer;
+}
+#formfree{
+	text-align:right;
+	line-height:25px;
+}
+#formtrial{
+	text-align:right;
+	line-height:25px;
+}
+
+.right{
+	text-align:right;
+	margin:0px;
+	padding-right:10px;
+}
+.left{
+	text-align:left;
+	margin:0px;
+	padding-right:10px;
+}
+
+.copyright{
+	color:#249a94;
+}
+
+legend{
+	font-weight:bold;
+	color:#1D7071;
+}

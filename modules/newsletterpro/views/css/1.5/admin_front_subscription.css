@@ -1,0 +1,15 @@
+.subscription-template-box h4 {
+	margin-top: 8px !important;
+	margin-left: 6px !important;
+	font-size: 13px !important;
+	font-weight: bold !important;
+	display: block !important;
+}
+
+.vouchers-alert {
+	line-height: 21px !important
+}
+
+.seconds-text {
+	margin-left: 6px !important;
+}

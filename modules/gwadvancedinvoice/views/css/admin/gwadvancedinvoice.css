@@ -1,0 +1,66 @@
+/*Don't change the file if you want upgrade the module in future*/
+
+.icon-AdminGwadvancedinvoice:before{
+    content:"\f0f6";
+}
+.clear{
+    clear: both;
+}
+#productlist tr.title th,#productlist tr.content td {
+    border: 1px solid #ccc;
+    padding: 5px 0;
+}
+#productlist tr.title th{
+    background: #dcdcdc;
+}
+#customcss{
+    overflow-y: scroll !important;
+    max-height: 300px;
+}
+input[type="radio"].colums_align{
+    display: none;
+}
+input[type="radio"].colums_align:checked + i:before{
+    color: #00aff0;
+}
+.column_resize {
+    position: absolute;
+    top: 0;
+    left: -3px;
+    cursor: pointer;
+    display: none;
+    color: #00aff0;
+}
+#slides:hover .column_resize{
+    display: block;
+}
+
+#template_box label.template_wp > input{
+  visibility: hidden;
+  position: absolute;
+}
+#template_box label.template_wp > input + img.thumbnail{
+  cursor:pointer;
+  border: 1px solid #f1f1f1 !important;
+}
+#template_box label.template_wp > input:checked + img.thumbnail{
+  border: 1px solid #C7D6DB !important;
+  box-shadow: 0 0 3px #A3B1A1;
+  background: #F5F8F9;
+}
+.group_variable_title td{
+    background-color: #f4f8fb !important;
+}
+@media screen and (min-width: 992px) {
+    .template_item:nth-child(4n+1){
+        clear:left;
+    }
+}
+@media screen and (max-width: 991px) {
+    .template_item:nth-child(2n+1){
+        clear:left;
+    }
+}
+#gwadvancedinvoicetemplate_form .translatable-field .chosen-container{
+    width: 100% !important;
+}

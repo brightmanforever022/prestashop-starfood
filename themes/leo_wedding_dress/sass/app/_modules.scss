@@ -1,0 +1,175 @@
+// modules.scss
+
+@import "vars/modules.vars";
+// top bar module dropdown
+.popup-over{
+    position: relative; 
+    .fa{
+        margin: 0 5px;
+    }
+    .popup-title{
+        margin:0;
+        @include rtl-padding(0, 20px, 0, 0px);
+        @include rtl-border-right(#202020);
+        &:before{
+            content: "\f107";
+            position: absolute;
+            top: 0px;
+            @include rtl-right(5px);
+            font-family: $font-icon;
+        }
+    }
+    .popup-content{
+        padding: 10px;
+        visibility: hidden;
+        position: absolute;
+        top: 38px;
+        @include rtl-right(0);
+        background: $white;
+        border: $main-border;
+        min-width: 140px;
+        z-index: 1000;
+        border-bottom:2px solid #000;
+        a{
+            color: $text-color;
+            &:hover{
+                color: $link-hover-color;
+            }
+        }
+        li {
+            &.selected {
+                color: $theme-color-default;
+                a {
+                    color: $link-hover-color !important;
+                }
+            }
+        }
+    }
+    &:hover{
+        cursor: pointer; 
+        .popup-content{
+            visibility: visible;
+        }
+    }
+}  
+
+/* mini basket */
+.blockcart_top{
+    @include rtl-margin-left(10px);
+}
+#cart{        
+    position: relative;  
+    .cart-inner{  
+        position: relative;
+    }
+    .cart-quantity{
+        position:relative;
+        span{
+            position: absolute;
+            top: 0px;
+            @include rtl-right(0);
+            z-index: 9;
+            background: #000;
+            color: #fff;
+            width: 14px;
+            height: 14px;
+            line-height: 10px;
+            text-align: center;
+            padding: 2px;
+        }
+    }
+    .content {
+        clear: both;
+        display: block;
+        position: absolute;
+        top: 100%;
+        right: $cart-align-right;
+        left: auto;
+        padding: 15px;
+        min-height: 100px;      
+        height: 100px;
+        height: auto !important;      
+        background: $white;
+        border: $main-border;
+        z-index: 99999;
+        min-width: $cart-content-width;
+        @include rounded-corners(0px); 
+        @include box-shadow(none); 
+        display: none;
+
+    }  
+    &.active{
+        .content{
+            display: block;
+        }
+    }      
+    .heading {     
+        @include clearfix();  
+    } 
+    .checkout {
+        @include rtl-text-align-right();
+        clear: both;
+    }
+    .empty {
+        padding-top: 20px;
+        text-align: center;
+    }
+    .title{color: #000;}
+
+    .mini-cart-total {
+        @include rtl-text-align-right();
+        td {
+            color: #000;
+            padding: 4px;
+        }
+        table {
+            border-collapse: collapse;
+            @include inline-block();
+            margin-bottom: 5px;
+        }
+    }
+    .mini-cart-info {
+        .quantity {
+            @include rtl-text-align-right();
+        }
+        .name {
+            small {
+                color: #666;
+            }
+            font-size: $cart-product-font-size;
+            font-weight: bold;
+        }
+        td {
+            color: #000;
+            vertical-align: top;
+            padding: 6px; 
+            border-bottom: $main-border;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 5px;
+        }
+        .image {
+            width: 1px;
+            img {            
+                @include rtl-text-align-left();
+            }
+        }
+        .remove {
+            @include rtl-text-align-right();
+            img {
+                cursor: pointer;
+            }
+        }
+        td.total {
+            @include rtl-text-align-right();
+        }
+    }
+
+}
+
+// block-newletter
+#newsletter_block_left {
+    background: url(#{$image-theme-base-path}default/bg-newletter.jpg) no-repeat top center $white;
+}

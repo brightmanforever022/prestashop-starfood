@@ -1,0 +1,143 @@
+@import "compass";
+@import "theme_variables";
+
+.no-padding{padding: 0;}
+.no-margin{margin: 0;}
+
+// dropdown effect
+.e-scale{
+	.popup-content{
+		@include scale(0);
+		@include transition(all 0.3s ease 0s);
+	}
+	&.popup-over:hover{
+		.popup-content{
+			@include scale(1);
+			@include transition(all 0.3s ease 0s);
+		}
+	}	
+}
+
+.e-translate-left{ 
+	.popup-content{
+		@include opacity(0);
+		@include translate(-200px, 0px);
+		@include transition(all 0.3s ease 0s);
+	}
+	&.popup-over:hover{ 
+		.popup-content{ 
+			@include opacity(1);
+			@include translate(0, 0);
+			@include transition(all 0.3s ease 0s);
+		}
+	}
+}
+
+.e-translate-right{ 
+	.popup-content{
+		@include opacity(0);
+		@include translate(200px, 0px);
+		@include transition(all 0.3s ease 0s);
+	}
+	&.popup-over:hover{ 
+		.popup-content{ 
+			@include opacity(1);
+			@include translate(0, 0);
+			@include transition(all 0.3s ease 0s);
+		}
+	}
+}
+
+.e-translate-top{ 
+	.popup-content{
+		@include opacity(0);
+		@include translate(0, 200px);
+		@include transition(all 0.3s ease 0s);
+	}
+	&.popup-over:hover{ 
+		.popup-content{ 
+			@include opacity(1);
+			@include translate(0, 0);
+			@include transition(all 0.3s ease 0s);
+		}
+	}
+}
+
+.e-translate-down{
+	.popup-content{
+		@include opacity(0);
+		height: 0;
+		@include transition(all 0.3s ease 0s);
+	}
+	&.popup-over:hover{ 
+		.popup-content{ 
+			@include opacity(1);
+			height: auto;
+			@include transition(all 0.3s ease 0s);
+		}
+	}
+}
+
+// full screen
+.fs-style{position: relative; padding-top: 25px; padding-bottom: 25px;}
+.fs-style:before{	
+	padding: 0 2000px;
+	@include box-sizing(content-box);
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background-color: #eee;
+	z-index: 0;
+	display: inline-block;
+	top: 0;
+	left: -2000px;
+}
+.fs-style1:before{background-image: url(#{$image-theme-base-path}patterns/full-screen/style-1.jpg);}
+.fs-style2:before{background-image: url(#{$image-theme-base-path}patterns/full-screen/style-2.jpg);}
+.fs-style3:before{background-image: url(#{$image-theme-base-path}patterns/full-screen/style-3.jpg);}
+
+
+
+.nav-tabs {
+  border-bottom: none;
+  border-top: 1px solid $border-color;
+  > li {
+    float: left;
+    // Make the list-items overlay the bottom border
+    margin-top: -1px;
+
+    // Actual tabs (as links)
+    > a {
+      color: $text-color;
+      font-size: $font-size-base + 1;
+      text-transform: uppercase;
+      margin-right: 30px; 
+      border: none;
+      border-top: 2px solid transparent;
+      border-radius: $border-radius-base $border-radius-base 0 0;
+      &:hover {
+        border-color: $nav-tabs-link-hover-border-color $nav-tabs-border-color $nav-tabs-border-color;
+      }
+    }
+
+    // Active state, and its :hover to override normal :hover
+    &.active > a {
+      &,
+      &:hover,
+      &:focus {
+        color: $nav-tabs-active-link-hover-color;
+        background-color: $nav-tabs-active-link-hover-bg;
+        border: none;
+        border-top: 2px solid $nav-tabs-active-link-hover-border-color;
+        
+        cursor: default;
+      }
+    }
+  }
+  // pulling this in mainly for less shorthand
+  &.nav-justified {
+    @extend .nav-justified;
+    @extend .nav-tabs-justified;
+  }
+}

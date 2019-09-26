@@ -1,0 +1,25 @@
+@import "compass";
+@import "theme_variables";
+// cateogry 
+#subcategories{ 
+  padding: 0 0 15px; 
+} 
+.subcategories{
+	display: inline-block;
+  .cat-desc{
+      overflow: hidden;
+      height: 40px; 
+  }
+} 
+
+.category {
+	.product-listing {
+		margin: 0;
+		display: none;
+	}
+	.rte{
+		display: none;
+	}
+}
+
+.content_scene_cat {margin-bottom: 17px;}

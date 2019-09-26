@@ -1,0 +1,174 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/** CHECKOUT BY STEP */
+/*  
+ * LAYOUT VARIABLES 
+ */
+.widget .widget-html .free-ship {
+  color: #cdb48c;
+}
+.widget .widget-html .price-html {
+  color: #e34c4c;
+}
+.widget .widget-html .box-outer {
+  border-color: #e5e5e5;
+  border-width: 1px 0px 1px 1px;
+  border-style: solid none solid solid;
+  margin-bottom: 40px;
+  color: black;
+}
+.rtl .widget .widget-html .box-outer {
+  border-width: 1px 1px 1px 0px;
+}
+.rtl .widget .widget-html .box-outer {
+  border-style: solid solid solid none;
+}
+.widget .widget-html .box-outer .reassurances-center {
+  padding: 35px 0;
+  text-align: center;
+  border-right: 1px solid #e5e5e5;
+}
+.rtl .widget .widget-html .box-outer .reassurances-center {
+  border-left: 1px solid #e5e5e5;
+  border-right: inherit;
+}
+.widget .widget-html .box-outer .reassurances-center .icon-name {
+  font-size: 60px;
+  display: inline-block;
+}
+.widget .widget-html .box-outer .reassurances-center .description {
+  display: inline-block;
+  text-align: left;
+}
+.widget .widget-html .box-outer .reassurances-center .description h4 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "rockwellbold", sans-serif;
+}
+.widget .widget-html .box-outer .reassurances-center:hover {
+  color: #cdb48c;
+  cursor: pointer;
+}
+
+#topbar .widget .widget-html p {
+  padding: 17px 0;
+  margin-bottom: 0;
+}
+
+.widget-html .widget-title-sub {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.banner .row {
+  margin: 0;
+}
+.banner .row .widget {
+  padding: 0;
+}
+.banner .row .widget img {
+  width: 100%;
+}
+
+.block .widget-tabs {
+  position: relative;
+  text-transform: uppercase;
+  font-family: "latoblack", sans-serif;
+  padding: 15px 0;
+  font-size: 20px;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  margin: 0 0 20px;
+}
+.block .widget-tabs:after {
+  background-color: #e5e5e5;
+  height: 1px;
+  width: 100%;
+  top: 2px;
+  left: 0;
+  content: "";
+  position: absolute;
+}
+.block .widget-tabs li {
+  position: relative;
+  border-left: 1px solid #e5e5e5;
+  padding: 0 20px 0 20px;
+}
+.rtl .block .widget-tabs li {
+  border-right: 1px solid #e5e5e5;
+  border-left: inherit;
+}
+.rtl .block .widget-tabs li {
+  padding: 0 20px 0 20px;
+}
+.block .widget-tabs li a {
+  color: #cccccc;
+}
+.block .widget-tabs li:first-child {
+  border: none;
+  padding-left: 0;
+}
+.rtl .block .widget-tabs li:first-child {
+  padding-right: 0;
+  padding-left: inherit;
+}
+.block .widget-tabs li:first-child.active:before, .block .widget-tabs li:first-child:hover:before {
+  left: 0;
+}
+.rtl .block .widget-tabs li:first-child.active:before, .rtl .block .widget-tabs li:first-child:hover:before {
+  right: 0;
+  left: auto;
+}
+.block .widget-tabs li.active a, .block .widget-tabs li:hover a {
+  color: #cdb48c;
+}
+.block .widget-tabs li.active:before, .block .widget-tabs li:hover:before {
+  height: 3px;
+  width: 35px;
+  background-color: #cdb48c;
+  bottom: -16px;
+  left: 20px;
+  content: "";
+  position: absolute;
+}
+.rtl .block .widget-tabs li.active:before, .rtl .block .widget-tabs li:hover:before {
+  right: 20px;
+  left: auto;
+}
+
+.widget.slide_fullwidth {
+  background-image: url("../images/bg_slide.png");
+  background-attachment: scroll;
+  background-size: auto;
+  background-position: 50% 0%;
+  background-repeat: repeat-x;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 0px 1000px;
+  margin-left: -1000px;
+  overflow: hidden;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  float: none;
+}
+.rtl .widget.slide_fullwidth {
+  margin-right: -1000px;
+  margin-left: inherit;
+}

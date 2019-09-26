@@ -1,0 +1,402 @@
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+/* $pagination-active-bg:          $theme-color-default;
+$pagination-active-border:      $theme-color-default;
+$pagination-hover-bg:           $theme-color-default;
+$pagination-hover-border:       $theme-color-default; */
+a:hover, a:focus {
+  color: #13b884;
+}
+
+.content_sortPagiBar .display .selected a {
+  background-color: #13b884;
+  border: 1px solid #13b884;
+}
+.content_sortPagiBar .display .selected a .fa {
+  color: white;
+}
+
+.breadcrumb {
+  color: #13b884;
+}
+.breadcrumb a:hover {
+  color: #13b884;
+}
+
+#header-main {
+  /* background-image: $headermain-outside-bg; */
+}
+#header-main .popup-content ul li.selected span {
+  color: #13b884;
+}
+
+.popup-over .popup-content li.selected {
+  color: #13b884 !important;
+}
+.popup-over .popup-content li.selected a {
+  color: #13b884 !important;
+}
+.popup-over .popup-content li a:hover {
+  color: #13b884 !important;
+}
+
+.breadcrumb {
+  color: #13b884;
+}
+.breadcrumb a:hover {
+  color: #13b884;
+}
+
+#topbar a:hover {
+  color: #13b884;
+}
+
+/* .block {  
+    .page-subheading{
+        a{
+            color: $block-heading-color;
+        }
+        color: $block-heading-color;
+    }
+}
+ */
+.hr-line > span.line:before, .page-subheading > span.line:before, #footer .title_block > span.line:before, .hr-line > span.line:after, .page-subheading > span.line:after, #footer .title_block > span.line:after {
+  color: #13b884;
+}
+
+#footer .title_block {
+  color: #13b884;
+}
+
+.sidebar .block .title_block {
+  color: #13b884;
+}
+.sidebar .block .title_block a {
+  color: #13b884;
+}
+
+#leo-megamenu {
+  /* menu level 1 */
+  /* level 2 */
+}
+#leo-megamenu .navbar-nav > li > a:hover, #leo-megamenu .navbar-nav > li > a:focus, #leo-megamenu .navbar-nav > li > a:active {
+  color: #13b884 !important;
+}
+#leo-megamenu .navbar-nav > li:active > a {
+  color: #13b884;
+}
+#leo-megamenu .dropdown-menu li a:hover, #leo-megamenu .dropdown-menu li a:focus {
+  color: #13b884 !important;
+}
+#leo-megamenu .dropdown-menu li a:hover .menu-title, #leo-megamenu .dropdown-menu li a:focus .menu-title {
+  color: #13b884 !important;
+}
+#leo-megamenu .dropdown-menu li a:hover .fa, #leo-megamenu .dropdown-menu li a:focus .fa {
+  color: #13b884;
+}
+#leo-megamenu .dropdown:hover > a, #leo-megamenu .dropdown:focus > a {
+  color: #13b884;
+}
+#leo-megamenu .dropdown:hover > a .fa, #leo-megamenu .dropdown:focus > a .fa {
+  color: #13b884;
+}
+
+.widget .widget-catabs .nav-tabs {
+  background: #13b884;
+}
+
+#manucarousel .logo-manu img:hover {
+  -webkit-box-shadow: 0 0 0 1px #13b884;
+  box-shadow: 0 0 0 1px #13b884;
+}
+
+.cate > a {
+  background-color: #13b884;
+  background-color: rgba(19, 184, 132, 0.6);
+  zoom: 1;
+  background-color: transparent\9;
+}
+
+.product-block .name a:hover {
+  color: #13b884;
+}
+.product-block .price {
+  color: #13b884;
+}
+.product-block .functional-buttons .btn:hover {
+  background: #13b884;
+}
+
+.box-cart #add_to_cart .btn:hover {
+  background: #13b884;
+}
+
+.cate .cate-view .cateview {
+  background: #13b884;
+}
+
+#cart_summary tfoot td#total_price_container {
+  color: #13b884;
+}
+
+.WhiteRounded {
+  background-color: #13b884;
+}
+
+#footer a:hover {
+  color: #13b884;
+}
+#footer #newsletter_block_left form .btn:hover {
+  color: #13b884;
+}
+#footer #newsletter_block_left form .btn .fa {
+  color: #13b884;
+}
+#footer .copyright {
+  color: #13b884;
+}
+#footer .bullet li .fa {
+  color: #13b884;
+}
+#footer .media:hover .icon-box {
+  background: #13b884;
+}
+
+.footer-container .widget-html .copyright .copyrightcenter .text {
+  color: #13b884;
+}
+
+#social_block ul li:hover a:before {
+  border: 1px solid #13b884;
+}
+
+form#searchbox button:hover {
+  color: #13b884;
+}
+
+#blockleoblogs .blog-item .blog-ctncomment {
+  color: #13b884;
+}
+
+.blog-tags a:hover span {
+  background: #13b884;
+}
+
+#cart {
+  background: #13b884;
+}
+
+.cart_block .cart-buttons .btn:hover {
+  background: #32c5de;
+}
+
+#header .cart_block {
+  background: #13b884;
+}
+
+#leo_block_top ul li.selected a {
+  color: #13b884 !important;
+}
+#leo_block_top ul li.selected_language img {
+  border: 1px solid #13b884;
+}
+
+@media (max-width: 991px) {
+  .cat-title {
+    background: #13b884;
+  }
+  .cat-title:hover {
+    background: #32c5de;
+  }
+}
+
+p.payment_module a:hover {
+  border: 1px solid #13b884;
+}
+
+.content_sortPagiBar .display .selected a {
+  background-color: #13b884;
+  border: 1px solid #13b884;
+}
+
+.pagination > li > a:hover, .pagination > li > a:focus,
+.pagination > li > span:hover,
+.pagination > li > span:focus {
+  color: #13b884;
+  background-color: none;
+  border-color: #dddddd;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
+.pagination > .active > span,
+.pagination > .active > span:hover,
+.pagination > .active > span:focus {
+  z-index: 2;
+  color: #13b884;
+  background-color: none;
+  border-color: #dddddd;
+}
+
+#my-account ul.myaccount-link-list li a i {
+  color: #13b884;
+}
+
+#backtop {
+  background: #13b884;
+}
+
+/* .carousel-control{
+  &:before{
+    color: $theme-color-default;
+  }
+} */
+.paneltool .panelcontent .current-layout-mod {
+  color: #13b884;
+}
+.paneltool .panelcontent .leo-dynamic-update-header:hover, .paneltool .panelcontent .leo-dynamic-update-header.current-header,
+.paneltool .panelcontent .leo-dynamic-update-layout:hover,
+.paneltool .panelcontent .leo-dynamic-update-layout.current-header {
+  color: #13b884;
+}
+
+#customize-body .nav-tabs .active a {
+  background: #13b884;
+}
+
+.paneltool .leo-dynamic-update-side.current-sidebar {
+  color: #13b884;
+}
+.paneltool .leo-dynamic-update-header.current-header {
+  color: #13b884;
+}
+.paneltool.themetool .group-input .leo-dynamic-update-layout:hover,
+.paneltool.themetool .group-input .leo-dynamic-update-side:hover,
+.paneltool.themetool .group-input .leo-dynamic-update-header:hover {
+  color: #13b884;
+}
+.paneltool.themetool .group-input .leo-dynamic-update-layout.current-layout-mod,
+.paneltool.themetool .group-input .leo-dynamic-update-side.current-layout-mod,
+.paneltool.themetool .group-input .leo-dynamic-update-header.current-layout-mod {
+  color: #13b884;
+}
+.paneltool.active .panelbutton {
+  color: #13b884;
+}
+
+.enable_fheader.btn_no:before {
+  background-color: #13b884;
+}
+.enable_fheader.btn_yes:after {
+  background-color: #13b884;
+}
+
+figure.effect-banner2 h2 strong, figure.effect-banner3 h2 strong {
+  color: #13b884;
+}
+figure.effect-banner3 figcaption .linknow .btn {
+  background: #13b884;
+}
+
+.bannercontainer .tp-leftarrow.default:hover {
+  background-color: #13b884;
+  background-color: rgba(19, 184, 132, 0.7);
+  zoom: 1;
+  background-color: transparent\9;
+}
+.bannercontainer .tp-rightarrow.default:hover {
+  background-color: #13b884;
+  background-color: rgba(19, 184, 132, 0.7);
+  zoom: 1;
+  background-color: transparent\9;
+}
+
+.bannercontainer .button {
+  background: #13b884;
+}
+
+.btn-outline-inverse {
+  color: #6d6d6d;
+  background-color: #13b884;
+  border-color: #13b884;
+}
+.btn-outline-inverse:hover, .btn-outline-inverse:focus, .btn-outline-inverse:active, .btn-outline-inverse.active {
+  color: #6d6d6d;
+  background-color: transparent;
+  border-color: #dddddd;
+}
+.open .btn-outline-inverse.dropdown-toggle {
+  color: #6d6d6d;
+  background-color: transparent;
+  border-color: #dddddd;
+}
+.btn-outline-inverse:active, .btn-outline-inverse.active {
+  background-image: none;
+}
+.open .btn-outline-inverse.dropdown-toggle {
+  background-image: none;
+}
+.btn-outline-inverse.disabled, .btn-outline-inverse.disabled:hover, .btn-outline-inverse.disabled:focus, .btn-outline-inverse.disabled:active, .btn-outline-inverse.disabled.active, .btn-outline-inverse[disabled], .btn-outline-inverse[disabled]:hover, .btn-outline-inverse[disabled]:focus, .btn-outline-inverse[disabled]:active, .btn-outline-inverse[disabled].active, fieldset[disabled] .btn-outline-inverse, fieldset[disabled] .btn-outline-inverse:hover, fieldset[disabled] .btn-outline-inverse:focus, fieldset[disabled] .btn-outline-inverse:active, fieldset[disabled] .btn-outline-inverse.active {
+  background-color: #13b884;
+  border-color: #13b884;
+}
+.btn-outline-inverse .badge {
+  color: #13b884;
+  background-color: #6d6d6d;
+}
+
+.btn-outline {
+  color: #6d6d6d;
+  background-color: transparent;
+  border-color: #dddddd;
+}
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+  color: white;
+  background-color: #13b884;
+  border-color: #13b884;
+}
+.open .btn-outline.dropdown-toggle {
+  color: white;
+  background-color: #13b884;
+  border-color: #13b884;
+}
+.btn-outline:active, .btn-outline.active {
+  background-image: none;
+}
+.open .btn-outline.dropdown-toggle {
+  background-image: none;
+}
+.btn-outline.disabled, .btn-outline.disabled:hover, .btn-outline.disabled:focus, .btn-outline.disabled:active, .btn-outline.disabled.active, .btn-outline[disabled], .btn-outline[disabled]:hover, .btn-outline[disabled]:focus, .btn-outline[disabled]:active, .btn-outline[disabled].active, fieldset[disabled] .btn-outline, fieldset[disabled] .btn-outline:hover, fieldset[disabled] .btn-outline:focus, fieldset[disabled] .btn-outline:active, fieldset[disabled] .btn-outline.active {
+  background-color: transparent;
+  border-color: #dddddd;
+}
+.btn-outline .badge {
+  color: transparent;
+  background-color: #6d6d6d;
+}
+
+#header .cart_block {
+  color: white;
+}
+#header .cart_block a {
+  color: white;
+}
+
+#cart .cart-quantity, #cart .title {
+  color: white;
+}
+
+#cart .cart-inner .ico_mini-cart {
+  background-position: 0 0;
+}

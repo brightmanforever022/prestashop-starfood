@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>autotranslator</name>
+	<displayName><![CDATA[Automatische &uuml;bersetzungen]]></displayName>
+	<version><![CDATA[2.7.1]]></version>
+	<description><![CDATA[Automatic translations for products, categories, attributes etc...]]></description>
+	<author><![CDATA[Amazzing]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

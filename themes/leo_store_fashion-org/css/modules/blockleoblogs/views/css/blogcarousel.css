@@ -1,0 +1,95 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/** CHECKOUT BY STEP */
+/*  
+ * LAYOUT VARIABLES 
+ */
+.blog_container {
+  background: white;
+  position: relative;
+  margin-bottom: 20px;
+}
+.blog_container .blog-meta {
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+.blog_container .blog-meta > * {
+  margin-right: 5px;
+}
+.blog_container .blog-viewmore {
+  margin-top: 20px;
+  display: none;
+}
+.blog_container .blog-created {
+  font-size: 11px;
+}
+.blog_container .blog-created {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  background: #cdb48c;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: white;
+}
+.rtl .blog_container .blog-created {
+  left: 0;
+  right: auto;
+}
+.blog_container .blog-created .day {
+  font-size: 22px;
+  display: block;
+  line-height: 18px;
+  padding-top: 8px;
+}
+.blog_container .blog-created .month {
+  font-size: 10px;
+  text-transform: uppercase;
+}
+.blog_container .blog-info h4 {
+  margin: 20px 0 10px;
+  line-height: 25px;
+  min-height: 50px;
+}
+.blog_container .blog-info h4 a {
+  font-size: 15px;
+  font-family: "rockwellbold", sans-serif;
+  color: black;
+  text-transform: none;
+}
+.blog_container .blog-info h4 a:hover {
+  color: #cdb48c;
+}
+.blog_container .blog-shortinfo {
+  font-size: 13px;
+}
+.blog_container .blog-image {
+  position: relative;
+  overflow: hidden;
+}
+.blog_container .blog-image img {
+  -webkit-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+.blog_container .blog-image:hover img {
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -o-transform: scale(1.5);
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exportscript>
+<config>
+<mapping><![CDATA[Mapping.map.xml]]></mapping><shops><![CDATA[]]></shops><categoriessel><![CDATA[category.sel.xml]]></categoriessel><exportfilename><![CDATA[Test_1.csv]]></exportfilename><supplier><![CDATA[]]></supplier><exportdisabledproducts><![CDATA[0]]></exportdisabledproducts><exportcombinations><![CDATA[1]]></exportcombinations><exportoutofstock><![CDATA[1]]></exportoutofstock><exportbydefaultcategory><![CDATA[1]]></exportbydefaultcategory><shippingfee><![CDATA[0]]></shippingfee><shippingfeefreefrom><![CDATA[]]></shippingfeefreefrom><fieldsep><![CDATA[;]]></fieldsep><valuesep><![CDATA[,]]></valuesep><categorysep><![CDATA[,]]></categorysep><enclosedby><![CDATA["]]></enclosedby><iso><![CDATA[0]]></iso><firstlinecontent><![CDATA[]]></firstlinecontent><lastexportdate><![CDATA[2019-01-23 16:38:08]]></lastexportdate></config>
+</exportscript>

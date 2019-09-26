@@ -1,0 +1,121 @@
+#cluetip-close img {
+  border: 0;
+}
+#cluetip-title {
+  overflow: hidden;
+}
+#cluetip-title #cluetip-close {
+  float: right;
+  position: relative;
+}
+#cluetip-waitimage {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  background-image: url('../../../../img/loader.gif');
+}
+.cluetip-jtip_order {
+  background-color: rgb(0, 255, 0);
+}
+
+.cluetip-arrows {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: -11px;
+  height: 22px;
+  width: 11px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+#cluetip-extra {
+  display: none;
+}
+
+.cluetip-default {
+  background-color: transparent;
+}
+.cluetip-default #cluetip-outer {
+  border: 2px solid #ccc;
+  position: relative;
+  background-color: #fff;
+}
+
+.cluetip-default h3#cluetip-title {
+  margin: 0 0 5px;
+  padding: 2px 5px;
+  font-size: 12px;
+  font-weight: normal;
+  background-color: #ccc;
+  color: #333;
+}
+
+.cluetip-default #cluetip-inner {
+  padding: 0 5px 5px;
+  display: inline-block;
+}
+.cluetip-default div#cluetip-close { 
+  text-align: right;
+  margin: 0 5px 5px;
+  color: #900;
+}
+
+/* stupid IE6 HasLayout hack */
+.cluetip-rounded #cluetip-title,
+.cluetip-rounded #cluetip-inner {
+  zoom: 1;
+}
+
+.cluetip-default .table th {
+  width: 140px;
+  padding: 3px;
+}
+
+.cluetip-default .table tr {
+  text-align: center
+}
+
+.cluetip-default .table td {
+  padding: 3px;
+}
+
+.cluetip-default .table tr:last-child td {
+  padding:12px;
+}
+
+
+#cluetip-inner .table th{
+    border-top: 1px solid #ddd;
+    color: #666;
+    padding: 8px;
+    line-height: 1.42857;
+    vertical-align: top;
+}
+
+#cluetip-inner .table{
+    background-color: #EFF1F2;
+    width: 100%;
+}
+
+#cluetip-inner .table td{
+    border-top: none;
+    color: #666;
+    background-color: #fff;
+    padding: 3px 7px;
+    vertical-align: middle;
+    word-wrap: nowrap;
+    font-size: 12px;
+    border-bottom: solid 1px #EAEDEF;
+}
+
+.cluetip-tbltip #cluetip-outer {
+  border: 2px solid #ccc;
+  position: relative;
+  background-color: #fff;
+}
+
+.cluetip-tbltip #cluetip-inner {
+  padding: 0;
+  /*display: inline-block;*/
+  width:100%;
+}

@@ -1,0 +1,535 @@
+
+//base
+a{
+    &:hover,
+    &:focus {
+        color: $link-hover-color;
+    }
+}
+//prestashop page
+.content_sortPagiBar{
+	.display{
+    .selected{
+  		a{	
+		    background-color: $theme-color-default;
+		    border: 1px solid $theme-color-default; 
+		    .fa {
+		         color: $white; 
+		    }   
+  		}
+    }
+	}
+} 
+// BREADCRUMB
+.breadcrumb {
+	color: $breadcrumb-active-color;       
+	a {
+	  &:hover {
+	      color: $breadcrumb-active-color;
+	  }
+	}
+
+}
+
+#header-main{
+  /* background-image: $headermain-outside-bg; */
+  .popup-content {
+    ul {
+      li {
+        &.selected {
+          span {
+            color: $theme-color-default;
+          }
+        }
+      }
+    }
+  }
+}
+
+//pop up content
+.popup-over{
+    .popup-content{
+        li{
+            &.selected{
+                color: $theme-color-default !important;
+                a {
+                    color: $link-hover-color !important;
+                }
+            }
+            a{
+              &:hover{
+                  color: $link-hover-color !important;
+              }
+            }
+        }
+    }
+}
+
+// BREADCRUMB
+.breadcrumb {
+  color: $breadcrumb-active-color;
+  a {
+    &:hover {
+        color: $breadcrumb-active-color;
+    }
+  }
+}
+
+//topbar
+#topbar { 
+  a {
+    &:hover {color: $link-hover-color;}
+  }  
+}
+
+// block.scss
+/* .#{$block-selector} {  
+    .page-subheading{
+        a{
+            color: $block-heading-color;
+        }
+        color: $block-heading-color;
+    }
+}
+ */
+.hr-line{
+  > span.line{
+    &:before,
+    &:after{
+      color: $theme-color-default;
+    }
+  }
+}
+
+.page-subheading {
+  @extend .hr-line;
+}
+
+#footer {
+  .title_block {
+    @extend .hr-line;
+    color: $theme-color-default;
+  }
+}
+
+// block in sidebar - left column, right column
+.sidebar{
+  .#{$block-selector} {  
+    .#{$block-heading-selector}{
+      color: $block-heading-color;
+      a {
+        color: $block-heading-color;
+      }  
+    }
+  }
+}
+
+
+// NAVIGATION
+##{$app-brand-prefix}-megamenu {
+  /* menu level 1 */
+  .navbar-nav {
+    > li {
+      > a{
+        &:hover,&:focus,&:active{         
+          color: $megamenu-link-hover-color!important;
+        }
+      } 
+      &:active{
+        > a{color: $megamenu-link-hover-color;}
+      }
+    }
+  }
+  /* level 2 */
+  .dropdown-menu{         
+    li{
+      a{            
+        &:hover, &:focus{
+          color: $megamenu-sub-link-hover-color!important;
+          .menu-title {
+            color: $megamenu-sub-link-hover-color!important;
+          }           
+          .fa{
+            color: $megamenu-sub-link-hover-color;          
+          }
+        }
+      }       
+    }
+  }
+  .dropdown{    
+    &:hover, &:focus {
+      > a{    
+        color: $megamenu-link-hover-color;
+        .fa{
+          color: $megamenu-link-hover-color;
+        }                 
+      }
+    }   
+  }
+}
+
+// leomanagewidget
+.widget {
+  .widget-catabs .nav-tabs {
+    background: $theme-color-default; 
+  }
+}
+
+#manucarousel{
+  .logo-manu {
+    img {
+      &:hover{
+        @include box-shadow(0 0 0 1px $theme-color-default);
+      }
+    }
+  }
+}
+
+.cate {
+  > a {
+    @include rgba($theme-color-default, 0.6);
+  }
+} 
+
+// product style
+.product-block {
+  .name{
+    a {                                      
+      &:hover{
+        color: $product-name-hover-color;
+      }
+    }
+  }
+  .price {
+    color: $theme-color-default;
+  }
+
+  // button
+  .functional-buttons{
+    .btn {
+      &:hover {
+        background: $button-addtocart-bg-hover;
+      }
+    }
+  }
+}
+.box-cart #add_to_cart .btn:hover {background: $theme-color-default;}
+.cate .cate-view .cateview {background: $theme-color-default;}
+
+#cart_summary tfoot td#total_price_container {
+  color: $theme-color-default;
+}
+
+// Button Layout and Color Scheme
+.WhiteRounded {
+  background-color: $theme-color-default;
+}
+
+// footer
+#footer{
+  a{
+    &:hover{color: $link-hover-color;}
+  }
+  #newsletter_block_left {
+    form{
+      .btn{
+        &:hover {
+          color: $theme-color-default;
+        }
+        .fa {
+          color: $theme-color-default;
+        }
+      }
+    }
+  }
+  .copyright {
+    color: $theme-color-default;
+  }
+  .bullet li {
+    .fa {
+      color: $theme-color-default;
+    }
+  }
+  .media {
+    &:hover {
+      .icon-box {
+        background: $theme-color-default;
+      }
+    }
+  }
+}
+
+.footer-container {
+  .widget-html {
+    .copyright {
+      .copyrightcenter {
+        .text {
+          color: $theme-color-default;
+        }
+      }
+    }
+  }
+}
+
+// blocksocial
+#social_block {
+  ul {
+    li {
+      &:hover {
+        a {
+          &:before {border: $main-border-hover;}
+        }
+      }
+    }
+  }
+}
+
+// blocksearch
+form#searchbox { 
+  button { 
+    &:hover {
+      color: $theme-color-default;
+    }
+  }
+}
+
+// blogleoblog
+#blockleoblogs {
+  .blog-item {
+    .blog-ctncomment {
+      color: $theme-color-default;
+    }
+  }
+}
+
+// leoblog
+.blog-tags a {
+  &:hover {
+    span {
+      background: $theme-color-default;
+    }
+  }
+}
+ 
+// mini basket
+#cart{  
+  background: $theme-color-default;
+}
+
+// blockcart
+.cart_block {
+  .cart-buttons {
+    .btn {
+      &:hover {
+        background: $theme-color-secondary;
+      }
+    }
+  }
+}
+
+#header {
+  .cart_block {
+    background: $theme-color-default;
+  }
+}
+
+// block group top
+#leo_block_top{
+  ul{
+    li{
+      &.selected{
+        a{
+          color: $theme-color-default !important;
+        }
+      }
+      &.selected_language {
+        img{
+          border: 1px solid $theme-color-default;
+        }
+      }
+    }
+  }
+}
+
+.cat-title {
+  @media (max-width: $screen-sm-max) { // max 991px
+    background: $theme-color-default;
+    &:hover {
+      background: $theme-color-secondary; 
+    }   
+  }
+}
+
+// step shopping cart
+//step 5 - paiement
+p.payment_module {
+  a {
+    &:hover {
+      border: $main-border-hover;
+    }
+  }
+}
+
+// categories page
+.content_sortPagiBar {
+    .display { 
+        .selected{
+          a{              
+            background-color: $theme-color-default;
+            border: 1px solid $theme-color-default;  
+          }
+        } 
+    }
+}
+
+// Pagination (multiple pages)
+.pagination {
+  > li > a,
+  > li > span {
+    &:hover,
+    &:focus {
+      color: $pagination-hover-color;
+      background-color: $pagination-hover-bg;
+      border-color: $pagination-hover-border;
+    }
+  }
+
+  > .active > a,
+  > .active > span {
+    &,
+    &:hover,
+    &:focus {
+      z-index: 2;
+      color: $pagination-active-color;
+      background-color: $pagination-active-bg;
+      border-color: $pagination-active-border;
+    }
+  }
+}
+
+// page myaccount
+#my-account {
+  ul.myaccount-link-list {
+    li {
+      a {
+        i {
+          color: $theme-color-default;
+        }
+      }
+    }
+  }
+}
+
+// backtop
+#backtop{
+    background: $theme-color-default;
+}
+
+// carousel
+/* .carousel-control{
+  &:before{
+    color: $theme-color-default;
+  }
+} */
+
+// paneltool
+.paneltool .panelcontent {
+  .current-layout-mod{
+    color: $theme-color-default;
+  }
+  .leo-dynamic-update-header, 
+  .leo-dynamic-update-layout {
+    &:hover,&.current-header{
+      color:$theme-color-default;
+    }
+  }
+}
+#customize-body .nav-tabs .active a {
+  background: $theme-color-default;
+}
+.paneltool {
+  .leo-dynamic-update-side{
+      &.current-sidebar{
+        color: $theme-color-default;
+      }
+  }
+  .leo-dynamic-update-header{
+    &.current-header{
+        color: $theme-color-default;
+    }
+  }
+  &.themetool{
+    .group-input{
+        .leo-dynamic-update-layout,
+        .leo-dynamic-update-side,
+        .leo-dynamic-update-header {
+          &:hover{
+            color: $theme-color-default;
+          }
+          &.current-layout-mod{
+            color: $theme-color-default;
+          }
+        }
+    }
+  }
+  &.active {
+    .panelbutton {
+      color: $theme-color-default;
+    }
+  }
+}
+.enable_fheader {
+  &.btn_no{
+    &:before{
+      background-color:$theme-color-default;
+    }
+  }
+  &.btn_yes{
+    &:after{
+      background-color:$theme-color-default;
+    }
+  }
+}
+
+// effect-banner
+figure {
+  &.effect-banner2, &.effect-banner3 {
+    h2 {
+      strong {
+        color: $theme-color-default;
+      }
+    }
+  }
+  &.effect-banner3 {
+    figcaption {
+      .linknow {
+        .btn {
+          background: $theme-color-default;
+        }
+      }
+    }
+  }
+}
+
+// slideshow
+.bannercontainer {
+  .tp-leftarrow.default {
+    &:hover {
+      @include rgba($theme-color-default, 0.7);
+    }
+  }
+  .tp-rightarrow.default {
+    &:hover {
+      @include rgba($theme-color-default, 0.7);
+    }
+  }
+}
+.bannercontainer .button {background: $theme-color-default;}
+
+//@mixin button-variant-outline($color, $background, $border, $colorhover, $bghover, $borderhover ) {
+.btn-outline-inverse{
+  @include button-variant-outline($text-color, $theme-color-default, $theme-color-default, $text-color, $nocolor , $border-color );
+} 
+.btn-outline{
+  @include button-variant-outline($text-color, $nocolor, $border-color, $white, $theme-color-default, $theme-color-default);
+}

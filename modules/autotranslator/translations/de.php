@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{autotranslator}prestashop>autotranslator_d21eb4f0cf1b5354e99603ad5d152add'] = 'Automatische übersetzungen';
+$_MODULE['<{autotranslator}prestashop>autotranslator_656a6828d7ef1bb791e42087c4b5ee6e'] = 'API-Schlüssel';
+$_MODULE['<{autotranslator}prestashop>autotranslator_e0aa021e21dddbd6d8cecec71e9cf564'] = 'OK';
+$_MODULE['<{autotranslator}prestashop>autotranslator_f49856f5651a3fe5cfcdd28084196022'] = 'Sie können eine Kostenlose Schlüssel hier';
+$_MODULE['<{autotranslator}prestashop>autotranslator_4a206e35c4a907c8473bc40010b01c0c'] = 'Bitte geben Sie Schlüssel';
+$_MODULE['<{autotranslator}prestashop>autotranslator_068f80c7519d0528fb08e82137a72131'] = 'Produkte';
+$_MODULE['<{autotranslator}prestashop>autotranslator_af1b98adf7f686b84cd0b443e022b7a0'] = 'Kategorien';
+$_MODULE['<{autotranslator}prestashop>autotranslator_71b16ec913e2b2febe4542160717aaeb'] = 'CMS-Seiten';
+$_MODULE['<{autotranslator}prestashop>autotranslator_40857405e3cb47e2aad653d218acc675'] = 'CMS-Kategorien';
+$_MODULE['<{autotranslator}prestashop>autotranslator_f388bc3eaa4b9f72756a75693a12559d'] = 'Die installierten Module';
+$_MODULE['<{autotranslator}prestashop>autotranslator_83915d1254927f41241e8630890bec6e'] = 'Themen';
+$_MODULE['<{autotranslator}prestashop>autotranslator_abdffc07f137a3b4b3e4df13d2cafee4'] = 'Alle Sprachen';
+$_MODULE['<{autotranslator}prestashop>autotranslator_20f251229a699421f34fb359aa19390d'] = 'Sollten Sie Englisch in die Liste Ihrer Sprachen zu übersetzten Module in anderen Sprachen';
+$_MODULE['<{autotranslator}prestashop>autotranslator_f40f0a146b015acb0b4c5f5e933d8055'] = 'Übersetzen';
+$_MODULE['<{autotranslator}prestashop>autotranslator_266ba14af58a3dfa4b9e1c90a8879dfb'] = 'Content-Typ';
+$_MODULE['<{autotranslator}prestashop>autotranslator_e0626222614bdee31951d84c64e5e9ff'] = 'Wählen Sie';
+$_MODULE['<{autotranslator}prestashop>autotranslator_afd8734a2f57c72b9216523cb9da2729'] = 'Einige text hier mit besonderen chars: / \\\\\\\" \'; HTML-tags: 123; sprintf: %s %d %s %1$s %2$s';
+$_MODULE['<{autotranslator}prestashop>autotranslator_49ee3087348e8d44e1feda1917443987'] = 'Name';
+$_MODULE['<{autotranslator}prestashop>autotranslator_d0594793a76c7e694f6bf7d4fea06a99'] = 'Thema name';
+$_MODULE['<{autotranslator}prestashop>autotranslator_e7187e855e77081f015200a88effeaf2'] = 'Keine Aktionen durchgeführt';
+$_MODULE['<{autotranslator}prestashop>autotranslator_cfb8b0d51afe3fa706d949925da32f0f'] = 'Produkt konnte nicht geladen werden';
+$_MODULE['<{autotranslator}prestashop>autotranslator_a98025c398d91265ae9427e539422e37'] = '%d Worte in %s Sekunden';
+$_MODULE['<{autotranslator}prestashop>autotranslator_c9daf4043440cc1a90f516bde8881082'] = 'Kategorie konnte nicht geladen werden';
+$_MODULE['<{autotranslator}prestashop>autotranslator_902b0d55fddef6f8d651fe1035b7d4bd'] = 'Fehler';
+$_MODULE['<{autotranslator}prestashop>autotranslator_aee9784c03b80d38d3271cde2b252b8d'] = 'Unbekannter Fehler';
+$_MODULE['<{autotranslator}prestashop>autotranslator_85749614de5f612ca58d875b3317543b'] = 'Bulk übersetzung gescheitert';
+$_MODULE['<{autotranslator}prestashop>autotranslator_a3c085f0d457ae1104bf59365beb675a'] = 'Verzeichnis \\\"%s\\\" kann nicht erstellt werden';

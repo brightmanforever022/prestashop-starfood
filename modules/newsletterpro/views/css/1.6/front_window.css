@@ -1,0 +1,118 @@
+.gk-front-window {
+	background-color: white;
+	position: absolute;
+	display: block;
+	z-index: 99999;
+	width: 84%;
+	margin-right: 8%;
+	margin-left: 8%;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.gk-front-window-content {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.gk-front-window .cross {
+	position: absolute;
+	right: 7px;
+	top: 8px;
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	color: #333333;
+	z-index: 2;
+	display: block;
+}
+
+.gk-front-window .cross:before {
+	content: "\f057";
+	display: block;
+	font-family: "FontAwesome";
+	font-size: 25px;
+	line-height: 25px;
+}
+
+.gk-front-window .np-icon-cross,
+.gk-front-window .np-icon-cross_1,
+.gk-front-window .np-icon-cross_2,
+.gk-front-window .np-icon-cross_3,
+.gk-front-window .np-icon-cross_4,
+.gk-front-window .np-icon-cross_5 {
+	position: absolute;
+	right: 7px;
+	top: 8px;
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	color: #333333;
+	z-index: 2;
+	display: block;
+}
+
+.gk-front-window .np-icon-cross:before,
+.gk-front-window .np-icon-cross_1:before,
+.gk-front-window .np-icon-cross_2:before,
+.gk-front-window .np-icon-cross_3:before,
+.gk-front-window .np-icon-cross_4:before,
+.gk-front-window .np-icon-cross_5:before {
+	display: block;
+	font-family: 'NewsletterProCross';
+	font-size: 25px;
+	line-height: 25px;
+}
+
+.gk-front-window-bg {
+	background-color: #000;
+	display: block;
+	height: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+	opacity: 0.2;
+	z-index: 99999;
+	width: 100%;
+}
+
+.gk-front-window-box {
+	display: block;
+	height: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+	z-index: 99999;
+}
+
+.gk-front-window-scrollbar {
+	overflow-y: scroll;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	-webkit-border-radius: 10px;
+	   -moz-border-radius: 10px;
+	        border-radius: 10px;
+	margin: 0;
+	margin-right: 2px;
+}
+
+.gk-front-window-scrollbar::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+.gk-front-window-scrollbar::-webkit-scrollbar:active {
+
+}
+
+.gk-front-window-scrollbar::-webkit-scrollbar-thumb {
+	-webkit-border-radius:10px;
+	        border-radius:10px;
+	background-color: #838383;
+}

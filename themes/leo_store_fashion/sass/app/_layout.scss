@@ -1,0 +1,285 @@
+/******************************************************
+ * $package Leo Theme Framework for Leo THeme 1.6.x
+ * $version 1.1
+ * $author http://www.leotheme.com
+ * $copyright   Copyright (C) Augus 2013 PavoThemes.com <$emai:leotheme$gmail.com>.All rights reserved.
+ * $license     GNU General Public License version 2
+ *******************************************************/
+body{
+    &.layout-boxed-md{
+        background: $white;
+        #page{  
+            max-width: $container-desktop + 20px; 
+            @include box-shadow(0 0 5px lighten($gray, 50%));
+            margin: 0 auto;    
+            background: $white;
+            .container {
+                max-width: $container-desktop;
+            }
+        }  
+        
+    }
+    &.layout-boxed-lg{
+        background: $white;
+        #page{  
+            max-width: $container-lg + 20px; 
+            @include box-shadow(0 0 5px lighten($gray, 50%));
+            margin: 0 auto;    
+            background: $white;
+            .container {
+                max-width: $container-lg;
+            }
+        }
+    }
+} 
+
+.container{
+    position: relative;
+}
+
+#page{
+    overflow: hidden;
+}
+/*
+* HEADER 
+*/
+
+#topbar  {
+    min-height: $topbar-height; 
+    font-weight: $topbar-font-weight; 
+    border-bottom: $topbar-border;
+    font-size: $topbar-font-size;
+    background: $topbar-outside-bg;
+    text-transform: uppercase;
+    .container > .inner{
+        @include container-layout-variant($topbar-color, $topbar-bg, $topbar-link-color, $topbar-link-hover-color);    
+    }
+    a{
+        font-size: $topbar-font-size;
+    }
+    .links{  
+        margin: 6px 0;      
+    } 
+    .links-outline{
+        a{ color: $topbar-link-hover-color;}
+    }
+    .topbar-box{
+        @include rtl-float-right();
+        position: relative;
+        .quick-setting{
+            padding: 10px;
+            border: none;
+            color: $base-text-color;
+            margin: 0;
+            a{
+                color: $base-text-color;
+                &:hover{
+                    color: $link-hover-color;
+                }
+            }
+            li{
+                &.selected{
+                    a, span{
+                        color: $link-hover-color;
+                        font-size: $topbar-font-size;
+                    }
+                }
+            }
+        }
+    }
+    .btn-group{
+    	@include rtl-border-right(1px solid #292929);
+        padding: $topbar-padding;
+        &:hover{
+            cursor: pointer;
+            color: $topbar-link-hover-color;
+        }
+    	&.dropdown-toggle{
+	    	&:before{
+				content: "\f107";
+				position: absolute;
+				top: 17px;
+				@include rtl-right(8px);
+				font-family: $font-icon;
+                color: $topbar-icon-color;
+	    	}
+    	}
+    }    
+}
+
+ 
+#header-main{
+    min-height: 60px;
+    background: $headermain-outside-bg;
+    .container > .inner{
+        @include container-layout-variant($headermain-color, $headermain-bg, $headermain-color, $headermain-color-hover);   
+        padding-top: 35px;
+        padding-bottom:  30px;
+    }
+    .header-wrap{
+        min-height: 94px;
+        margin: 0;
+    }
+    &.mini-navbar{ // float header
+        .container > .inner{
+            padding-top: 10px;
+            padding-bottom:  10px;
+       }
+    }
+}
+
+
+#header{        
+    background: $header-bg;
+    border-bottom: $header-border-color;
+    margin-bottom: $grid-gutter-width;
+}
+
+##{$app-brand-prefix}-masshead {
+   .container > .inner{
+        @include container-layout-variant($masshead-color, $masshead-bg, $masshead-color, $masshead-color-hover);   
+        padding: $masshead-content-padding;    
+   }
+}
+
+/*
+* NAVIGATION
+*/
+##{$app-brand-prefix}-megamenu {
+    .container > .inner{
+        border-top: $block-module-heading-border;
+        position: relative;
+        &:after{
+            background-color: $border-color;
+            height: 1px;
+            width: 100%;
+            top: 2px;
+            left: 0;
+            content: "";
+            position: absolute;
+        }
+    }
+}
+
+/*
+* SLIDESHOW 
+*/
+##{$app-brand-prefix}-slideshow {
+    
+}
+/*
+* SHOWCASE 
+*/
+##{$app-brand-prefix}-showcase {
+
+}
+/*
+* PROMOTION TOP 
+*/
+##{$app-brand-prefix}-promotion {    
+    
+}
+/*
+* MAIN CONTENT
+*/  
+#content {
+    min-height: 400px;
+    margin-bottom: 25px;
+}
+
+.wrapper-danger{
+
+}
+.wrap-outline{
+
+}
+
+/*end*/
+#bottom{
+    margin-top: $grid-gutter-width;
+}
+/* FOOTER */
+#footer{
+    @include clearfix();
+    background: $footer-bg;    
+    min-height: $line-height-computed * 5;
+    color: $footer-color;
+    font-size: $footer-font-size;
+    margin-top: $footer-margin;
+    ul, ol {
+        list-style: none;
+        li{
+            padding: 6px 0px;
+        }
+    }
+    position: relative;   
+}
+
+.footer-top{
+    position: relative;
+    background: $footer-top-outside-bg;
+    border-bottom: $footer-top-outside-border;
+    .container > .inner{
+        @include container-layout-variant($footer-top-color, $footer-top-bg, $footer-top-color, $footer-top-color-hover); 
+        padding: $footer-top-content-padding; 
+    }
+    .#{$block-heading-selector},
+    .#{$block-content-selector}{
+        
+    }
+}
+.footer-center{
+    position: relative;
+    background: $footer-center-outside-bg;
+    border-bottom: $footer-center-outside-border;
+   .container > .inner{
+    @include container-layout-variant($footer-center-color, $footer-center-bg, $footer-center-color, $footer-center-color-hover);   
+    padding: $footer-center-content-padding;    
+    overflow: hidden;
+   }
+}   
+.footer-bottom{
+    position: relative;
+    background: $footer-bottom-outside-bg;
+   .container > .inner{
+    @include container-layout-variant($footer-bottom-color, $footer-bottom-bg, $footer-bottom-color, $footer-bottom-color-hover);   
+    padding: $footer-bottom-content-padding;    
+   }
+}
+
+.footer-nav{ // copyright
+    @include rtl-text-align-left();
+    position: relative;
+    background: $footer-nav-outside-bg;
+   .container > .inner{
+    @include container-layout-variant($footer-nav-color, $footer-nav-bg, $footer-nav-color, $footer-nav-color-hover);   
+    padding: $footer-nav-content-padding;    
+   }
+}
+#powered{
+    span{
+        color: $power-link-color;
+    }
+}
+#footnav{
+    @include rtl-text-align-right();
+}
+
+// backtop
+#backtop{
+    cursor: pointer;
+    z-index: 6;
+    position: fixed;
+    bottom: 15px;
+    margin: auto;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20px;
+    color: $white;
+    background: $theme-color-default;
+    border: $main_border;
+    @include border-radius(50px);
+    @include rtl-right(15px);
+}

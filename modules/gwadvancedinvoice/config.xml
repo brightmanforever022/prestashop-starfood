@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gwadvancedinvoice</name>
+	<displayName><![CDATA[Advanced Invoice Builder]]></displayName>
+	<version><![CDATA[1.1.3]]></version>
+	<description><![CDATA[Advanced Invoice Template Builder is the perfect tool to customize your invoice without any technical knowledge required.]]></description>
+	<author><![CDATA[Globo Jsc]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

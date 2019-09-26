@@ -1,0 +1,70 @@
+@import "compass";
+@import "theme_variables";
+
+$image-theme-base-path: "img/";
+
+$base-text-color : red;
+
+$theme-color-default: 		    #13B884;
+$theme-color-secondary:         #32c5de;
+$link-hover-color: 			    $theme-color-default;
+
+$breadcrumb-active-color:       $theme-color-default;
+
+$main-border-hover:             1px solid $theme-color-default;
+
+$topbar-color-hover: 		    $link-hover-color;
+$topbar-link-hover-color: 	    $link-hover-color;
+
+$headermain-color-hover: 		$link-hover-color;
+$headermain-link-hover-color: 	$link-hover-color;
+
+$mainnav-color-hover: 		    $link-hover-color;
+$mainnav-link-hover-color: 	    $link-hover-color;
+
+$footer-top-color-hover: 		$link-hover-color;
+
+$footer-center-color-hover: 	$link-hover-color;
+
+$footer-nav-color-hover: 		$link-hover-color;
+$product-name-hover-color: 		$link-hover-color;
+$product-price-color: 			$theme-color-default;
+
+$breadcrumb-active-color: 		$link-hover-color;
+
+$megamenu-link-bg-hover-color:  $theme-color-default;
+$megamenu-link-hover-color:     $theme-color-default;
+$megamenu-link-hover-border:    $main-border;
+$megamenu-sub-link-hover-color: $theme-color-default;
+
+$button-addtocart-border-2:     $theme-color-default;
+$button-addtocart-bg-hover:     $theme-color-default;
+
+/* $pagination-active-bg:          $theme-color-default;
+$pagination-active-border:      $theme-color-default;
+$pagination-hover-bg:           $theme-color-default;
+$pagination-hover-border:       $theme-color-default; */
+$pagination-hover-color:        $link-hover-color;
+$pagination-active-color:       $link-hover-color;
+
+// product emlement
+$product-name-hover-color:      $link-hover-color!default;
+
+// mini cart
+$cart-bg-color: 				$theme-color-default;
+$cart-text-color:               $white;
+$cart-icon-color:               $white;
+
+// block
+$block-heading-color:           $theme-color-default;
+
+@import "../_skin";
+
+#header {
+  .cart_block {
+    color: $white;
+    a{color: $white;}
+  }
+}
+#cart .cart-quantity, #cart .title {color: $white;}
+#cart .cart-inner .ico_mini-cart {background-position: 0 0;}

@@ -1,0 +1,96 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+.dhx_header_cmenu,.dhtmlxMenu_dhx_skyblue_Middle{
+	background:#E2EDF2;
+}
+
+.dhx_combo_select{
+	width:220px !important;
+	height:250px !important;
+}
+
+div.complex_arrow {
+    height: 10px !important;
+    margin-top: 4px;
+}
+
+.sc_error{
+	color:red;
+	font-weight:bold;
+	border:1px solid #EEAAAA;
+	margin-bottom:10px;
+	padding:5px;
+}
+.firstLoginPage{
+	background:#FFFFFF url('../img/firstloginpage.jpg') no-repeat;
+	margin:0px auto;
+	padding:130px 35px 0px 35px;
+	width:530px;
+}
+.btn_pink{
+	width:109px;
+	height:25px;
+	background:#FFFFFF url('../img/btn_pink.gif') no-repeat;
+	color:white;
+	border:0px;
+	padding-top:0px;
+	cursor:pointer;
+}
+#formfree{
+	text-align:right;
+	line-height:25px;
+}
+#formtrial{
+	text-align:right;
+	line-height:25px;
+}
+
+.right{
+	text-align:right;
+	margin:0px;
+	padding-right:10px;
+}
+.left{
+	text-align:left;
+	margin:0px;
+	padding-right:10px;
+}
+
+.copyright{
+	color:#249a94;
+}
+
+legend{
+	font-weight:bold;
+	color:#1D7071;
+}
+
+div.dhxeditor_dhx_skyblue_tbbtn,
+.dhxlist_obj_dhx_skyblue table.dhxlist_items_set div.dhxlist_img,
+.dhx_toolbar_base_dhx_skyblue div.dhx_toolbar_btn img,
+.dhtmlxMenu_dhx_skyblue_Middle img.dhtmlxMenu_TopLevel_Item_Icon,
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl td.sub_item_icon img.sub_icon,
+.dhx_toolbar_base_18_dhx_skyblue div.dhx_toolbar_btn img,
+div.dhx_toolbar_poly_18_dhx_skyblue td.td_btn_img img,
+div.dhx_toolbar_poly_18_dhx_skyblue td.td_btn_img img.btn_sel_img
+{
+	width:16px;
+	height:16px;
+}
+.dhx_toolbar_poly_dhx_skyblue{
+	z-index:1000!important;
+}
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl div.complex_arrow {
+	background-position:0 -8px;
+}
+div.dhtmlxMenu_dhx_skyblue_SubLevelArea_Polygon table.dhtmlxMebu_SubLevelArea_Tbl tr.sub_item_selected div.complex_arrow {
+	background-position:-8px -8px!important;
+}
+
+div.gridbox_dhx_skyblue table.obj.row20px tr.rowselected td{
+	background-image: url(../js/imgs/sky_blue_sel2.png);
+}

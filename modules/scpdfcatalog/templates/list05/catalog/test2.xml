@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfparams>
+<name><![CDATA[test2]]></name>
+<title><![CDATA[My catalog]]></title>
+<filename><![CDATA[gewgewge]]></filename>
+<legalnotice><![CDATA[<p>All content of this catalog is owned or controlled by My Company and is protected by worldwide copyright laws.</p>]]></legalnotice>
+<footer><![CDATA[<p>This catalog is provided by My Company.</p>]]></footer>
+<idlang>4</idlang>
+<firstpage>1</firstpage>
+<tocdisplay>1</tocdisplay>
+<pagenumber>1</pagenumber>
+<format><![CDATA[list05]]></format>
+<uselinks>1</uselinks>
+<usecategcover>1</usecategcover>
+<usecategheader>1</usecategheader>
+<activeproduct></activeproduct>
+<withstockproduct></withstockproduct>
+<filterbybrand>-</filterbybrand>
+<orderby><![CDATA[price_asc]]></orderby>
+<xdaysago><![CDATA[]]></xdaysago>
+<doctitle><![CDATA[My catalog]]></doctitle>
+<docsubject><![CDATA[The subject]]></docsubject>
+<doccreator><![CDATA[My Company]]></doccreator>
+<doclogo><![CDATA[logo-test2-2016-02-07-22-31-47.jpg]]></doclogo>
+<author><![CDATA[My Company]]></author>
+<categlist><![CDATA[76]]></categlist>
+<currency>1</currency>
+<usecustomergroup>1</usecustomergroup>
+<productimageformat>large</productimageformat>
+<fontname>helvetica</fontname>
+<vatinc>1</vatinc>
+<vatexc></vatexc>
+<emptycol></emptycol>
+<emptycollibelle></emptycollibelle>
+<product_title>title</product_title>
+<combinationsinc></combinationsinc>
+<thousandssep> </thousandssep>
+<decimalssep>,</decimalssep>
+<hidecurrency></hidecurrency>
+<hidedecimals></hidedecimals>
+<categorynewpage></categorynewpage>
+<pc_collibelle_1></pc_collibelle_1>
+<pc_collibelle_2></pc_collibelle_2>
+<pc_currency_1></pc_currency_1>
+<pc_currency_2></pc_currency_2>
+<pc_usecustomergroup_1></pc_usecustomergroup_1>
+<pc_usecustomergroup_2></pc_usecustomergroup_2>
+<pc_pricecolumns_1></pc_pricecolumns_1>
+<pc_pricecolumns_2></pc_pricecolumns_2>
+</pdfparams>

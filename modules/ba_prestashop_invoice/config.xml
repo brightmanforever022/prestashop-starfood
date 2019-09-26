@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ba_prestashop_invoice</name>
+	<displayName><![CDATA[Invoice, Delivery Template Builder]]></displayName>
+	<version><![CDATA[1.1.16]]></version>
+	<description><![CDATA[Author: buy-addons]]></description>
+	<author><![CDATA[buy-addons]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

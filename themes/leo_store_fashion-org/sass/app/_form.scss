@@ -1,0 +1,34 @@
+.buttons{
+  @include clearfix();
+  padding: 20px 0; 
+  .left{
+       float: left;
+  }
+  .right{
+      float: right;
+  }
+
+}
+
+input[type="file"] {
+  line-height: 20px;
+}
+
+.btn-outline-inverse{
+  @include button-variant-outline($btn-default-color, $theme-color-default, $theme-color-default, $btn-default-color, $theme-color-secondary, $theme-color-secondary);
+} 
+.btn-outline{
+  @include button-variant-outline($btn-default-color, $theme-color-secondary, $theme-color-secondary, $btn-default-color, $theme-color-default, $theme-color-default);
+  text-transform: uppercase;
+  font-size: $font-size-base - 3;
+  padding: 8px 30px;
+} 
+input, select{
+  outline: none;
+}
+.form-control{
+  @include box-shadow(none);
+}
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"]{
+  margin: 2px 4px 0 0 !important;
+}

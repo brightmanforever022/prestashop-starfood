@@ -1,0 +1,296 @@
+
+.visitors-np-list td,
+.customers-list td,
+.added-list td {
+	font-weight: normal;
+}
+
+.visitors-np-list th.image,
+.customers-list th.image,
+.added-list th.image {
+	width: 5.408124373119358074222668004012%;
+}
+
+.customers-list th.firstname,
+.visitors-np-list th.firstname,
+.added-list th.firstname {
+	width: 13.741223671013039117352056168506%;
+}
+
+.added-list th.lastname,
+.visitors-np-list th.lastname,
+.customers-list th.lastname {
+	width: 13.640922768304914744232698094283%;
+}
+.added-list th.email,
+.visitors-np-list th.email,
+.customers-list th.email {
+	width: 24.783350050150451354062186559679%;
+}
+
+.added-list th.shop_name,
+.visitors-np-list th.shop_name,
+.customers-list th.shop_name {
+	width: 27.281845536609829488465396188566%;
+}
+
+.added-list th.np-active,
+.visitors-np-list th.np-active,
+.customers-list th.newsletter {
+	width: 6.976744186046511627906976744186%;
+}
+
+.added-list td.np-active,
+.visitors-np-list td.np-active,
+.customers-list td.newsletter {
+	text-align: center;
+}
+
+.added-list th.actions,
+.customers-list th.actions {
+	width: 8.155635%;
+}
+
+.customers-list th.chackbox,
+.customers-list td.chackbox,
+.visitors-np-list th.chackbox,
+.visitors-np-list td.chackbox,
+.added-list th.chackbox,
+.added-list td.chackbox {
+	border-right: none !important;
+	width: 13px;
+}
+
+.customers-list th.image,
+.customers-list td.image,
+.visitors-np-list th.image,
+.visitors-np-list td.image,
+.added-list th.image,
+.added-list td.image {
+	border-left: none;
+	border-right: none;
+}
+
+.added-list {
+	z-index: 9996;
+}
+
+.visitors-np-list {
+	z-index: 9997;
+}
+
+.visitors-list {
+	z-index: 9998;
+}
+
+.customers-list {
+	z-index: 9999;
+}
+
+.customers-list-box {
+	z-index: 10;
+}
+
+.visitors-list-box {
+	z-index: 9;
+}
+
+.visitors-np-list-box {
+	z-index: 8;
+}
+
+.added-list-box {
+	z-index: 7;
+}
+
+.gk-onfilter,
+.gk-onfilter:hover {
+	border: solid 1px #49b2ff !important;
+}
+
+.customers-header,
+.visitors-header,
+.visitors-np-header,
+.added-header {
+	font-weight: normal !important;
+}
+
+.customers-search-div,
+.visitors-search-div,
+.visitors-np-search-div,
+.added-search-div {
+	position: relative;
+	width: 20% !important;
+	display: inline-block;
+}
+
+.customers-search,
+.visitors-search,
+.visitors-np-search,
+.added-search {
+	width: 100% !important;
+	margin: 0 6px !important;
+	text-align: left !important;
+}
+
+.customers-search-loading,
+.visitors-search-loading,
+.visitors-np-search-loading,
+.added-search-loading {
+	background: url(../../img/ajax_loader.gif) left top no-repeat;
+	width: 16px;
+	height: 16px;
+	position: absolute !important;
+	right: -11px;
+	top: 6px;
+}
+
+.visitors-list td {
+	font-weight: normal;
+}
+
+.visitors-list th.image {
+	width: 2.408124373119358074222668004012%;
+}
+
+.visitors-list th.email {
+	width: 27.638640429338103756708407871199%;
+}
+
+.visitors-list th.shop_name {
+	width: 27.459749552772808586762075134168%;
+}
+
+.visitors-list th.ip {
+	width: 26.833631484794275491949910554562%;
+}
+
+.visitors-list th.np-active {
+	width: 6.976744186046511627906976744186%;
+}
+
+.visitors-list td.np-active {
+	text-align: center;
+}
+
+.visitors-list th.actions {
+	width: 8.155635%;
+}
+
+.visitors-list th.chackbox,
+.visitors-list td.chackbox {
+	border-right: none;
+	width: 1%;
+}
+
+.visitors-list th.image,
+.visitors-list td.image {
+	border-left: none;
+	border-right: none;
+}
+
+.data-grid-div {
+	position: relative;
+}
+
+.category-filters .gk-content {
+	padding: 0;
+	overflow-y: scroll;
+	height: 500px;
+}
+.category-filters .ac_results {
+	z-index: 99999 !important;
+}
+
+.btn-bounced-emails {
+	float: right;
+	margin-top: 0 !important;
+}
+
+.label-spacing {
+	margin-bottom: 5px;
+	clear: both;
+}
+
+.dl-inline {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.dl-inline dt,
+.dl-inline dd {
+	display: inline-block;
+	margin-top: 0;
+	margin-bottom: 0;
+	height: 16px;
+	line-height: 16px;
+	vertical-align: middle;
+}
+
+.dl-inline dt label,
+.dl-inline dd label {
+
+}
+
+.dl-inline dt input,
+.dl-inline dd input {
+	margin-top: 2px;
+}
+
+label.in-win {
+	font-size: 12px !important;
+	color: #333 !important;
+}
+
+.exclusion-email-send-history {
+	
+}
+
+.exclusion-email-send-history th.checkbox {
+	width: 4.2003231017770597738287560581583%;
+}
+
+.exclusion-email-send-history th.template,
+.exclusion-email-send-history td.template {
+	border-left: none;
+}
+
+.exclusion-email-send-history th.checkbox,
+.exclusion-email-send-history td.checkbox {
+	border-right: none;
+}
+
+.exclusion-email-send-history th.template {
+	width: 22.617124394184168012924071082391%;
+}
+
+.exclusion-email-send-history th.date {
+	width: 18.416801292407108239095315024233%;
+}
+
+.exclusion-email-send-history th.emails-count {
+	width: 13.691437802907915993537964458805%;
+}
+
+.exclusion-email-send-history th.emails-success {
+	width: 13.691437802907915993537964458805%;
+}
+
+.exclusion-email-send-history th.emails-error {
+	width: 13.691437802907915993537964458805%;
+}
+
+.exclusion-email-send-history th.type {
+	width: 13.691437802907915993537964458805%;
+}
+
+.exclusion-email-send-history td.emails-count,
+.exclusion-email-send-history td.emails-success,
+.exclusion-email-send-history td.emails-error,
+.exclusion-email-send-history td.type {
+	text-align: center;
+}
+
+.btn-add-exclusion {
+	margin-top: 0;
+}

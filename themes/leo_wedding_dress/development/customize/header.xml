@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<themeeditor>
+	<author>leotheme</author>
+	<name>Live Theme Editor</name>
+	<configs>
+		<item>
+			<block>header_style</block>
+			<title>Header Style</title>
+			<default>classic</default>
+			<option>
+				 <name>Default</name>
+				 <id>header-default</id>
+			</option>
+			<option>
+				 <name>Simple</name>
+				 <id>header-simple</id>
+			</option>
+			<option>
+				 <name>Transparent</name>
+				 <id>header-transparent</id>
+			</option>
+			<option>
+				 <name>Stack: Right</name>
+				 <id>header-stack-right</id>
+			</option>
+			
+		</item>
+	</configs>
+</themeeditor>

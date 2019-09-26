@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdfparams>
+<compatibility>1.4.0.0</compatibility>
+<name><![CDATA[settings]]></name>
+<title><![CDATA[My catalog]]></title>
+<filename><![CDATA[settings]]></filename>
+<legalnotice><![CDATA[<p>All content of this catalog is owned or controlled by My Company and is protected by worldwide copyright laws.</p>]]></legalnotice>
+<footer><![CDATA[<p>This catalog is provided by My Company.</p>]]></footer>
+<idlang>1</idlang>
+<firstpage>1</firstpage>
+<tocdisplay>1</tocdisplay>
+<pagenumber>1</pagenumber>
+<format><![CDATA[list00]]></format>
+<formatname>
+	<fr><![CDATA[Liste (Ref-Nom-UPC-Stock-Prix)]]></fr>
+	<en><![CDATA[B2B List (Pic-SKU-Price-Rec Price(UPC))]]></en>
+</formatname>
+<uselinks>1</uselinks>
+<usecategcover>1</usecategcover>
+<usecategheader>1</usecategheader>
+<orderby><![CDATA[price_asc]]></orderby>
+<doctitle><![CDATA[My catalog]]></doctitle>
+<docsubject><![CDATA[The subject]]></docsubject>
+<doccreator><![CDATA[My Company]]></doccreator>
+<author><![CDATA[My Company]]></author>
+<categlist><![CDATA[1]]></categlist>
+<currency>1</currency>
+<vatinc>1</vatinc>
+<exportfile>1</exportfile>
+<specialoptions><![CDATA[
+$specialoptionsContent = '
+		<div style="clear: both;">
+			<label>'.$this->mod->t('Show UVP/RRP column:').'</label>
+			<div class="margin-form" style="padding-top:5px">
+				<input type="checkbox" name="show_uvprrp_column" value="1" '.($showUVPRRPColumn ? 'checked="checked"' : '').'/><br/><br/>
+				'.$this->mod->t('If this box is ticked, UVP/RRP column will be shown, otherwise not.').'
+			</div>
+		</div>';
+]]></specialoptions>
+<specialoptionsgetval><![CDATA[
+    $showUVPRRPColumn = (int) (isset($pdfConfig->show_uvprrp_column)?$pdfConfig->show_uvprrp_column:1);
+]]></specialoptionsgetval>
+<specialoptionssetval><![CDATA[
+    $content.= '<show_uvprrp_column>'.Tools::getValue('show_uvprrp_column','').'</show_uvprrp_column>'."\n";
+]]></specialoptionssetval>
+</pdfparams>

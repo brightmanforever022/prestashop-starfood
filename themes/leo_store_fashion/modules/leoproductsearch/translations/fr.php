@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{leoproductsearch}leo_store_fashion>leoproductsearch_78f9aa1218f71a20d84b4d719030f44f'] = 'Recherche rapide de produits par catégorie bloc';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leoproductsearch_da80ebe916ef5d16126e76660d38b193'] = 'Ajoute un champ de recherche rapide des produits sur votre site.';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leosearch_13348442cc6a27032d2b4aa28b75a5d3'] = 'Recherche';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leosearch_ce1b00a24b52e74de46971b174d2aaa6'] = 'Recherche de produits:';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leosearch_a6a2a55bea8760389dfca77132905b7c'] = 'Toutes Catégories';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leosearch_top_13348442cc6a27032d2b4aa28b75a5d3'] = 'Recherche';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leosearch_top_ce1b00a24b52e74de46971b174d2aaa6'] = 'Recherche de produits:';
+$_MODULE['<{leoproductsearch}leo_store_fashion>leosearch_top_a6a2a55bea8760389dfca77132905b7c'] = 'Toutes les catégories';
+$_MODULE['<{leoproductsearch}leo_store_fashion>nbr-product-page_498f79c4c5bbde77f1bceb6c86fd0f6d'] = 'Montrer';
+$_MODULE['<{leoproductsearch}leo_store_fashion>nbr-product-page_4f5d5f295ddc8fd8673e74dd5fbe114a'] = 'par page';
+$_MODULE['<{leoproductsearch}leo_store_fashion>pagination_eb92025cb8c66f1850c13a9b602a1856'] = 'Montre tout';
+$_MODULE['<{leoproductsearch}leo_store_fashion>pagination_dd1f775e443ff3b9a89270713580a51b'] = 'Précédent';
+$_MODULE['<{leoproductsearch}leo_store_fashion>pagination_10ac3d04253ef7e1ddc73e6091c0cd55'] = 'Suivant';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-compare_7eece51cf3938103677db7a5051ef8f5'] = 'Comparer';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-compare_216adaf4e98dc62ec3abeab51b9fc57f'] = 'S\'il vous plaît sélectionner au moins un produit';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_df25de42c84837baf5fa15049a8bc764'] = 'Vue:';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_5174d1309f275ba6f275db3af9eb3e18'] = 'Grille';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_4ee29ca12c7d126654bd0e5275de6135'] = 'Liste';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_33d8042bd735c559cc3206f4bc99aedc'] = 'Trier par';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_7f284e119af971a952e4b29f0875fc60'] = 'Prix: Plus bas en premier';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_03590cca8220917788b5a6c25fa39a15'] = 'Prix: décroissant';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_5820b5a5298779a25d98c41173b931bd'] = 'Nom du produit: de A à Z';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_4f4f552919d5a7ad3435b5fdb7fcae61'] = 'Nom du produit: Z à A';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_fcebe56087b9373f15514831184fa572'] = 'En stock';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_c9e06afd258999a1c59d9fce7d9c86c0'] = 'Référence: Plus bas en premier';
+$_MODULE['<{leoproductsearch}leo_store_fashion>product-sort_526e1c4e51dca91d2aeea20808766e74'] = 'Référence: Plus haut en premier';
+$_MODULE['<{leoproductsearch}leo_store_fashion>search_13348442cc6a27032d2b4aa28b75a5d3'] = 'Recherche';
+$_MODULE['<{leoproductsearch}leo_store_fashion>search_05cf990f79d935b0ea6105855adef686'] = 'Retour à la page précédente';
+$_MODULE['<{leoproductsearch}leo_store_fashion>search_b2c56c8b57680e576c61c1b5df0d0c2d'] = 'Aucun résultat n\'a été trouvé pour votre recherche';
+$_MODULE['<{leoproductsearch}leo_store_fashion>search_a4bb6bf91165c149d73930f43ad4ef69'] = 'S\'il vous plaît entrer un mot-clé de recherche';

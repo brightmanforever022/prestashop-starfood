@@ -1,0 +1,22 @@
+/*
+* 2008-2014 Librasoft
+*
+*  @author Librasoft <contact@librasoft.fr>
+*  @copyright  2008-2014 Librasoft
+*  @version  Release: $Revision: 1.0 $
+*  International Registered Trademark & Property of Librasoft
+*
+*  For support feel free to contact us on our forum at http://www.librasoft.fr/forum/
+*
+*/
+
+CHANGELOG : 
+Rev 1.0 (17.06.2014) :
+	- Add Product Comment Form Feature
+	- Add compatibility for v1.6
+	
+Rev 0.2 (12.01.2014) :
+	- Fix bug on MultiLang Shops
+
+Rev 0.1 (12.02.2013) :
+	- Initial Release

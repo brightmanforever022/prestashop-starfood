@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[invoice 13]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon13.png]]></thumbnail>
+	<show_shipping><![CDATA[N]]></show_shipping>       <!-- Y: Yes, N: No -->
+	<show_pagination><![CDATA[N]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<show_discount><![CDATA[N]]></show_discount>       <!-- Y: Yes, N: No -->
+	<enable_landscape ><![CDATA[N]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[0]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<div style="width: 100%; padding: 0px; margin: 0px auto; height: auto;">
+		<table style="width: 100%; margin: 0px auto;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 50%; height: 30px; padding-left: 10px;"><span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif; color: #676f6f;">Settember 12/2015</span></td>
+		<td style="width: 50%; height: 30px; text-align: right; padding-top: 10px; padding-bottom: 10px;"><img src="http://taydotech.com/phamkhanhdong/img_invoice_template/invoice_3/logo-1.png" alt="" width="201" height="52" /></td>
+		</tr>
+		<tr>
+		<td style="width: 50%; height: 30px; padding-top: 10px; padding-left: 10px; padding-bottom: 30px;"><span style="display: block; font-size: 16px; font-family: 'Arial',Georgia,serif; color: #5e6db9;">INVOICE</span></td>
+		<td style="width: 50%; height: 30px; text-align: right; padding-top: 30px; padding-bottom: 10px; vertical-align: top;" rowspan="2">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="width: 35px;"> </td>
+		<td style="width: 65%; text-align: right; background: #5e6db9; padding: 20px 10px 20px 10px;"><span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif; color: #ffffff;"> PICPOC Photography<br /> 111 pktre lante<br /> Offce 28<br /> Bangkok ,new your 11201<br /> www.yoursite.com<br /> info@yoursite.com </span></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<td style="width: 50%; height: 30px; padding-left: 10px;"><span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">CLIENT:</span><span style="color: #7f8c8d; display: inline-block;"> Conpany Name</span></span><br /> <span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">ADDRESS:</span><span style="color: #7f8c8d; display: inline-block;"> 99Sample Street, NY 1234</span></span><br /> <span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">PTOJECT:</span><span style="color: #7f8c8d; display: inline-block;"> Project Name</span></span><br /> <span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">INVOICE #:</span><span style="color: #7f8c8d; display: inline-block;"> 01-1234-2015</span></span><br /> <span style="display: block; font-size: 11px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">DUE DATE:</span><span style="color: #7f8c8d; display: inline-block;"> 31/11/2015</span></span></td>
+		</tr>
+		</tbody>
+		</table>
+		[products_list]
+		<table style="width: 100%; ; display: block; margin: 0px auto; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr style="height: 30px; background: #e5e4e4;">
+		<td style="width: 20%;"> </td>
+		<td style="width: 35%;"> </td>
+		<td style="width: 15%;"> </td>
+		<td style="width: 15%; padding-right: 10px; padding-top: 15px; padding-bottom: 5px; text-align: left;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">SUB TOTAL</span></td>
+		<td style="width: 15%; padding-right: 0px; text-align: center; padding-top: 15px;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">[order_subtotal]</span></td>
+		</tr>
+		<tr style="height: 30px; background: #e5e4e4;">
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px; text-align: left;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">TAX VAT</span></td>
+		<td style="padding-right: 0px; text-align: center;"><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">[order_tax]</span></td>
+		</tr>
+		<tr style="height: 30px; background: #e5e4e4;">
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td style="padding-right: 10px; padding-top: 5px; padding-bottom: 15px; text-align: left;"><strong><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">TOTAL :</span></strong></td>
+		<td style="padding-right: 0px; text-align: center; padding-bottom: 15px;"><strong><span style="font-family: 'Arial',Georgia,serif; display: block; font-size: 12px; color: #424747;">[order_total]</span></strong></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; margin-top: 0px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 20px; padding-top: 5px; padding-bottom: 5px;"><span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">Payment method:</span><span style="color: #7f8c8d; display: inline-block;"> lorem ipsum</span></span><br /> <span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">Account number:</span><span style="color: #7f8c8d; display: inline-block;"> PICPOC Photography</span></span><br /> <span style="display: block; font-size: 9px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">ID:</span><span style="color: #7f8c8d; display: inline-block;"> 2014 1123 5457</span></span></td>
+		</tr>
+		</tbody>
+		</table>
+		</div>
+	]]></pdf_content>
+	<pdf_footer><![CDATA[
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="text-align: center; width: 100%; height: 20px; padding-top: 5px; padding-bottom: 5px; padding-left: 22px;"><em><span style="display: block; font-size: 16px; font-family: 'Arial',Georgia,serif;"><span style="color: #5e6db9; display: inline-block;">Thanh you for your businenss</span></span></em></td>
+		</tr>
+		</tbody>
+		</table>
+		<table style="width: 100%; ; display: block; margin-left: auto; margin-right: auto; margin-top: 15px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+		<tbody>
+		<tr>
+		<td style="width: 100%; height: 20px; padding-top: 5px; padding-bottom: 5px;"><span style="display: block; font-size: 10px; font-family: 'Arial',Georgia,serif;"><span style="color: #000000; display: inline-block;">TEMS</span><span style="padding-left: 30px; color: #7f8c8d; display: inline-block;">&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore </span></span></td>
+		</tr>
+		</tbody>
+		</table>
+	]]></pdf_footer>
+	<customize_css><![CDATA[
+		.product_list_title_1{width:20%;font-family: 'Arial',Georgia,serif;text-align:left;}
+		.product_list_title_2{width:35%;font-family: 'Arial',Georgia,serif;text-align:left;}
+		.product_list_title_3{width:15%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_4{width:15%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_5{width:15%;font-family: 'Arial',Georgia,serif;}
+		.product_list_title_1,.product_list_title_2,.product_list_title_3,.product_list_title_4,.product_list_title_5{font-size:11px;height:40px;}
+		/***/
+		.product_price_without_old_price,.content_QTY,.product_total{text-align:center;color: #424747;font-size:12px;font-family: 'Arial',Georgia,serif;}
+		.product_name{padding-left:10px;text-align:left;height: 80px;color: #424747;font-size:12px;font-family: 'Arial',Georgia,serif;padding-right:10px;}
+		/**/
+		#product_list_tempalte_invoice tr:nth-child(odd){background: #ffffff;}
+		#product_list_tempalte_invoice tr:nth-child(even){background: #f6f6f6;}
+		.product_list_title{padding:7px;}
+		.product_list_content_1{padding:7px;}
+		.product_img{width:50px;height:50px;}
+	]]></customize_css>
+	<products_template columns_size="5">
+		<col>
+			<col_title><![CDATA[SERVICE]]></col_title>
+			<col_content><![CDATA[9]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[DESCRIPTION]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[PRICE]]></col_title>
+			<col_content><![CDATA[4]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[QTY]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[TOTAL]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

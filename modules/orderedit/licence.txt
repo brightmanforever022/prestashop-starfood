@@ -1,0 +1,17 @@
+/**
+ * OrderEdit
+ *
+ * @category  Module
+ * @author    silbersaiten <info@silbersaiten.de>
+ * @support   silbersaiten <support@silbersaiten.de>
+ * @copyright 2015 silbersaiten
+ * @version   1.0.0
+ * @link      http://www.silbersaiten.de
+ * @license   See joined file licence.txt
+ */
+
+You should always comply with terms and conditions of use:
+http://addons.prestashop.com/TandC%20Addons%20customers%20the%2005-03-2013.pdf
+
+Vous devriez toujours respecter les conditions d'utilisations suivantes:
+http://addons.prestashop.com/CGV%20Addons%20utilisateurs%20le%2005-03-2013.pdf

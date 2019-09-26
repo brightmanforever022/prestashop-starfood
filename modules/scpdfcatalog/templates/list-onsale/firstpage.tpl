@@ -1,0 +1,1 @@
+<img src="{$scpdfpath}modules/scpdfcatalog/templates/list-onsale/couverture.jpg" height="600" />

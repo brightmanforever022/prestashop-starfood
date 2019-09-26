@@ -1,0 +1,47 @@
+.np-left-side {
+	margin-bottom: 15px;
+}
+
+#tab.newsletter a {
+	color: #555;
+}
+
+.gk-content .control-label,
+#newsletterpro .control-label {
+	display: inline-block;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	text-align: right;
+}
+
+.control-label.padding-top {
+	padding-top: 9px;
+}
+
+.gk-data-grid tbody input[type="checkbox"] {
+	margin-top: 5px;
+}
+
+.gk-content .form-group .help-block,
+#newsletterpro .form-group .help-block {
+	text-align: left;;
+}
+
+tr.selected i:hover {
+	color: white;
+}
+
+i.icon-tab {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    font-size: 26px;
+    background: transparent;
+    background-size: 26px;
+    background-position: center;
+}
+
+.gk-page-input {
+	display: inline-block !important;
+}

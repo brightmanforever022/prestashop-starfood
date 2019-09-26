@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[Invoice - EU electronic services]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon_EU_electronic.png]]></thumbnail>
+	<show_shipping><![CDATA[N]]></show_shipping>       <!-- Y: Yes, N: No -->
+	<show_pagination><![CDATA[N]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<show_discount><![CDATA[N]]></show_discount>       <!-- Y: Yes, N: No -->
+	<enable_landscape ><![CDATA[N]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[0]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<div style="width: 764px; float: left; background: white; padding: 0;">
+<table style="margin-bottom: 20px; width: 100%; float: left;">
+<tbody>
+<tr>
+<td><img src="http://buy-addons.com/demo/invoice_pro/logo.png" alt="" /></td>
+<td style="text-align: right; float: right;">
+<table style="text-align: right;">
+<tbody>
+<tr>
+<td>INVOICE # / <strong> <span style="font-family: arial;">[invoice_number]</span></strong></td>
+</tr>
+<tr>
+<td>ORDER # / <strong> <span style="font-family: arial;">[order_number]</span></strong></td>
+</tr>
+<tr>
+<td>ORDER DATE / <strong> <span style="font-family: arial;">[order_date]</span></strong></td>
+</tr>
+<tr>
+<td>PAYMENT / <strong> <span style="font-family: arial;">[order_payment_method]</span> </strong></td>
+</tr>
+<tr>
+<td>SHIPPING / <strong> <span style="font-family: arial;">[order_carrier]</span></strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; float: left;">
+<tbody>
+<tr>
+<td style="font-family: arial; font-size: 11pt; width: 33.33%; vertical-align: top;">
+<div><strong>BILL TO</strong></div>
+<br />
+<div>[billing_firstname] [billing_lastname]</div>
+<div>[billing_address]</div>
+<div>[billing_city] - [billing_zipcode] [billing_state]</div>
+<div>[billing_homephone]</div>
+<div>[billing_mobile_phone]</div>
+</td>
+<td style="font-family: arial; font-size: 11pt; width: 33.33%; vertical-align: top;">
+<div><strong>SHIP TO</strong></div>
+<br />
+<div>[delivery_firstname] [delivery_lastname]</div>
+<div>[delivery_address]</div>
+<div>[delivery_city] - [delivery_zipcode] [delivery_state]</div>
+<div>[delivery_homephone]</div>
+<div>[delivery_mobile_phone]</div>
+</td>
+<td style="font-family: arial; font-size: 11pt; width: 33.33%; vertical-align: top;">
+<div><strong>TERMS & NOTES</strong></div>
+<br /> <span style="color: #333333;"><em>[order_notes] </em></span></td>
+</tr>
+</tbody>
+</table>
+<div style="width: 100%; float: left;">[products_list]</div>
+<div style="width: 20%; float: left;"></div>
+<div style="width: 80%; float: right;">[tax_table]</div>
+<div style="width: 20%; float: left;"></div>
+<div style="width: 80%; float: right;">[individual_tax_table]</div>
+<div style="padding: 15pt 0 10px 10px; width: 20%; float: right;">
+<div style="border: 2px solid #000; text-align: center; padding: 7px; font-weight: bold; font-family: arial; font-size: 11pt;">Total: [order_total]</div>
+</div>
+</div>
+	]]></pdf_content>
+	<pdf_footer><![CDATA[
+		<div style="width: 100%;">
+		<table style="width: 100%;">
+		<tbody>
+		<tr>
+		<td style="text-align: center; height: 30px;" colspan="2"> </td>
+		</tr>
+		<tr><th style="font-size: 18pt; text-transform: uppercase; font-family: arial; font-weight: bold; width: 50%;" colspan="2">THANK YOU</th></tr>
+		<tr>
+		<td style="padding-right: 10px; width: 50%; text-align: right; float: right; border-right: 1px solid #999999;">
+		<table>
+		<tbody>
+		<tr>
+		<td style="font-family: arial; font-size: 11pt; text-align: right;">Company Name</td>
+		</tr>
+		<tr>
+		<td style="font-family: arial; font-size: 11pt; text-align: right;">16, Main street 2nd floor Miami,</td>
+		</tr>
+		<tr>
+		<td style="font-family: arial; font-size: 11pt; text-align: right;">Florida 33133 United States</td>
+		</tr>
+		<tr>
+		<td style="font-family: arial; font-size: 11pt; text-align: right;">https://yourstore.com</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		<td style="padding-left: 10px; width: 50%;">
+		<table>
+		<tbody>
+		<tr>
+		<td>&nbsp;<img src="http://taydomailer.com/an/ba_invoice/icon_facebook.png" alt="" width="12" height="23" /></td>
+		<td>https://facebook.com/your_facebook</td>
+		</tr>
+		<tr>
+		<td><img src="http://taydomailer.com/an/ba_invoice/icon_twitter.png" alt="" width="20" height="14" /></td>
+		<td>Twitter: Twitter Name</td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		<tr>
+		<td style="text-align: center; height: 30px;" colspan="2"> </td>
+		</tr>
+		</tbody>
+		</table>
+		</div>
+	]]></pdf_footer>
+	<customize_css><![CDATA[
+		.product_list_title{
+			font:600 10pt arial;padding-top: 7px;padding-right: 7px;
+			padding-bottom: 7px;padding-left: 7px;
+			font-family:arial;font-weight:bold;text-align: left;
+		}
+		#product_list_tempalte_invoice{
+			width:100%;margin-top:27pt;
+			border-top:3px solid #000;border-bottom:2px solid #EFEFEF;
+		}
+		.product_list_content{
+			padding: 7pt;font:400 10pt arial;text-align:left;font-family:arial;
+		}
+		#table_tax{
+			width: 100%;
+			float: right;
+			border-bottom: 2px solid #EFEFEF;
+			padding-bottom: 10px;
+			padding-top:15pt;
+		}
+		#table_tax .table_tax_title,#table_tax .table_tax_content{
+			text-align:right;
+			font-family:arial;
+			font-size:10pt;width:20%;
+		}
+		#table_tax_group_by_id_tax{
+			width: 100%;
+			float: right;
+			padding-top:10pt;
+		}
+		#table_tax_group_by_id_tax .title_tax,#table_tax_group_by_id_tax .content_tax{
+			width:20%;
+			text-align:right;
+			font-family:arial;
+			font-size:10pt;
+		}
+
+		#table_tax_group_by_id_tax tr:nth-child(3) .content_tax{
+		padding-bottom:10pt;
+		}
+		#table_tax .table_tax_content{
+		padding-bottom: 2px;
+		}
+		#table_tax_group_by_id_tax .content_tax{
+		padding-top:2px;
+		}
+		#table_tax_group_by_id_tax .total{
+			border-top: 2px solid #000;
+			padding-top: 10px;
+		}
+		.product_img{width:50px;height:50px;}
+	]]></customize_css>
+	<products_template columns_size="6">
+		<col>
+			<col_title><![CDATA[Description]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Reference]]></col_title>
+			<col_content><![CDATA[12]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Qty]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Tax Name]]></col_title>
+			<col_content><![CDATA[15]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Price]]></col_title>
+			<col_content><![CDATA[3]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Total]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

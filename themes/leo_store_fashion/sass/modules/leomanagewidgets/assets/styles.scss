@@ -1,0 +1,143 @@
+@import "compass";
+@import "theme_variables";
+
+
+// Widget HTML
+.widget{
+  .widget-html{
+    .free-ship{
+      color: $theme-color-default;
+    }
+    .price-html{
+      color: #e34c4c;
+    }
+    .box-outer{
+      border-color: $border-color;
+      @include rtl-border-width(1px, 0px, 1px, 1px);
+      @include rtl-border-style(solid, none, solid, solid);
+      margin-bottom: 40px;
+      color: $theme-color-secondary;
+      .reassurances-center {
+        padding: 35px 0;
+        text-align: center;
+        @include rtl-border-right(1px solid $border-color);
+        .icon-name{
+          font-size: 60px;   
+          display: inline-block;
+        }
+        .description {
+          display: inline-block;
+          text-align: left;
+          h4{
+            font-size: $font-size-base + 1;
+            text-transform: uppercase;
+            font-family: $font-family-septenary;
+          }
+        }
+        &:hover{
+          color: $theme-color-default;
+          cursor: pointer;
+        }
+      }
+    }  
+  }
+}
+#topbar{
+  .widget{
+    .widget-html{
+      p{
+        padding: 17px 0;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+.widget-html{
+  .widget-title-sub{
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+}
+.banner{
+  .row{
+    margin: 0;
+    .widget{
+      padding: 0;
+      img{
+        width: 100%;
+      }
+    }
+  }
+}
+// Tab nav pills
+.block{
+  .widget-tabs{
+    position: relative;                                                             
+    text-transform: $block-module-heading-transform;
+    font-family: $block-module-heading-font-family;    
+    padding: $block-module-heading-padding;         
+    font-size: $block-module-heading-font-size;
+    border-top: $block-module-heading-border;
+    border-bottom: $block-module-heading-border;  
+    margin: 0 0 $grid-gutter-width;  
+    &:after{
+        background-color: $border-color;
+        height: 1px;
+        width: 100%;
+        top: 2px;
+        left: 0;
+        content: "";
+        position: absolute;
+    }
+    li{
+      position: relative;
+      @include rtl-border-left($block-module-heading-border);
+      @include rtl-padding(0, 20px,0, 20px); 
+      a{
+        color: #cccccc;
+      }
+      &:first-child{
+        border: none;
+        @include rtl-padding-left(0);
+        &.active,
+        &:hover{
+          &:before{
+            @include rtl-left(0);
+          }
+        }
+      }
+      &.active,
+      &:hover{
+        a{
+          color: $theme-color-default;
+        }
+        &:before {
+          height: 3px;
+          width: 35px;
+          background-color: $theme-color-default;
+          bottom: -16px;
+          @include rtl-left(20px);
+          content: "";
+          position: absolute;
+        }  
+      }
+    }
+  }
+}
+
+// Slideshow
+.widget.slide_fullwidth{
+  background-image: url("../images/bg_slide.png");
+  background-attachment: scroll;
+  background-size: auto;
+  background-position: 50% 0%;
+  background-repeat: repeat-x;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 0px 1000px;
+  @include rtl-margin-left(-1000px);
+  overflow: hidden;
+  @include box-sizing(content-box);
+  float: none;
+}

@@ -1,0 +1,7 @@
+[{shop_url}] 
+
+Hallo Admin,
+New customer {firstname} {lastname}, with email {email} registered in your shop {shop_name}.
+
+
+

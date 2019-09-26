@@ -1,0 +1,157 @@
+.newsletter_pro_subscribe_block {
+	margin-bottom: 10px;
+}
+
+.newsletter_pro_subscribe_block.displayFooter {
+/*	overflow: hidden;
+	width: 50%;
+	float: left;
+	padding: 13px 15px 7px 15px;
+	margin-bottom: 0;*/
+}
+
+.newsletter_pro_subscribe_block.displayFooter h4 {
+/*	background: none;
+	float: left;
+	padding: 7px 16px 5px 0;
+	text-transform: none;
+	font-size: 21px !important;
+	line-height: 25px;
+	border: none;*/
+}
+
+.newsletter_pro_subscribe_block.displayFooter h4.title_block {
+	color: white;
+}
+
+.newsletter_pro_subscribe_block.displayFooter h4.popup-title {
+	color: #333333;
+}
+
+.newsletter_pro_subscribe_block.displayFooter .button {
+	color: white !important;
+}
+
+.newsletter_pro_subscribe_block .form-group .newsletter-input {
+	display: block;
+	width: 100%;
+	height: 32px;
+	padding: 6px 12px;
+	font-size: 13px;
+	line-height: 1.42857;
+	color: #9c9b9b;
+	vertical-align: middle;
+	background-color: white;
+	border: 1px solid #d6d4d4;
+	-webkit-border-radius: 0px;
+	   -moz-border-radius: 0px;
+	        border-radius: 0px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	-webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+	-moz-transition: border-color ease-in-out 0.15s, -moz-box-shadow ease-in-out 0.15s;
+	  -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+	     transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+.newsletter_pro_subscribe_block.displayRightColumn .form-group .newsletter-input,
+.newsletter_pro_subscribe_block.displayLeftColumn .form-group .newsletter-input {
+	height: 45px;
+	line-height: 30px;
+	padding: 5px 43px 5px 12px;
+	display: inline-block;
+	float: left;
+}
+
+.newsletter_pro_subscribe_block.displayFooter .form-group .newsletter-input {
+	/*height: 45px;*/
+	/*line-height: 30px;*/
+	/*max-width: 267px;*/
+	background: #3c3c3c;
+	border-color: #515151;
+	color: white;
+	padding: 5px 43px 5px 12px;
+	display: inline-block;
+	float: left;
+}
+
+.newsletter_pro_subscribe_block.displayRightColumn .form-group .button-small:focus,
+.newsletter_pro_subscribe_block.displayRightColumn .form-group .form-control:focus,
+.newsletter_pro_subscribe_block.displayLeftColumn .form-group .button-small:focus,
+.newsletter_pro_subscribe_block.displayLeftColumn .form-group .form-control:focus,
+.newsletter_pro_subscribe_block.displayFooter .form-group .button-small:focus,
+.newsletter_pro_subscribe_block.displayFooter .form-group .form-control:focus {
+	-webkit-box-shadow: black 0px 0px 0px;
+	-moz-box-shadow: black 0px 0px 0px;
+	box-shadow: black 0px 0px 0px;
+	outline: none;
+}
+
+.newsletter_pro_subscribe_block.displayRightColumn .form-group .button-small,
+.newsletter_pro_subscribe_block.displayLeftColumn .form-group .button-small,
+.newsletter_pro_subscribe_block.displayFooter .form-group .button-small {
+	margin-left: -43px;
+	border: none;
+	background: none;
+	text-align: center;
+	color: #908f8f;
+	padding: 8px;
+}
+
+.newsletter_pro_subscribe_block.displayFooter .form-group .button-small:hover {
+	color: white !important;
+}
+
+.newsletter_pro_subscribe_block.displayRightColumn .form-group .button-small:before,
+.newsletter_pro_subscribe_block.displayLeftColumn .form-group .button-small:before,
+.newsletter_pro_subscribe_block.displayFooter .form-group .button-small:before {
+	content: "\f138";
+	font-family: "FontAwesome";
+	font-size: 28px;
+	line-height: 28px;
+}
+
+.newsletter_pro_subscribe_block.displayRightColumn .form-group .button-small span,
+.newsletter_pro_subscribe_block.displayLeftColumn .form-group .button-small span,
+.newsletter_pro_subscribe_block.displayFooter .form-group .button-small span {
+	display: none;
+}
+
+.newsletter_pro_subscribe_block.displayFooter .nps-popup .form-inputs {
+	padding: 0;
+}
+
+.newsletter_pro_subscribe_block.displayFooter .submit-newsletterpro-subscribe {
+
+}  
+
+.np-input-email {
+	position: relative;
+}
+
+.newsletterpro-subscribe-button-popup {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-size: 20px;
+}
+
+.newsletter_pro_subscribe_block.np-footer-section-sm {
+    margin-top: 20px !important;
+    margin-bottom: 0 !important;
+}
+
+.newsletter_pro_subscribe_block.np-footer-section-sm h4 {
+	float: left !important;
+	font-size: 21px !important;
+    line-height: 25px !important;
+}
+
+#newsletter_pro_subscribe_block.np-footer-section-xs {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}

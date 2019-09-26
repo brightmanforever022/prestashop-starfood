@@ -1,0 +1,60 @@
+@import "compass";
+@import "theme_variables";
+
+
+$link-hover-color: 					#fb5a29;
+
+$theme-color-default: 				#fb5a29;
+
+$block-module-highlighted-bg:       #fb5a29;
+$search-icon-color:                 #fb5a29;
+$contact-icon-hover-bg:             #fb5a29;
+$headermain-color-hover:            #fb5a29; 
+$topbar-link-hover-color:           #fb5a29;
+
+$breadcrumb-active-color:           #fb5a29;
+
+$product-deals-link-hover-color:    #fb5a29;
+$product-icon-color:                #fb5a29;
+$product-icon-bg-hover-color:       #fb5a29;
+$product-label-new-bg:              #fb5a29;
+$product-label-special-bg:          #fb5a29;
+$button-addtocart-bg-hover:         #fb5a29;
+$button-addtocart-border-2:         #fb5a29;
+$product-name-hover-color:          #fb5a29;
+
+$megamenu-link-hover-color:         #fb5a29;
+$megamenu-name-hover-color:         #fb5a29;
+$megamenu-sub-link-hover-color:     #fb5a29;
+
+
+$vertical-menu-link-hover-color:    #fb5a29;
+$vertical-menu-link-hover:          #fb5a29;
+
+$footer-top-color-hover:			#fb5a29;
+$footer-center-color-hover:			#fb5a29;
+$footer-bottom-color-hover:			#fb5a29;
+$footer-nav-color-hover:			#fb5a29;
+$power-link-color:                  #fb5a29;
+
+$image-theme-base-path: "../../../img/orange/";
+
+@import "../_skin";
+
+
+#cart{        
+    .title-cart{
+        &:before{
+            background: url("#{$image-theme-base-path}icon-shopping-cart.png") no-repeat center center $cart-icon-bg;
+        }
+    }
+}
+.bannercontainer .tp-bullets.simplebullets.round .bullet {
+	background: url("#{$image-theme-base-path}bullet.png") no-repeat top left;
+}
+.bannercontainer .tp-leftarrow.default{
+	background: url("#{$image-theme-base-path}large_left.png") no-repeat 0 0;
+}
+.bannercontainer .tp-rightarrow.default{
+	background: url("#{$image-theme-base-path}large_right.png") no-repeat 0 0;
+}

@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'NewsletterProCross';
+	src:url('../fonts/NewsletterProCross.eot?16bmba');
+	src:url('../fonts/NewsletterProCross.eot?#iefix16bmba') format('embedded-opentype'),
+		url('../fonts/NewsletterProCross.woff?16bmba') format('woff'),
+		url('../fonts/NewsletterProCross.ttf?16bmba') format('truetype'),
+		url('../fonts/NewsletterProCross.svg?16bmba#NewsletterProCross') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="np-icon-"], [class*=" np-icon-"] {
+	font-family: 'NewsletterProCross';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.np-icon-cross_1:before {
+	content: "\e600";
+}
+
+.np-icon-cross_2:before {
+	content: "\e601";
+}
+
+.np-icon-cross_3:before {
+	content: "\e602";
+}
+
+.np-icon-cross_4:before {
+	content: "\e603";
+}
+
+.np-icon-cross_5:before {
+	content: "\e604";
+}
+
+.np-icon-cross:before {
+	content: "\ea0f";
+}
+

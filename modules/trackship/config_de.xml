@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>trackship</name>
+	<displayName><![CDATA[Tracking shipping]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Tracking of order shipping by multiple tracking numbers. ]]></description>
+	<author><![CDATA[NSWEB]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

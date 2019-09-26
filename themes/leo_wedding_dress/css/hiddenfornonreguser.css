@@ -1,0 +1,9 @@
+#footer .item_0_3,
+#footer .item_0_5,
+#footer .item_0_7{
+	display: none !important;
+}
+
+#footer .item:first-child{
+	margin-left: 24px !important;
+}

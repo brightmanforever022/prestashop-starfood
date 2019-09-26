@@ -1,0 +1,65 @@
+.carousel{
+	.carousel-inner {
+		background: $white;
+	}
+}
+.carousel-control{
+	margin: 0;
+	position: absolute;
+	top:36%;
+	padding: 0;
+	width: 34px;
+	height: 34px;
+	font-size: 0px;
+	line-height: 0;
+	@include opacity(0);
+	@include border-radius(0);
+	text-align: center;
+	background-color: #333;
+	&:before {
+	    position: absolute;
+	    content: "\f104";
+	    font-family: $font-icon;
+	    top: 50%;
+	    left: 0px;
+	    right: 0px;
+	    text-align: center;
+	    color: $white;
+	    font-size: 20px;
+	}
+	&.left {
+		left:0px;
+		left: auto;
+	}
+	&.right {
+		right:0px;
+		&:before {
+			content: "\f105";
+		}
+	}
+}
+
+.radio, .checkbox {@include rtl-padding-left(20px);}
+.radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+  @include rtl-float-left();
+  @include rtl-margin-left(-20px);
+}
+.radio-inline, .checkbox-inline {@include rtl-padding-left(20px);}
+.radio-inline + .radio-inline,
+.checkbox-inline + .checkbox-inline {
+  @include rtl-margin-left(10px);
+}
+.contact-form-box textarea#message.form-control {
+	min-height: 253px;
+}
+//@mixin button-variant-outline($color, $background, $border, $colorhover, $bghover, $borderhover ) {
+.btn-outline-inverse{
+	@include button-variant-outline($text-color, $theme-color-default, $theme-color-default, $text-color, $nocolor , $border-color );
+} 
+.btn-outline{
+ 	@include button-variant-outline($text-color, $white , $border-color , $white, $theme-color-default, $theme-color-default );
+ 	background-color:#ebebeb;
+}

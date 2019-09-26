@@ -1,0 +1,210 @@
+// product-item.scss
+
+@import "vars/product-item.vars"; 
+
+/* product style */
+.product-block{ 
+    position: relative;
+    overflow: hidden; 
+    margin: 0;
+    text-align: center;
+    @include box-sizing(border-box);    
+    .product-meta{        
+        position: relative;
+        background: #fff;
+    }
+    // rating  
+    .nb-comments{
+        display: none;
+    }
+    .star_content{
+        display: inline-block;
+    }
+    .product-rating, .norating { 
+        font-size: $product-rating-font-size;
+        margin: 6px 0;
+        height: 15px;
+        line-height: 15px;
+    }
+
+	// price
+    .content_price{
+
+    }
+	.price-old, .old-price {
+		color: $product-price-old-color;
+		text-decoration: line-through;   
+        font-size: $font-size-base;  
+        display: inline-block;  
+	}
+    .price{
+        color: $product-price-color;
+        font-family: $product-price-font-family;
+        font-size: $product-price-font-size - 1;
+        display: inline-block;
+    }
+
+	.price-percent-reduction{
+	    background: $product-price-reduction-bg;   
+	    color: $white;
+	    padding: 3px 5px;
+        display: none;
+	}
+	 
+	// desc
+    .product-desc{
+        display: none;
+        overflow: hidden;
+        clear: both;
+    }
+
+	// title name
+    .name{ 
+        margin: 5px 0;
+        a {
+            color: $product-name-color;
+            font-size: $product-name-font-size - 1;
+            font-family: $product-name-font-family; 
+            line-height: 18px;
+            overflow: hidden;       
+            text-decoration: none; 
+            @include inline-block();                                       
+            &:hover{
+                color: $product-name-hover-color;
+            }
+        }
+    }
+   
+	// image
+    .image{
+        position: relative;     
+        overflow: hidden;
+        text-align: center;
+        background: $white;
+        margin-bottom: 10px;
+        @include rounded-corners ($product-image-radius); 
+        img {display: inline;}
+    }
+
+    .product-additional{
+        position: absolute;
+        top: 0px;
+        visibility: hidden;
+        left: 0;
+        right: 0;
+        @include opacity(0);
+        @include transition(all 0.5s ease 0s);
+    } 
+    .left-block{position: relative;}
+     // button
+    .content-buttons{
+        width: 100%; 
+        @include transition(all ease 0.5s);   
+        text-align: center;
+        position: absolute;
+        visibility: hidden;
+        @include opacity(0);
+        left: 0;
+        bottom: 37%;
+        .btn{                 
+            @include box-sizing(border-box);
+            border-color: $button-icon-border;
+            color: $button-icon-color;
+            height: 36px;
+            width: 36px;
+            line-height: 36px;
+            padding:0px;
+            text-align: center;
+            background-color: rgba(0,0,0,0.6);
+            &:hover{
+                    background: $button-icon-bg-hover;
+                    color: $button-icon-color-hover;
+                    border-color: $button-icon-border-hover;
+            }
+            .fa {
+                font-size: $font-size-base + 2;
+            }
+            span{
+                display: none;
+            }
+        }
+        
+        > div{ 
+            display: inline-block;
+            @include transition(all ease 0.5s);  
+            margin: 0 2px;
+        }
+    } 
+
+    // button-cart
+    .functional-buttons {
+        .button {
+            color: $button-addtocart-color;
+            background: $button-addtocart-bg;
+            text-transform: uppercase;
+            &:hover{
+                background: $button-addtocart-bg-hover;
+                color: $button-addtocart-color-hover;
+                border-color: $button-addtocart-border-hover;
+            }
+        }
+        .btn {padding: 4px 12px;}
+        .fa {
+            @include rtl-margin-right(5px);
+        }
+    }
+
+    // hover
+    &:hover {	 
+        .product-additional{
+            visibility: visible;
+            @include opacity(1);
+        }     
+        .content-buttons{
+            bottom: 40%;
+            visibility: visible;
+            @include transition(all ease 0.5s);   
+            @include opacity(1);
+        }
+    }
+    .product-flags{@include rtl-float-left();}
+    .availability{} 
+    .online_only{}
+    .discount{}
+
+    // button 
+}
+
+// label
+.label {
+    font-size: $font-size-base; 
+    font-weight: normal; 
+    @include border-radius(0);
+    &.labelnew {
+        left: -2px;
+        background-position: 0 0;
+    }
+    &.labelsale {
+        right: -2px;
+        left: auto;
+        background-position: -60px 0;
+    }
+}
+.labelnew, .labelsale {
+    padding:6px 10px 5px 10px;
+    top: -2px;
+    position: absolute;
+    font-size: 10px;
+    text-transform: uppercase;
+    background-color:#333;
+    color: #fff;
+}
+.labelnew{
+    @include rtl-left(5px);
+    color: #fff;
+}  
+.labelsale{
+    @include rtl-right(5px);
+    color: #fff;
+}
+.label-discount {position: absolute; top: 5px; right: 15px;}

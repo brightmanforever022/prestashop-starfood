@@ -1,0 +1,30 @@
+#languages-block-top a{
+    color: #bab3b3;
+}
+
+#languages-block-top{
+    color: #333;
+}
+
+#languages-block-top li{
+    float: left;
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+#languages-block-top li,  #languages-block-top li a{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 25px;
+    font-family: "Open Sans",sans-serif;
+}
+
+#first-languages{
+    margin-top: 23px;
+}
+
+@media (max-width: 991px){
+    #first-languages{
+    margin-top: -40px;
+    }
+}

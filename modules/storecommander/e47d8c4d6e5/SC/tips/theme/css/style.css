@@ -1,0 +1,115 @@
+#app_tips {
+color: black;
+background: #FDFEFF;
+height : 100%;
+margin : auto;
+font-family: Verdana, "helvetica neue", helvetica, arial, sans-serif;
+}
+#app_tips #content {
+margin : auto;
+width: 100%;
+}
+#app_tips #conteneur{
+background: #FDFEFF;
+color: #000000;
+font-family: Verdana, "helvetica neue", helvetica, arial, sans-serif;
+padding: 2px;
+margin : auto;
+list-style: none;
+}
+#app_tips #header{
+height: 60px;
+padding: 4px;
+}
+#app_tips #name{
+font-family: Verdana, "helvetica neue", helvetica, arial, sans-serif;
+width : 70%;
+height: 80px;
+margin: auto;
+text-align: center;
+}
+#app_tips #intro{
+width: 96%;
+text-align: justify;
+margin: 0px 5px 0px 5px;
+font-size: 14px;
+height: 95px;
+}
+
+#app_tips #intro a{
+text-decoration: underline;
+}
+
+#app_tips hr {
+width: 100%;
+background: #A6D2FF;
+height:2px;
+}
+#app_tips #photo{
+background-color : white;
+width: 520px;
+height: 320px;
+border: 3px solid #a8b9d0;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4), 1px 1px 3px #333;
+-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4), 1px 1px 3px #333;
+color: #fff;
+font-family: Verdana, "helvetica neue", helvetica, arial, sans-serif;
+text-align: center;
+margin: auto;
+}
+#app_tips #notice p{
+	text-align:center;
+	font-size:11px;
+}
+#app_tips #conclusion{
+width: 80%;
+margin: 0px 5px 0px 0px;
+font-size: 14px;
+text-align : justify;
+}
+#app_tips #video{
+font-size: 14px;
+display: inline-block;
+margin-right: 10px;
+}
+#app_tips #preference{
+display: inline-block;
+width: 100%;
+text-align: left;
+font-size: 14px;
+}
+
+#app_tips #preference a{
+text-decoration:underline;
+}
+
+/*#app_tips #footer{
+height: 70px;
+padding: 4px;
+display: inline-block;
+}*/
+#app_tips a, #app_tips a:visited, #app_tips a:active, #app_tips a:focus {
+text-decoration:none;
+color: black;
+}
+#app_tips ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+   }
+#app_tips #arrow_button_left {
+float:left;
+margin-top: 145px;
+margin-left: 80px;
+display : block;
+}
+#app_tips #arrow_button_right {
+float:right;
+margin-top: 145px;
+margin-right: 80px;
+display : block;
+}

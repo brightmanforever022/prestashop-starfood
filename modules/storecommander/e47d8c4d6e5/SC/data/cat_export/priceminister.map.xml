@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping><field><id><![CDATA[1299804348389]]></id><used><![CDATA[1]]></used><name><![CDATA[reference]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+<field><id><![CDATA[1299804350325]]></id><used><![CDATA[1]]></used><name><![CDATA[priceinctax]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+<field><id><![CDATA[1299804559498]]></id><used><![CDATA[1]]></used><name><![CDATA[_fixed_value]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[N]]></modifications></field>
+<field><id><![CDATA[1299804350581]]></id><used><![CDATA[1]]></used><name><![CDATA[quantity]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+<field><id><![CDATA[1299804351165]]></id><used><![CDATA[1]]></used><name><![CDATA[_fixed_value]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+<field><id><![CDATA[1299804592042]]></id><used><![CDATA[1]]></used><name><![CDATA[_fixed_value]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+<field><id><![CDATA[1299804351413]]></id><used><![CDATA[1]]></used><name><![CDATA[reference]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+<field><id><![CDATA[1299804614354]]></id><used><![CDATA[1]]></used><name><![CDATA[_fixed_value]]></name><options><![CDATA[]]></options><filters><![CDATA[]]></filters><modifications><![CDATA[]]></modifications></field>
+</mapping>
